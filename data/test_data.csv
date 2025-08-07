@@ -1,0 +1,2094 @@
+airline,source,destination,duration,total_stops,additional_info,dep_time_hour,dep_time_min,dtoj_day,dtoj_month,dtoj_year,price
+Multiple Carriers,delhi,cochin,930,1,no info,10,0,21,5,2019,7888
+Spicejet,delhi,cochin,380,1,no info,15,45,24,6,2019,5583
+Jet Airways,kolkata,banglore,890,1,no info,21,10,9,6,2019,14571
+Jet Airways,delhi,cochin,1015,1,in-flight meal not included,11,30,6,3,2019,13843
+Indigo,delhi,cochin,455,1,no info,8,35,21,3,2019,6790
+Jet Airways,kolkata,banglore,840,1,no info,9,35,1,5,2019,13067
+Indigo,chennai,kolkata,145,0,no info,14,40,15,3,2019,6297
+Air India,delhi,cochin,735,1,no info,7,0,1,6,2019,9929
+Jet Airways,delhi,cochin,745,1,in-flight meal not included,16,0,24,6,2019,10262
+Multiple Carriers,delhi,cochin,455,1,no info,14,55,9,6,2019,6723
+Vistara,kolkata,banglore,1350,1,no info,20,20,24,5,2019,9345
+Goair,banglore,delhi,170,0,no info,11,40,21,6,2019,3398
+Air India,banglore,new delhi,165,0,no info,10,0,15,3,2019,7276
+Multiple Carriers,delhi,cochin,760,1,no info,12,50,9,6,2019,6795
+Jet Airways,delhi,cochin,825,1,in-flight meal not included,22,50,1,6,2019,10262
+Indigo,mumbai,hyderabad,90,0,no info,9,15,18,6,2019,4049
+Air India,banglore,new delhi,1480,3,no info,17,25,12,3,2019,13387
+Indigo,chennai,kolkata,145,0,no info,11,35,6,6,2019,3858
+Jet Airways,delhi,cochin,505,2,no info,20,0,24,6,2019,14300
+Indigo,chennai,kolkata,145,0,no info,5,15,12,5,2019,3540
+Jet Airways,kolkata,banglore,735,1,in-flight meal not included,20,0,15,5,2019,8586
+Air India,delhi,cochin,170,0,no info,5,10,6,4,2019,4729
+Air India,delhi,cochin,170,0,no info,5,10,3,3,2019,7931
+Air Asia,banglore,delhi,165,0,no info,11,10,24,5,2019,3383
+Jet Airways,delhi,cochin,1365,2,no info,5,40,21,3,2019,11543
+Jet Airways,banglore,delhi,180,0,in-flight meal not included,7,10,18,6,2019,5769
+Jet Airways,delhi,cochin,825,1,in-flight meal not included,22,50,9,6,2019,10262
+Jet Airways,kolkata,banglore,590,1,no info,8,25,9,5,2019,14781
+Jet Airways,delhi,cochin,1105,1,in-flight meal not included,10,0,24,6,2019,10262
+Indigo,delhi,cochin,665,1,no info,5,5,27,4,2019,6171
+Vistara,kolkata,banglore,945,1,no info,7,10,1,4,2019,8295
+Jet Airways,kolkata,banglore,1500,1,no info,17,0,21,5,2019,14151
+Indigo,mumbai,hyderabad,90,0,no info,16,55,15,6,2019,3175
+Jet Airways,kolkata,banglore,1295,1,no info,20,25,9,6,2019,13401
+Indigo,delhi,cochin,490,1,no info,14,20,9,5,2019,6704
+Multiple Carriers,delhi,cochin,725,1,no info,8,55,27,3,2019,8055
+Jet Airways,kolkata,banglore,1025,1,in-flight meal not included,18,55,18,5,2019,10844
+Jet Airways,delhi,cochin,1380,2,in-flight meal not included,5,25,6,3,2019,16389
+Multiple Carriers,delhi,cochin,560,1,no info,11,40,1,6,2019,7740
+Multiple Carriers,delhi,cochin,375,1,no info,7,5,21,3,2019,14486
+Jet Airways,banglore,new delhi,1050,1,1 long layover,16,55,1,3,2019,25735
+Indigo,delhi,cochin,305,1,no info,20,25,3,4,2019,5073
+Multiple Carriers,delhi,cochin,480,1,no info,13,0,6,3,2019,15603
+Jet Airways,kolkata,banglore,1200,1,no info,14,5,12,6,2019,13044
+Indigo,delhi,cochin,860,1,no info,6,40,3,6,2019,6093
+Air India,delhi,cochin,1580,2,no info,7,5,15,5,2019,10975
+Indigo,banglore,new delhi,170,0,no info,10,10,15,3,2019,6144
+Jet Airways,delhi,cochin,715,1,in-flight meal not included,7,5,27,5,2019,12898
+Spicejet,mumbai,hyderabad,90,0,no info,13,15,27,6,2019,2017
+Indigo,delhi,cochin,345,1,no info,21,50,6,6,2019,6195
+Spicejet,kolkata,banglore,150,0,no info,17,10,9,6,2019,4174
+Air India,kolkata,banglore,1385,2,no info,9,50,6,5,2019,13227
+Multiple Carriers,delhi,cochin,435,1,no info,18,15,21,5,2019,14067
+Jet Airways,delhi,cochin,1505,1,in-flight meal not included,11,30,24,6,2019,10262
+Air India,kolkata,banglore,1185,2,no info,16,45,12,6,2019,14960
+Jet Airways,kolkata,banglore,395,1,in-flight meal not included,17,0,1,5,2019,12384
+Jet Airways,kolkata,banglore,730,1,no info,21,10,1,4,2019,13364
+Jet Airways,delhi,cochin,1090,2,no info,18,25,12,6,2019,14237
+Air India,delhi,cochin,1730,2,no info,14,25,27,5,2019,13381
+Jet Airways,delhi,cochin,620,1,no info,2,15,1,6,2019,14714
+Indigo,chennai,kolkata,140,0,no info,7,55,18,3,2019,3850
+Air Asia,delhi,cochin,340,1,no info,16,45,27,4,2019,6451
+Jet Airways,delhi,cochin,655,1,no info,17,30,1,6,2019,14714
+Air Asia,kolkata,banglore,720,1,no info,22,40,1,5,2019,5192
+Jet Airways,delhi,cochin,505,2,no info,20,0,18,5,2019,16263
+Air Asia,delhi,cochin,660,1,no info,20,10,9,3,2019,8327
+Goair,banglore,delhi,170,0,no info,11,40,18,5,2019,4340
+Indigo,mumbai,hyderabad,90,0,no info,6,25,12,6,2019,4049
+Jet Airways,kolkata,banglore,1605,1,in-flight meal not included,16,55,24,3,2019,11134
+Goair,banglore,delhi,175,0,no info,7,45,6,4,2019,4632
+Vistara,kolkata,banglore,790,1,no info,7,10,6,5,2019,8610
+Multiple Carriers,delhi,cochin,835,1,no info,7,5,9,6,2019,13587
+Jet Airways,kolkata,banglore,1025,1,no info,6,30,6,6,2019,14571
+Air India,delhi,cochin,170,0,no info,5,10,12,5,2019,6094
+Air Asia,delhi,cochin,625,1,no info,20,45,27,4,2019,6451
+Air Asia,kolkata,banglore,150,0,no info,22,50,18,4,2019,4409
+Air Asia,kolkata,banglore,220,1,no info,6,50,9,6,2019,6857
+Jet Airways,kolkata,banglore,890,1,in-flight meal not included,21,10,21,5,2019,10844
+Air India,delhi,cochin,1275,2,no info,22,0,9,6,2019,10441
+Jet Airways,delhi,cochin,1490,2,no info,11,45,27,6,2019,13882
+Jet Airways,banglore,new delhi,725,1,no info,21,25,12,3,2019,13817
+Air India,delhi,cochin,2280,3,no info,5,15,27,5,2019,10493
+Air India,delhi,cochin,1420,2,no info,9,45,9,3,2019,10660
+Air India,mumbai,hyderabad,80,0,no info,21,5,3,5,2019,3100
+Jet Airways,mumbai,hyderabad,85,0,no info,2,55,24,5,2019,5678
+Jet Airways,banglore,delhi,180,0,in-flight meal not included,17,45,3,6,2019,6478
+Multiple Carriers,delhi,cochin,660,1,no info,10,0,12,6,2019,13587
+Spicejet,kolkata,banglore,150,0,no info,17,15,27,3,2019,3847
+Indigo,banglore,new delhi,170,0,no info,16,55,21,3,2019,6860
+Jet Airways,kolkata,banglore,1075,1,no info,17,0,1,5,2019,12121
+Jet Airways,banglore,delhi,180,0,in-flight meal not included,8,20,24,6,2019,5769
+Jet Airways,delhi,cochin,1395,1,in-flight meal not included,19,45,27,5,2019,12898
+Air India,kolkata,banglore,1620,2,no info,7,0,24,3,2019,11491
+Spicejet,kolkata,banglore,140,0,no info,22,20,9,3,2019,4622
+Indigo,mumbai,hyderabad,90,0,no info,2,35,1,6,2019,3175
+Indigo,banglore,delhi,170,0,no info,20,0,9,6,2019,4823
+Spicejet,kolkata,banglore,145,0,no check-in baggage included,9,0,9,5,2019,3841
+Jet Airways,banglore,delhi,180,0,no info,19,50,6,4,2019,7229
+Spicejet,delhi,cochin,310,1,no info,6,10,6,3,2019,9748
+Multiple Carriers,delhi,cochin,390,1,no info,19,0,12,6,2019,6795
+Jet Airways,mumbai,hyderabad,90,0,no info,19,35,24,5,2019,5678
+Multiple Carriers,delhi,cochin,390,1,no info,19,0,9,6,2019,7408
+Indigo,delhi,cochin,415,1,no info,18,35,6,6,2019,6628
+Multiple Carriers,delhi,cochin,625,2,no info,15,5,1,6,2019,18275
+Jet Airways,banglore,delhi,165,0,no info,6,0,15,4,2019,7229
+Jet Airways,kolkata,banglore,345,1,no info,14,5,24,5,2019,14571
+Vistara,kolkata,banglore,1550,1,no info,17,0,1,4,2019,8610
+Indigo,delhi,cochin,400,1,no info,6,40,6,3,2019,14871
+Indigo,banglore,delhi,165,0,no info,6,5,18,4,2019,4591
+Multiple Carriers,delhi,cochin,720,1,no info,9,0,3,6,2019,8930
+Jet Airways,delhi,cochin,810,2,in-flight meal not included,5,30,27,5,2019,13029
+Jet Airways,delhi,cochin,865,1,in-flight meal not included,14,0,27,5,2019,12898
+Vistara,kolkata,banglore,1645,1,no info,17,0,24,3,2019,12102
+Indigo,delhi,cochin,345,1,no info,2,0,24,6,2019,6016
+Jet Airways,kolkata,banglore,845,1,no info,5,45,18,5,2019,14781
+Multiple Carriers,delhi,cochin,925,1,no info,7,5,9,5,2019,8310
+Jet Airways,delhi,cochin,1430,2,no info,19,10,24,6,2019,12819
+Jet Airways,delhi,cochin,1005,1,no info,2,15,6,6,2019,14714
+Vistara,kolkata,banglore,1555,1,no info,7,10,6,5,2019,8137
+Air India,kolkata,banglore,725,2,no info,8,20,18,5,2019,12534
+Vistara,banglore,delhi,155,0,no info,17,0,18,5,2019,4878
+Spicejet,kolkata,banglore,150,0,no check-in baggage included,17,10,12,4,2019,3841
+Vistara,delhi,cochin,190,0,no info,14,40,27,6,2019,6216
+Indigo,delhi,cochin,675,1,no info,4,55,3,3,2019,8513
+Air India,banglore,new delhi,1675,1,no info,6,55,15,3,2019,7932
+Air India,mumbai,hyderabad,90,0,no info,13,55,27,6,2019,3100
+Indigo,delhi,cochin,425,1,no info,4,55,27,3,2019,6171
+Spicejet,kolkata,banglore,150,0,no info,17,10,21,4,2019,4911
+Air India,mumbai,hyderabad,880,1,no info,5,55,12,3,2019,6901
+Multiple Carriers,delhi,cochin,630,1,no info,8,30,1,5,2019,9627
+Air India,delhi,cochin,1820,2,no info,12,55,15,5,2019,13486
+Jet Airways,banglore,delhi,180,0,no info,7,10,12,6,2019,8016
+Air India,kolkata,banglore,155,0,no info,20,45,1,4,2019,4460
+Jet Airways,kolkata,banglore,1495,1,in-flight meal not included,8,25,1,5,2019,9663
+Jet Airways,kolkata,banglore,1025,1,in-flight meal not included,18,55,15,5,2019,10844
+Vistara,banglore,delhi,170,0,no info,9,45,6,6,2019,4668
+Indigo,banglore,delhi,170,0,no info,4,0,3,5,2019,3943
+Jet Airways,delhi,cochin,300,1,in-flight meal not included,14,0,27,6,2019,10262
+Jet Airways,delhi,cochin,1325,1,in-flight meal not included,20,55,9,6,2019,10577
+Jet Airways,delhi,cochin,1165,1,no info,9,0,27,3,2019,12242
+Air India,kolkata,banglore,150,0,no info,14,15,18,6,2019,5510
+Jet Airways,kolkata,banglore,575,1,in-flight meal not included,9,35,1,5,2019,9314
+Jet Airways,delhi,cochin,660,1,in-flight meal not included,8,0,6,4,2019,5406
+Indigo,delhi,cochin,320,1,no info,6,50,15,5,2019,5298
+Jet Airways,kolkata,banglore,395,1,in-flight meal not included,17,0,6,6,2019,13469
+Air India,banglore,new delhi,1490,1,no info,10,30,9,3,2019,10321
+Vistara,kolkata,banglore,765,1,no info,20,20,1,5,2019,8452
+Jet Airways,kolkata,banglore,520,1,no info,20,0,24,5,2019,13731
+Jet Airways,delhi,cochin,1570,1,no info,2,15,6,3,2019,17024
+Multiple Carriers,delhi,cochin,735,1,no info,7,30,9,3,2019,12615
+Jet Airways,kolkata,banglore,800,1,no info,18,55,9,6,2019,14939
+Indigo,mumbai,hyderabad,85,0,no info,12,0,1,3,2019,12475
+Jet Airways,banglore,new delhi,670,1,no info,8,0,6,3,2019,16736
+Jet Airways,delhi,cochin,1655,1,in-flight meal not included,9,0,1,6,2019,10262
+Multiple Carriers,delhi,cochin,900,1,no info,6,0,27,3,2019,8055
+Indigo,kolkata,banglore,155,0,no info,22,15,1,6,2019,4804
+Indigo,delhi,cochin,845,1,no info,11,25,27,5,2019,6104
+Spicejet,mumbai,hyderabad,80,0,no info,5,45,21,3,2019,3173
+Air India,kolkata,banglore,545,1,no info,9,25,18,5,2019,8576
+Jet Airways,kolkata,banglore,865,1,in-flight meal not included,18,55,18,5,2019,9663
+Indigo,banglore,delhi,170,0,no info,13,0,27,4,2019,4423
+Air India,kolkata,banglore,925,1,no info,17,30,1,4,2019,7893
+Multiple Carriers,delhi,cochin,555,1,in-flight meal not included,10,0,21,3,2019,8401
+Jet Airways,delhi,cochin,335,1,no info,22,50,27,6,2019,16079
+Indigo,delhi,cochin,505,1,no info,4,55,6,4,2019,5307
+Multiple Carriers,delhi,cochin,910,1,no info,7,10,27,3,2019,6145
+Jet Airways,kolkata,banglore,1155,1,in-flight meal not included,14,5,6,5,2019,9663
+Jet Airways,delhi,cochin,805,1,in-flight meal not included,15,0,18,5,2019,12373
+Spicejet,chennai,kolkata,140,0,no check-in baggage included,17,45,27,3,2019,3332
+Jet Airways,delhi,cochin,1325,2,in-flight meal not included,6,20,27,3,2019,9296
+Air India,mumbai,hyderabad,5,2,no info,16,50,6,3,2019,17327
+Indigo,banglore,new delhi,170,0,no info,22,20,9,3,2019,6144
+Jet Airways,delhi,cochin,1610,1,no info,16,0,3,3,2019,17234
+Multiple Carriers,delhi,cochin,730,1,no info,7,5,21,3,2019,13378
+Indigo,kolkata,banglore,165,0,no info,20,25,15,6,2019,4804
+Air India,banglore,new delhi,165,0,no info,6,10,3,3,2019,7591
+Jet Airways,kolkata,banglore,1285,1,no info,18,55,12,6,2019,13044
+Air India,delhi,cochin,1410,2,no info,19,45,27,5,2019,10441
+Air India,delhi,cochin,435,2,no info,12,0,24,6,2019,9548
+Air India,banglore,new delhi,1600,2,2 long layover,6,45,1,3,2019,26480
+Air India,mumbai,hyderabad,80,0,no info,6,20,24,3,2019,2575
+Multiple Carriers,delhi,cochin,390,1,no info,19,0,1,6,2019,7530
+Vistara,kolkata,banglore,355,1,no info,17,0,24,3,2019,14360
+Jet Airways,banglore,delhi,180,0,in-flight meal not included,8,20,6,6,2019,6478
+Indigo,kolkata,banglore,165,0,no info,9,35,15,4,2019,4174
+Air India,delhi,cochin,1410,2,no info,19,45,9,6,2019,9968
+Jet Airways,kolkata,banglore,1540,1,no info,20,25,9,6,2019,12692
+Jet Airways,delhi,cochin,715,1,no info,7,5,3,6,2019,14924
+Indigo,kolkata,banglore,155,0,no info,15,30,9,6,2019,5224
+Jet Airways,delhi,cochin,660,1,no info,8,0,12,6,2019,14924
+Multiple Carriers,delhi,cochin,455,1,no info,11,40,21,3,2019,7531
+Jet Airways,banglore,delhi,175,0,in-flight meal not included,15,15,27,5,2019,3502
+Jet Airways,delhi,cochin,655,1,in-flight meal not included,17,30,15,6,2019,10262
+Jet Airways,kolkata,banglore,685,1,no info,8,25,12,6,2019,13626
+Vistara,banglore,new delhi,175,0,no info,21,10,9,3,2019,7240
+Jet Airways,banglore,delhi,180,0,no info,7,10,12,5,2019,7229
+Vistara,mumbai,hyderabad,435,1,no info,15,40,6,3,2019,12395
+Jet Airways,delhi,cochin,1620,2,in-flight meal not included,9,35,27,5,2019,12872
+Indigo,kolkata,banglore,155,0,no info,11,30,6,5,2019,5224
+Indigo,kolkata,banglore,160,0,no info,21,25,1,3,2019,4778
+Indigo,delhi,cochin,195,0,no info,21,5,12,5,2019,8626
+Jet Airways,mumbai,hyderabad,405,1,no info,9,50,12,3,2019,20120
+Air India,banglore,delhi,165,0,no info,10,0,12,4,2019,5911
+Jet Airways,kolkata,banglore,400,1,in-flight meal not included,14,5,15,5,2019,10844
+Air Asia,banglore,delhi,170,0,no info,23,55,18,4,2019,4483
+Indigo,delhi,cochin,860,1,no info,6,40,21,3,2019,8784
+Air India,delhi,cochin,570,1,no info,13,30,6,6,2019,8907
+Air India,delhi,cochin,1585,3,no info,5,15,1,6,2019,12383
+Spicejet,chennai,kolkata,135,0,no check-in baggage included,9,45,1,5,2019,3543
+Indigo,banglore,delhi,170,0,no info,23,30,12,5,2019,4591
+Jet Airways,delhi,cochin,1125,2,no info,9,40,9,5,2019,15129
+Multiple Carriers,delhi,cochin,755,1,no info,9,45,27,3,2019,6601
+Jet Airways,delhi,cochin,825,1,in-flight meal not included,22,50,1,4,2019,5177
+Jet Airways,delhi,cochin,1620,1,no info,16,0,6,6,2019,14714
+Indigo,banglore,delhi,170,0,no info,8,30,27,6,2019,4823
+Multiple Carriers,delhi,cochin,750,1,no info,13,0,27,5,2019,13377
+Multiple Carriers,delhi,cochin,665,1,no info,2,15,21,3,2019,13961
+Air India,delhi,cochin,735,1,no info,7,0,15,6,2019,9929
+Jet Airways,kolkata,banglore,800,1,in-flight meal not included,20,0,12,6,2019,8529
+Jet Airways,banglore,new delhi,730,1,in-flight meal not included,7,0,21,3,2019,7832
+Indigo,mumbai,hyderabad,90,0,no info,12,0,18,5,2019,2754
+Indigo,mumbai,hyderabad,90,0,no info,2,35,24,5,2019,3342
+Goair,delhi,cochin,350,1,no info,7,0,21,3,2019,9385
+Vistara,banglore,new delhi,155,0,no info,16,0,21,3,2019,5613
+Multiple Carriers,delhi,cochin,535,1,no info,10,20,15,6,2019,9526
+Indigo,kolkata,banglore,265,1,no info,19,20,9,4,2019,3574
+Air India,delhi,cochin,1335,1,no info,21,0,27,3,2019,6692
+Indigo,delhi,cochin,515,1,no info,7,35,15,4,2019,6442
+Jet Airways,kolkata,banglore,1495,1,in-flight meal not included,18,55,1,4,2019,7064
+Jet Airways,kolkata,banglore,1315,1,in-flight meal not included,14,5,6,5,2019,9663
+Air India,kolkata,banglore,1600,2,no info,9,50,9,6,2019,14960
+Spicejet,mumbai,hyderabad,90,0,no check-in baggage included,13,15,27,6,2019,1965
+Multiple Carriers,delhi,cochin,630,1,no info,8,30,18,5,2019,9205
+Spicejet,mumbai,hyderabad,90,0,no check-in baggage included,13,15,24,6,2019,1965
+Jet Airways,banglore,delhi,185,0,in-flight meal not included,18,55,15,6,2019,7229
+Indigo,kolkata,banglore,265,1,no info,19,20,18,5,2019,3717
+Spicejet,banglore,new delhi,475,1,no info,10,20,3,3,2019,11401
+Jet Airways,kolkata,banglore,1500,1,no info,17,0,1,5,2019,11467
+Indigo,kolkata,banglore,155,0,no info,15,10,18,3,2019,4462
+Jet Airways,kolkata,banglore,1730,1,in-flight meal not included,9,35,9,5,2019,9314
+Jet Airways,kolkata,banglore,860,2,in-flight meal not included,6,30,6,6,2019,10118
+Indigo,kolkata,banglore,165,0,no info,20,25,27,6,2019,4804
+Indigo,delhi,cochin,755,1,no info,8,25,27,3,2019,8285
+Indigo,delhi,cochin,570,1,no info,11,30,6,3,2019,14871
+Spicejet,kolkata,banglore,155,0,no check-in baggage included,6,55,24,5,2019,3841
+Jet Airways,mumbai,hyderabad,90,0,no info,10,20,21,6,2019,8040
+Jet Airways,kolkata,banglore,700,1,in-flight meal not included,6,30,24,3,2019,10031
+Jet Airways,kolkata,banglore,1400,1,no info,18,55,1,4,2019,12681
+Air Asia,delhi,cochin,340,1,no info,16,45,1,6,2019,11410
+Multiple Carriers,delhi,cochin,930,1,no info,10,0,15,6,2019,13377
+Jet Airways,delhi,cochin,1090,2,no info,18,25,1,6,2019,14237
+Indigo,banglore,new delhi,170,0,no info,13,0,3,3,2019,12649
+Jet Airways,delhi,cochin,535,2,in-flight meal not included,19,30,27,5,2019,13029
+Spicejet,chennai,kolkata,135,0,no check-in baggage included,9,45,12,5,2019,3543
+Multiple Carriers,delhi,cochin,470,1,no info,11,25,27,5,2019,8625
+Air India,delhi,cochin,1535,1,no info,5,15,1,6,2019,7480
+Indigo,delhi,cochin,490,1,no info,14,20,15,6,2019,6412
+Vistara,delhi,cochin,190,0,no info,6,0,24,4,2019,6216
+Air India,delhi,cochin,915,1,no info,4,0,9,3,2019,11050
+Jet Airways,kolkata,banglore,1545,1,in-flight meal not included,16,30,18,5,2019,10844
+Jet Airways,delhi,cochin,1615,2,in-flight meal not included,9,40,9,6,2019,10368
+Multiple Carriers,delhi,cochin,485,1,no info,17,30,6,3,2019,17057
+Indigo,delhi,cochin,780,1,no info,11,55,21,5,2019,6282
+Vistara,banglore,new delhi,915,1,no info,6,40,9,3,2019,10008
+Jet Airways,kolkata,banglore,865,1,in-flight meal not included,18,55,24,5,2019,10844
+Jet Airways,delhi,cochin,1375,2,no info,5,30,6,5,2019,15129
+Multiple Carriers,delhi,cochin,460,1,no info,4,55,18,5,2019,8882
+Indigo,chennai,kolkata,140,0,no info,7,55,15,5,2019,3850
+Jet Airways,delhi,cochin,195,0,no info,11,0,12,6,2019,9564
+Indigo,mumbai,hyderabad,85,0,no info,9,10,21,3,2019,4049
+Jet Airways,kolkata,banglore,1400,1,in-flight meal not included,18,55,15,5,2019,10844
+Spicejet,kolkata,banglore,435,1,no info,11,15,24,5,2019,9630
+Indigo,banglore,new delhi,295,1,no info,16,55,18,3,2019,4049
+Jet Airways,kolkata,banglore,1495,2,in-flight meal not included,6,30,6,6,2019,10118
+Air India,delhi,cochin,1545,2,no info,5,55,9,3,2019,14483
+Indigo,banglore,delhi,170,0,no info,10,10,12,6,2019,3943
+Indigo,mumbai,hyderabad,85,0,no info,6,20,21,3,2019,4049
+Air India,mumbai,hyderabad,80,0,no info,21,5,6,3,2019,5462
+Jet Airways,delhi,cochin,1390,2,no info,13,25,27,6,2019,15339
+Jet Airways,banglore,delhi,185,0,no info,18,55,12,6,2019,8016
+Jet Airways,delhi,cochin,885,1,in-flight meal not included,21,50,18,5,2019,12373
+Jet Airways,delhi,cochin,1620,2,no info,9,35,24,6,2019,12609
+Jet Airways,delhi,cochin,2245,2,no info,6,20,27,3,2019,12273
+Jet Airways,kolkata,banglore,1545,1,in-flight meal not included,16,30,12,6,2019,8529
+Jet Airways,banglore,delhi,180,0,in-flight meal not included,17,45,21,4,2019,4544
+Jet Airways,kolkata,banglore,945,1,no info,16,30,9,5,2019,13941
+Multiple Carriers,delhi,cochin,480,1,no info,13,0,18,5,2019,9385
+Jet Airways,kolkata,banglore,960,1,in-flight meal not included,20,0,9,6,2019,10844
+Vistara,banglore,new delhi,160,0,no info,19,40,3,3,2019,8553
+Air India,delhi,cochin,1275,2,no info,22,0,1,6,2019,10861
+Air India,banglore,new delhi,1520,1,no info,22,0,15,3,2019,6850
+Indigo,chennai,kolkata,145,0,no info,11,35,18,6,2019,3858
+Indigo,delhi,cochin,575,1,no info,16,0,27,3,2019,7048
+Jet Airways,kolkata,banglore,1695,1,in-flight meal not included,16,30,12,6,2019,8529
+Jet Airways,kolkata,banglore,1005,1,no info,17,0,12,6,2019,12692
+Air India,kolkata,banglore,155,0,no info,20,45,15,5,2019,4145
+Spicejet,chennai,kolkata,140,0,no check-in baggage included,17,45,18,5,2019,3543
+Spicejet,kolkata,banglore,140,0,no info,22,20,18,3,2019,3847
+Goair,banglore,delhi,165,0,no info,20,55,6,4,2019,3419
+Jet Airways,kolkata,banglore,1685,1,no info,17,0,21,5,2019,14151
+Multiple Carriers,delhi,cochin,570,1,no info,16,0,6,6,2019,13377
+Jet Airways,delhi,cochin,1760,2,no info,23,5,27,5,2019,15129
+Jet Airways,mumbai,hyderabad,85,0,in-flight meal not included,2,55,21,6,2019,4995
+Air India,delhi,cochin,1010,1,no info,6,10,21,4,2019,7174
+Jet Airways,delhi,cochin,335,1,no info,22,50,9,6,2019,14714
+Air India,kolkata,banglore,920,2,no info,10,0,6,5,2019,13873
+Jet Airways,banglore,new delhi,1310,1,no info,11,40,6,3,2019,17261
+Jet Airways,kolkata,banglore,1495,1,in-flight meal not included,8,25,12,5,2019,9663
+Indigo,delhi,cochin,630,1,no info,15,0,9,6,2019,6316
+Indigo,kolkata,banglore,295,1,no info,9,20,1,5,2019,8443
+Spicejet,mumbai,hyderabad,80,0,no info,5,45,1,3,2019,12475
+Multiple Carriers,delhi,cochin,780,1,no info,8,0,9,3,2019,16023
+Jet Airways,delhi,cochin,440,2,in-flight meal not included,11,40,3,6,2019,15812
+Air Asia,banglore,delhi,170,0,no info,4,55,18,5,2019,4282
+Indigo,kolkata,banglore,165,0,no info,20,25,18,6,2019,4804
+Jet Airways,kolkata,banglore,330,1,in-flight meal not included,6,30,24,5,2019,9663
+Air India,delhi,cochin,170,0,no info,5,10,9,5,2019,5201
+Jet Airways,banglore,new delhi,745,1,1 long layover,8,55,1,3,2019,27992
+Jet Airways,kolkata,banglore,1575,1,in-flight meal not included,14,5,12,6,2019,8529
+Indigo,kolkata,banglore,155,0,no info,17,15,3,4,2019,4174
+Multiple Carriers,delhi,cochin,690,1,no info,7,30,24,5,2019,10529
+Vistara,banglore,new delhi,160,0,no info,11,30,9,3,2019,9918
+Indigo,mumbai,hyderabad,90,0,no info,19,5,12,5,2019,2754
+Jet Airways,kolkata,banglore,735,1,in-flight meal not included,20,0,24,5,2019,8586
+Vistara,kolkata,banglore,975,1,no info,7,10,12,6,2019,8610
+Air India,delhi,cochin,1100,2,no info,13,20,21,5,2019,13538
+Jet Airways,kolkata,banglore,395,1,in-flight meal not included,17,0,6,5,2019,10703
+Jet Airways,kolkata,banglore,1745,1,no info,17,0,6,5,2019,11467
+Jet Airways,delhi,cochin,395,1,no info,21,50,21,5,2019,16079
+Jet Airways,delhi,cochin,360,1,in-flight meal not included,13,0,6,6,2019,10262
+Multiple Carriers,delhi,cochin,750,1,no info,13,0,15,6,2019,7198
+Indigo,delhi,cochin,570,1,no info,16,0,6,6,2019,6316
+Jet Airways,mumbai,hyderabad,90,0,no info,2,55,27,3,2019,5678
+Jet Airways,mumbai,hyderabad,90,0,in-flight meal not included,2,55,27,3,2019,1840
+Jet Airways,kolkata,banglore,1220,1,no info,20,0,1,4,2019,12681
+Jet Airways,banglore,new delhi,380,1,no info,8,55,1,3,2019,26890
+Jet Airways,banglore,new delhi,570,1,in-flight meal not included,5,45,15,3,2019,9134
+Jet Airways,delhi,cochin,535,2,no info,19,30,21,5,2019,15129
+Spicejet,kolkata,banglore,150,0,no check-in baggage included,17,10,27,4,2019,3841
+Air India,delhi,cochin,1560,2,no info,17,15,21,5,2019,11989
+Jet Airways,kolkata,banglore,1025,1,no info,6,30,9,6,2019,14571
+Multiple Carriers,delhi,cochin,890,1,no info,4,0,6,3,2019,13399
+Indigo,delhi,cochin,515,1,no info,7,35,27,3,2019,6442
+Jet Airways,banglore,delhi,185,0,no info,18,55,6,4,2019,7229
+Air Asia,kolkata,banglore,215,1,no info,19,55,6,6,2019,6857
+Vistara,chennai,kolkata,135,0,no info,7,5,15,3,2019,6627
+Indigo,banglore,delhi,170,0,no info,13,0,3,6,2019,3943
+Indigo,kolkata,banglore,155,0,no info,20,20,3,5,2019,4804
+Spicejet,chennai,kolkata,140,0,no check-in baggage included,17,45,27,5,2019,3543
+Multiple Carriers,delhi,cochin,750,1,no info,13,0,27,5,2019,7198
+Air Asia,kolkata,banglore,155,0,no info,10,20,12,6,2019,3807
+Jet Airways,delhi,cochin,2295,2,in-flight meal not included,5,30,6,3,2019,15864
+Multiple Carriers,delhi,cochin,570,1,no info,11,30,21,3,2019,13062
+Jet Airways,delhi,cochin,1250,1,in-flight meal not included,22,0,21,3,2019,6017
+Air India,banglore,delhi,170,0,no info,13,20,3,5,2019,6121
+Indigo,banglore,delhi,165,0,no info,1,30,21,4,2019,4591
+Air India,delhi,cochin,1590,1,no info,20,30,3,4,2019,5022
+Vistara,kolkata,banglore,970,1,no info,17,0,24,3,2019,13310
+Spicejet,kolkata,banglore,140,0,no info,22,20,18,4,2019,4174
+Indigo,delhi,cochin,835,1,no info,8,35,3,6,2019,6442
+Spicejet,banglore,new delhi,475,1,no info,10,20,9,3,2019,7294
+Multiple Carriers,delhi,cochin,840,1,no info,7,0,3,3,2019,15603
+Spicejet,banglore,delhi,175,0,no info,21,10,24,5,2019,3971
+Indigo,delhi,cochin,195,0,no info,5,35,6,3,2019,7673
+Indigo,delhi,cochin,380,1,no info,9,10,27,3,2019,10141
+Spicejet,kolkata,banglore,140,0,no check-in baggage included,22,20,9,4,2019,3841
+Indigo,kolkata,banglore,315,1,no info,21,0,6,5,2019,7252
+Vistara,banglore,delhi,155,0,no info,17,0,1,6,2019,4878
+Jet Airways,banglore,delhi,180,0,no info,7,10,1,4,2019,7229
+Jet Airways,kolkata,banglore,1155,1,no info,14,5,12,6,2019,13044
+Jet Airways,kolkata,banglore,685,1,no info,8,25,1,5,2019,14781
+Indigo,delhi,cochin,630,1,no info,15,0,3,6,2019,6104
+Indigo,kolkata,banglore,295,1,no info,9,20,12,6,2019,11160
+Multiple Carriers,delhi,cochin,645,1,no info,8,30,15,6,2019,8937
+Multiple Carriers,delhi,cochin,600,1,no info,9,0,15,5,2019,10197
+Jet Airways,delhi,cochin,1125,2,in-flight meal not included,9,40,9,5,2019,13029
+Indigo,delhi,cochin,295,1,no info,5,10,9,5,2019,6496
+Spicejet,kolkata,banglore,145,0,no check-in baggage included,9,0,21,6,2019,3841
+Air India,kolkata,banglore,1035,2,no info,20,30,1,5,2019,15164
+Goair,banglore,delhi,170,0,no info,11,40,24,5,2019,3398
+Jet Airways,delhi,cochin,715,1,no info,7,5,9,4,2019,17531
+Jet Airways,banglore,delhi,175,0,in-flight meal not included,11,10,24,4,2019,4544
+Jet Airways,delhi,cochin,550,1,in-flight meal not included,19,15,24,6,2019,10262
+Air India,banglore,delhi,170,0,no info,13,20,12,6,2019,6961
+Indigo,kolkata,banglore,155,0,no info,20,20,12,6,2019,4804
+Multiple Carriers,delhi,cochin,435,1,no info,18,15,27,6,2019,13377
+Goair,delhi,cochin,355,1,no info,7,0,15,6,2019,5281
+Indigo,delhi,cochin,500,1,no info,17,10,1,6,2019,6628
+Air Asia,banglore,delhi,170,0,no info,23,55,21,5,2019,3383
+Jet Airways,delhi,cochin,715,1,no info,7,5,9,5,2019,15554
+Multiple Carriers,delhi,cochin,455,1,no info,11,40,1,6,2019,10261
+Air India,banglore,delhi,170,0,no info,17,0,9,4,2019,5911
+Jet Airways,delhi,cochin,1380,2,no info,5,25,6,3,2019,16914
+Indigo,kolkata,banglore,150,0,no info,15,15,15,6,2019,4804
+Spicejet,chennai,kolkata,135,0,no info,8,20,15,3,2019,6300
+Jet Airways,delhi,cochin,195,0,in-flight meal not included,11,0,12,5,2019,7202
+Jet Airways,delhi,cochin,1390,2,no info,13,25,21,5,2019,15129
+Indigo,chennai,kolkata,140,0,no info,19,35,1,6,2019,3597
+Multiple Carriers,delhi,cochin,720,1,no info,9,0,18,5,2019,8073
+Jet Airways,kolkata,banglore,1730,1,no info,9,35,15,5,2019,11467
+Jet Airways,delhi,cochin,1425,1,in-flight meal not included,19,15,24,6,2019,10262
+Spicejet,kolkata,banglore,520,1,no info,8,35,12,6,2019,7189
+Multiple Carriers,delhi,cochin,725,1,no info,8,55,3,3,2019,15147
+Jet Airways,delhi,cochin,900,2,no info,13,25,9,5,2019,16704
+Multiple Carriers,delhi,cochin,735,1,no info,8,45,1,6,2019,7740
+Air India,kolkata,banglore,555,1,no info,7,0,15,5,2019,11936
+Multiple Carriers,delhi,cochin,665,1,no info,2,15,27,3,2019,12327
+Jet Airways,delhi,cochin,655,1,in-flight meal not included,17,30,18,5,2019,12373
+Jet Airways,kolkata,banglore,450,1,no info,21,10,1,4,2019,13364
+Air India,delhi,cochin,315,1,no info,17,45,9,3,2019,9064
+Spicejet,chennai,kolkata,135,0,no info,8,20,3,5,2019,3597
+Air India,delhi,cochin,1100,2,no info,13,20,9,5,2019,13538
+Jet Airways,delhi,cochin,560,2,no info,9,40,18,5,2019,15129
+Jet Airways,banglore,delhi,180,0,no info,8,20,12,4,2019,7229
+Jet Airways,mumbai,hyderabad,90,0,no info,10,20,6,3,2019,8040
+Jet Airways,kolkata,banglore,345,1,in-flight meal not included,14,5,24,5,2019,10844
+Air India,mumbai,hyderabad,780,1,no info,20,15,6,3,2019,9535
+Indigo,delhi,cochin,370,1,no info,16,10,21,3,2019,6528
+Air India,delhi,cochin,865,2,no info,17,15,27,3,2019,8367
+Air India,delhi,cochin,1275,2,no info,22,0,9,4,2019,8341
+Multiple Carriers,delhi,cochin,910,1,no info,9,45,21,5,2019,9486
+Indigo,delhi,cochin,750,1,no info,8,30,9,6,2019,6838
+Jet Airways,delhi,cochin,1195,2,no info,23,5,24,6,2019,12819
+Jet Airways,delhi,cochin,1015,1,in-flight meal not included,11,30,27,3,2019,6017
+Air India,banglore,new delhi,2025,2,no info,6,45,18,3,2019,10835
+Indigo,chennai,kolkata,140,0,no info,14,45,27,6,2019,3597
+Vistara,kolkata,banglore,900,1,no info,7,10,24,3,2019,12942
+Spicejet,mumbai,hyderabad,90,0,no info,22,45,15,6,2019,2017
+Multiple Carriers,delhi,cochin,660,1,no info,10,0,6,6,2019,7933
+Spicejet,kolkata,banglore,150,0,no check-in baggage included,14,55,1,6,2019,3841
+Jet Airways,kolkata,banglore,1080,1,no info,20,25,9,5,2019,11467
+Indigo,mumbai,hyderabad,90,0,no info,12,0,21,5,2019,2754
+Air India,mumbai,hyderabad,80,0,no info,21,5,24,6,2019,3100
+Vistara,kolkata,banglore,1350,1,no info,20,20,9,6,2019,8610
+Jet Airways,delhi,cochin,1140,2,no info,9,25,15,6,2019,13882
+Jet Airways,mumbai,hyderabad,85,0,no info,2,55,6,5,2019,5678
+Air India,delhi,cochin,1640,1,no info,6,5,9,5,2019,7480
+Goair,delhi,cochin,540,1,no info,10,35,15,6,2019,4959
+Indigo,delhi,cochin,265,1,no info,7,35,9,3,2019,6937
+Multiple Carriers,delhi,cochin,530,1,no info,10,0,6,3,2019,16497
+Air India,kolkata,banglore,1210,2,no info,9,25,21,5,2019,11432
+Air India,kolkata,banglore,745,1,no info,9,25,12,5,2019,8891
+Indigo,mumbai,hyderabad,90,0,no info,16,55,18,5,2019,3838
+Multiple Carriers,delhi,cochin,460,1,no info,4,55,9,6,2019,10877
+Vistara,chennai,kolkata,135,0,no info,7,5,3,3,2019,5944
+Jet Airways,delhi,cochin,1470,1,in-flight meal not included,19,15,27,3,2019,5963
+Multiple Carriers,delhi,cochin,930,1,no info,10,0,9,5,2019,15078
+Goair,banglore,delhi,165,0,no info,20,55,27,4,2019,3898
+Vistara,delhi,cochin,190,0,no info,6,0,27,3,2019,4851
+Spicejet,chennai,kolkata,135,0,no info,9,45,9,5,2019,3597
+Jet Airways,banglore,new delhi,365,1,no info,16,55,1,3,2019,54826
+Jet Airways,kolkata,banglore,1015,1,in-flight meal not included,6,30,24,3,2019,8824
+Jet Airways,kolkata,banglore,520,1,no info,20,0,9,5,2019,13941
+Multiple Carriers,delhi,cochin,570,1,in-flight meal not included,11,30,6,3,2019,15136
+Indigo,delhi,cochin,195,0,no info,21,5,18,3,2019,5021
+Indigo,banglore,delhi,175,0,no info,7,10,18,5,2019,4823
+Indigo,delhi,cochin,630,1,no info,15,0,12,6,2019,5684
+Air Asia,banglore,delhi,170,0,no info,4,55,27,5,2019,3383
+Jet Airways,kolkata,banglore,1220,1,in-flight meal not included,20,0,1,4,2019,7064
+Air India,delhi,cochin,1300,1,no info,10,0,18,5,2019,8372
+Jet Airways,banglore,delhi,165,0,no info,6,0,3,5,2019,7229
+Air India,kolkata,banglore,1100,2,no info,7,0,18,5,2019,13873
+Indigo,delhi,cochin,305,1,no info,20,25,21,5,2019,5054
+Air Asia,banglore,delhi,170,0,no info,4,55,12,4,2019,4282
+Jet Airways,delhi,cochin,715,1,in-flight meal not included,7,5,6,6,2019,10262
+Jet Airways,kolkata,banglore,1590,1,no info,5,45,18,5,2019,13941
+Jet Airways,kolkata,banglore,400,1,in-flight meal not included,14,5,9,5,2019,10844
+Jet Airways,banglore,new delhi,830,1,in-flight meal not included,20,35,21,3,2019,7832
+Air India,delhi,cochin,1275,2,no info,22,0,12,6,2019,10231
+Air India,delhi,cochin,970,2,no info,17,15,15,5,2019,8839
+Jet Airways,delhi,cochin,660,1,no info,8,0,15,6,2019,14714
+Jet Airways,kolkata,banglore,730,1,no info,21,10,1,5,2019,14781
+Jet Airways,delhi,cochin,1505,1,in-flight meal not included,11,30,27,5,2019,12898
+Air India,delhi,cochin,1640,1,no info,6,5,27,3,2019,5117
+Spicejet,kolkata,banglore,140,0,no info,22,20,6,4,2019,3873
+Jet Airways,kolkata,banglore,1430,1,in-flight meal not included,20,0,24,5,2019,10844
+Indigo,kolkata,banglore,170,0,no info,5,30,3,3,2019,4778
+Spicejet,banglore,delhi,170,0,no info,9,30,9,4,2019,4423
+Air India,kolkata,banglore,1185,1,no info,20,30,24,3,2019,12173
+Multiple Carriers,delhi,cochin,520,1,no info,10,20,3,6,2019,11789
+Air India,banglore,delhi,170,0,no info,13,20,24,4,2019,6121
+Indigo,delhi,cochin,195,0,no info,14,25,3,6,2019,6015
+Vistara,kolkata,banglore,1555,1,no info,7,10,24,5,2019,9502
+Spicejet,chennai,kolkata,135,0,no info,8,20,12,5,2019,3597
+Air India,delhi,cochin,1420,2,no info,9,45,12,6,2019,10975
+Spicejet,kolkata,banglore,150,0,no check-in baggage included,17,10,6,6,2019,3841
+Indigo,banglore,delhi,175,0,no info,7,10,3,5,2019,4823
+Indigo,kolkata,banglore,295,1,no info,9,20,1,4,2019,10308
+Jet Airways,banglore,delhi,180,0,in-flight meal not included,7,10,6,6,2019,6478
+Jet Airways,delhi,cochin,360,1,in-flight meal not included,13,0,27,5,2019,12898
+Indigo,chennai,kolkata,140,0,no info,13,15,1,5,2019,3597
+Jet Airways,delhi,cochin,1415,1,no info,19,15,21,3,2019,12347
+Jet Airways,delhi,cochin,1300,2,in-flight meal not included,6,45,1,6,2019,10919
+Air India,banglore,new delhi,165,0,no info,10,0,18,3,2019,4441
+Jet Airways,kolkata,banglore,585,1,no info,18,55,24,5,2019,13731
+Air India,banglore,new delhi,700,1,no info,11,5,1,3,2019,14069
+Jet Airways,kolkata,banglore,1400,1,in-flight meal not included,18,55,24,5,2019,10844
+Spicejet,banglore,delhi,175,0,no info,21,10,1,5,2019,4991
+Air India,mumbai,hyderabad,1910,2,no info,11,35,6,3,2019,17926
+Indigo,mumbai,hyderabad,90,0,no info,16,55,21,3,2019,3175
+Jet Airways,kolkata,banglore,685,1,no info,8,25,24,5,2019,14571
+Indigo,delhi,cochin,975,1,no info,9,15,9,5,2019,8854
+Air India,delhi,cochin,170,0,no info,5,10,9,4,2019,4729
+Indigo,kolkata,banglore,275,1,no info,19,35,9,4,2019,4860
+Indigo,banglore,delhi,175,0,no info,18,25,27,4,2019,4823
+Indigo,delhi,cochin,305,1,no info,23,30,27,6,2019,9165
+Indigo,delhi,cochin,305,1,no info,23,30,3,6,2019,11378
+Jet Airways,banglore,delhi,180,0,no info,8,20,27,6,2019,8016
+Vistara,banglore,delhi,170,0,no info,11,30,18,6,2019,4668
+Air India,kolkata,banglore,150,0,no info,14,15,27,3,2019,5170
+Multiple Carriers,delhi,cochin,465,1,in-flight meal not included,14,35,27,3,2019,5883
+Indigo,delhi,cochin,835,1,no info,8,35,27,5,2019,6442
+Air India,delhi,cochin,1490,2,no info,6,50,15,6,2019,13591
+Vistara,delhi,cochin,190,0,no info,14,40,18,4,2019,6216
+Jet Airways,delhi,cochin,1395,1,in-flight meal not included,19,45,9,5,2019,12373
+Jet Airways,delhi,cochin,395,1,no info,21,50,18,5,2019,15554
+Indigo,kolkata,banglore,325,1,no info,18,5,9,5,2019,6218
+Jet Airways,delhi,cochin,335,1,no info,22,50,9,5,2019,15554
+Jet Airways,delhi,cochin,1210,1,in-flight meal not included,22,50,9,5,2019,12373
+Air India,banglore,delhi,170,0,no info,13,20,1,6,2019,6961
+Indigo,banglore,delhi,165,0,no info,6,5,15,6,2019,4423
+Goair,delhi,cochin,370,1,no info,7,25,15,6,2019,5842
+Air India,kolkata,banglore,1540,1,no info,16,50,24,3,2019,14641
+Jet Airways,banglore,delhi,180,0,no info,19,50,21,6,2019,8541
+Jet Airways,delhi,cochin,195,0,no info,9,50,21,5,2019,9564
+Vistara,delhi,cochin,190,0,no info,6,0,18,6,2019,6216
+Spicejet,chennai,kolkata,135,0,no check-in baggage included,9,45,21,5,2019,3543
+Air India,banglore,new delhi,1420,1,no info,17,0,9,3,2019,9292
+Jet Airways,banglore,new delhi,495,1,in-flight meal not included,7,0,15,3,2019,9134
+Jet Airways,delhi,cochin,1300,2,no info,6,45,12,6,2019,13376
+Multiple Carriers,delhi,cochin,900,1,no info,6,0,21,5,2019,7485
+Multiple Carriers,delhi,cochin,480,1,no info,13,0,27,3,2019,12537
+Indigo,kolkata,banglore,150,0,no info,15,15,18,6,2019,4804
+Vistara,banglore,new delhi,160,0,no info,19,40,9,3,2019,8290
+Indigo,banglore,delhi,170,0,no info,10,10,3,4,2019,3943
+Jet Airways,delhi,cochin,1365,2,no info,5,40,9,3,2019,14861
+Indigo,delhi,cochin,300,1,no info,16,0,1,6,2019,6593
+Indigo,delhi,cochin,275,1,no info,7,35,1,6,2019,5054
+Multiple Carriers,delhi,cochin,780,1,no info,6,0,12,6,2019,11789
+Multiple Carriers,delhi,cochin,780,1,no info,8,0,15,6,2019,7408
+Jet Airways,banglore,new delhi,305,1,no info,14,5,1,3,2019,36235
+Indigo,banglore,new delhi,300,1,no info,17,55,9,3,2019,6351
+Air India,kolkata,banglore,1830,2,no info,12,0,12,6,2019,9416
+Indigo,banglore,new delhi,295,1,no info,16,55,9,3,2019,4259
+Indigo,banglore,new delhi,170,0,no info,23,30,24,3,2019,5694
+Spicejet,banglore,new delhi,170,0,no info,20,30,3,3,2019,6860
+Air India,kolkata,banglore,1165,2,no info,10,0,15,5,2019,14424
+Air Asia,kolkata,banglore,955,1,no info,7,35,1,5,2019,5192
+Indigo,delhi,cochin,305,1,no info,2,5,9,3,2019,10482
+Indigo,delhi,cochin,425,1,no info,8,25,27,3,2019,8075
+Indigo,delhi,cochin,895,1,no info,10,35,15,6,2019,5883
+Air India,delhi,cochin,1545,2,no info,5,55,21,5,2019,11911
+Multiple Carriers,delhi,cochin,630,1,no info,8,45,24,6,2019,9001
+Jet Airways,delhi,cochin,1475,2,in-flight meal not included,19,10,27,3,2019,8882
+Jet Airways,mumbai,hyderabad,90,0,in-flight meal not included,19,35,15,6,2019,3210
+Spicejet,mumbai,hyderabad,90,0,no check-in baggage included,22,45,12,5,2019,1965
+Air India,kolkata,banglore,150,0,no info,14,15,6,5,2019,5510
+Jet Airways,banglore,delhi,180,0,no info,17,45,18,6,2019,8016
+Multiple Carriers,delhi,cochin,795,1,no info,6,0,6,6,2019,8266
+Jet Airways,banglore,delhi,165,0,in-flight meal not included,6,0,12,6,2019,6478
+Indigo,banglore,delhi,175,0,no info,7,10,24,6,2019,4823
+Indigo,banglore,delhi,180,0,no info,16,55,3,4,2019,4823
+Jet Airways,banglore,new delhi,1280,1,no info,11,40,6,3,2019,17261
+Multiple Carriers,delhi,cochin,510,1,no info,10,45,6,3,2019,15077
+Air Asia,kolkata,banglore,155,0,no info,10,20,3,4,2019,4107
+Jet Airways,delhi,cochin,1995,2,no info,19,10,6,3,2019,20694
+Spicejet,banglore,delhi,170,0,no check-in baggage included,9,30,18,6,2019,3257
+Jet Airways,delhi,cochin,1295,1,in-flight meal not included,15,0,12,6,2019,10262
+Air India,banglore,delhi,170,0,no info,17,0,21,5,2019,6961
+Jet Airways,banglore,new delhi,1555,1,no info,22,50,1,3,2019,26890
+Indigo,delhi,cochin,315,1,no info,7,15,1,6,2019,6582
+Indigo,delhi,cochin,570,1,no info,16,0,3,6,2019,6628
+Jet Airways,kolkata,banglore,425,1,no info,16,30,9,5,2019,14781
+Jet Airways,kolkata,banglore,730,1,in-flight meal not included,16,30,24,5,2019,10844
+Spicejet,banglore,delhi,160,0,no info,5,55,21,5,2019,3311
+Vistara,kolkata,banglore,930,1,no info,7,10,15,5,2019,8452
+Jet Airways,kolkata,banglore,850,1,in-flight meal not included,8,25,1,4,2019,7064
+Jet Airways,delhi,cochin,1295,1,in-flight meal not included,15,0,9,5,2019,12373
+Jet Airways,kolkata,banglore,590,1,no info,8,25,12,5,2019,14781
+Jet Airways,delhi,cochin,1430,2,no info,19,10,24,5,2019,15129
+Jet Airways,delhi,cochin,2245,2,no info,5,25,3,3,2019,18799
+Spicejet,kolkata,banglore,140,0,no check-in baggage included,22,20,21,4,2019,4807
+Air India,banglore,new delhi,655,2,no info,10,30,1,3,2019,11213
+Air Asia,delhi,cochin,340,1,no info,16,45,3,6,2019,11410
+Air India,delhi,cochin,1855,2,no info,12,20,21,3,2019,10703
+Spicejet,kolkata,banglore,150,0,no info,9,0,12,3,2019,6982
+Jet Airways,kolkata,banglore,575,1,in-flight meal not included,9,35,1,4,2019,9314
+Air India,mumbai,hyderabad,75,0,no info,19,30,6,5,2019,3100
+Indigo,kolkata,banglore,315,1,no info,15,15,9,6,2019,5380
+Indigo,banglore,delhi,180,0,no info,16,55,12,4,2019,4990
+Indigo,delhi,cochin,315,1,no info,7,15,9,5,2019,5636
+Jet Airways,delhi,cochin,1355,1,in-flight meal not included,14,0,21,5,2019,12898
+Jet Airways,delhi,cochin,450,1,no info,11,30,15,6,2019,14714
+Indigo,banglore,delhi,180,0,no info,16,55,9,4,2019,4823
+Jet Airways,kolkata,banglore,365,1,in-flight meal not included,16,30,1,4,2019,7064
+Multiple Carriers,delhi,cochin,910,1,in-flight meal not included,7,10,6,3,2019,7563
+Jet Airways,mumbai,hyderabad,90,0,in-flight meal not included,19,35,1,6,2019,3210
+Indigo,kolkata,banglore,155,0,no info,11,30,21,4,2019,5644
+Jet Airways,kolkata,banglore,1215,1,in-flight meal not included,8,25,12,6,2019,6224
+Jet Airways,kolkata,banglore,735,1,no info,20,0,24,5,2019,13731
+Indigo,banglore,new delhi,165,0,no info,6,0,24,3,2019,4777
+Multiple Carriers,delhi,cochin,625,2,no info,15,5,9,5,2019,18191
+Spicejet,mumbai,hyderabad,90,0,no info,5,45,1,5,2019,2017
+Multiple Carriers,delhi,cochin,520,1,no info,10,20,9,6,2019,11789
+Indigo,delhi,cochin,490,1,no info,14,20,6,5,2019,7054
+Jet Airways,delhi,cochin,450,1,in-flight meal not included,11,30,15,4,2019,6542
+Jet Airways,mumbai,hyderabad,90,0,in-flight meal not included,10,20,18,5,2019,4050
+Jet Airways,banglore,delhi,180,0,in-flight meal not included,8,20,9,4,2019,4544
+Indigo,delhi,cochin,370,1,no info,16,10,6,3,2019,7205
+Jet Airways,banglore,new delhi,640,1,no info,14,5,6,3,2019,14815
+Indigo,banglore,delhi,180,0,no info,21,15,6,6,2019,3943
+Spicejet,kolkata,banglore,140,0,no info,22,20,12,4,2019,3873
+Indigo,banglore,delhi,170,0,no info,13,0,1,5,2019,4423
+Jet Airways,delhi,cochin,1530,1,in-flight meal not included,17,30,18,5,2019,12373
+Multiple Carriers,delhi,cochin,925,1,no info,7,5,6,6,2019,9646
+Jet Airways,mumbai,hyderabad,90,0,in-flight meal not included,19,35,21,3,2019,2228
+Air Asia,banglore,delhi,170,0,no info,4,55,24,6,2019,4282
+Air India,delhi,cochin,1210,2,no info,13,15,15,6,2019,8839
+Vistara,kolkata,banglore,1625,1,no info,20,20,1,5,2019,8085
+Indigo,delhi,cochin,195,0,no info,14,20,3,4,2019,4729
+Jet Airways,delhi,cochin,550,1,in-flight meal not included,19,15,27,5,2019,12898
+Indigo,chennai,kolkata,145,0,no info,11,35,1,5,2019,4332
+Jet Airways,banglore,delhi,180,0,in-flight meal not included,7,10,15,5,2019,5198
+Spicejet,delhi,cochin,315,1,no info,6,5,9,6,2019,5583
+Goair,delhi,cochin,540,1,no info,10,35,3,4,2019,5135
+Jet Airways,kolkata,banglore,1220,1,no info,20,0,9,6,2019,14571
+Multiple Carriers,delhi,cochin,910,1,no info,10,20,21,5,2019,7485
+Multiple Carriers,delhi,cochin,450,1,no info,8,0,6,3,2019,17267
+Indigo,mumbai,hyderabad,90,0,no info,2,35,1,4,2019,2754
+Jet Airways,kolkata,banglore,425,1,in-flight meal not included,16,30,18,5,2019,10844
+Multiple Carriers,delhi,cochin,720,1,no info,7,0,6,6,2019,12192
+Multiple Carriers,delhi,cochin,420,1,no info,14,0,15,5,2019,13727
+Air India,banglore,new delhi,2345,2,no info,8,50,1,3,2019,17135
+Jet Airways,delhi,cochin,1925,2,no info,10,45,21,3,2019,11093
+Jet Airways,delhi,cochin,1615,2,in-flight meal not included,9,40,1,6,2019,10368
+Indigo,kolkata,banglore,170,0,no info,5,30,6,3,2019,4778
+Jet Airways,delhi,cochin,810,2,in-flight meal not included,5,30,6,6,2019,11507
+Multiple Carriers,delhi,cochin,930,1,no info,10,0,3,6,2019,9508
+Jet Airways,kolkata,banglore,575,1,in-flight meal not included,9,35,21,5,2019,12384
+Multiple Carriers,delhi,cochin,470,1,no info,11,25,15,6,2019,8614
+Multiple Carriers,delhi,cochin,465,1,no info,11,30,15,6,2019,16108
+Jet Airways,delhi,cochin,1125,2,in-flight meal not included,9,40,27,5,2019,13029
+Jet Airways,kolkata,banglore,1610,1,in-flight meal not included,6,30,21,5,2019,9663
+Indigo,kolkata,banglore,155,0,no info,15,30,12,4,2019,4174
+Spicejet,banglore,delhi,175,0,no check-in baggage included,21,10,21,5,2019,3573
+Jet Airways,delhi,cochin,1225,1,in-flight meal not included,8,0,6,6,2019,10262
+Jet Airways,kolkata,banglore,1330,1,in-flight meal not included,6,30,9,6,2019,9663
+Indigo,chennai,kolkata,145,0,no info,11,35,1,3,2019,7900
+Indigo,banglore,delhi,170,0,no info,20,0,21,5,2019,4823
+Indigo,banglore,delhi,180,0,no info,16,55,21,4,2019,4990
+Air India,delhi,cochin,1395,2,no info,20,0,3,3,2019,17266
+Jet Airways,banglore,delhi,185,0,in-flight meal not included,18,55,27,5,2019,3359
+Vistara,banglore,delhi,160,0,no info,7,0,27,5,2019,4668
+Air India,delhi,cochin,1010,1,no info,6,10,3,3,2019,13002
+Jet Airways,kolkata,banglore,1550,1,in-flight meal not included,18,55,18,5,2019,10844
+Air India,delhi,cochin,1535,1,no info,5,15,6,3,2019,11522
+Indigo,chennai,kolkata,140,0,no info,14,45,6,6,2019,3597
+Jet Airways,banglore,delhi,175,0,in-flight meal not included,11,10,3,5,2019,4030
+Air India,delhi,cochin,1275,2,no info,22,0,9,5,2019,10441
+Air Asia,banglore,delhi,165,0,no info,11,10,18,6,2019,3383
+Jet Airways,delhi,cochin,540,1,no info,10,0,1,6,2019,14714
+Indigo,kolkata,banglore,155,0,no info,14,20,6,3,2019,5618
+Jet Airways,delhi,cochin,1145,1,in-flight meal not included,17,30,27,6,2019,10262
+Goair,banglore,delhi,170,0,no info,11,40,24,6,2019,3898
+Indigo,delhi,cochin,845,1,no info,11,25,9,4,2019,6270
+Goair,banglore,delhi,175,0,no info,7,45,3,5,2019,3898
+Jet Airways,delhi,cochin,1095,2,no info,18,20,27,6,2019,14300
+Multiple Carriers,delhi,cochin,520,1,no info,10,35,18,5,2019,8309
+Jet Airways,banglore,new delhi,800,1,in-flight meal not included,7,0,9,3,2019,11087
+Jet Airways,delhi,cochin,1530,1,in-flight meal not included,17,30,15,6,2019,10262
+Indigo,delhi,cochin,290,1,no info,15,10,18,5,2019,6496
+Jet Airways,banglore,new delhi,625,1,no info,5,45,6,3,2019,16736
+Jet Airways,kolkata,banglore,1630,1,in-flight meal not included,20,25,1,5,2019,9314
+Jet Airways,delhi,cochin,1010,1,in-flight meal not included,19,45,27,6,2019,10262
+Air Asia,kolkata,banglore,150,0,no info,19,55,12,5,2019,5530
+Spicejet,chennai,kolkata,155,0,no info,9,30,12,3,2019,6300
+Jet Airways,delhi,cochin,1125,2,no info,9,40,9,4,2019,10909
+Air India,mumbai,hyderabad,795,1,no info,5,55,12,3,2019,8528
+Air India,mumbai,hyderabad,90,0,no info,13,55,21,3,2019,3100
+Indigo,mumbai,hyderabad,90,0,no info,12,0,27,6,2019,2754
+Air India,kolkata,banglore,965,1,no info,19,0,15,5,2019,6117
+Jet Airways,kolkata,banglore,1605,1,no info,16,55,24,3,2019,14231
+Jet Airways,banglore,new delhi,1425,1,in-flight meal not included,20,35,12,3,2019,11087
+Indigo,delhi,cochin,480,1,no info,7,30,21,3,2019,10208
+Goair,kolkata,banglore,455,1,no info,16,40,18,5,2019,10586
+Multiple Carriers,delhi,cochin,900,1,no info,6,0,15,6,2019,7005
+Air Asia,delhi,cochin,470,1,no info,7,55,27,3,2019,6151
+Multiple Carriers,delhi,cochin,600,1,no info,9,0,12,6,2019,12192
+Multiple Carriers,delhi,cochin,660,1,no info,7,10,21,5,2019,7038
+Indigo,kolkata,banglore,155,0,no info,20,20,15,5,2019,4804
+Air India,banglore,delhi,165,0,no info,10,0,9,5,2019,5228
+Air India,delhi,cochin,1660,1,no info,4,0,9,3,2019,10315
+Indigo,delhi,cochin,195,0,no info,5,35,18,5,2019,6015
+Jet Airways,kolkata,banglore,450,1,in-flight meal not included,21,10,9,6,2019,8586
+Indigo,delhi,cochin,380,1,no info,16,10,9,5,2019,6704
+Jet Airways,kolkata,banglore,1450,1,in-flight meal not included,9,35,6,6,2019,10539
+Spicejet,mumbai,hyderabad,80,0,no info,13,10,3,3,2019,5755
+Air India,delhi,cochin,1210,2,no info,13,15,3,6,2019,10467
+Jet Airways,mumbai,hyderabad,85,0,no info,7,5,18,5,2019,5678
+Jet Airways,banglore,new delhi,375,1,no info,7,0,18,3,2019,12284
+Indigo,kolkata,banglore,160,0,no info,21,25,18,6,2019,4804
+Air India,delhi,cochin,1640,1,no info,6,5,9,3,2019,10945
+Vistara,kolkata,banglore,1640,1,no info,17,0,6,6,2019,8820
+Jet Airways,kolkata,banglore,1075,1,no info,17,0,9,5,2019,10953
+Jet Airways,mumbai,hyderabad,90,0,no info,10,20,3,4,2019,8040
+Indigo,delhi,cochin,895,1,no info,10,35,12,6,2019,5883
+Jet Airways,delhi,cochin,1300,2,in-flight meal not included,6,45,12,6,2019,10919
+Jet Airways,delhi,cochin,925,1,in-flight meal not included,13,0,21,5,2019,12898
+Multiple Carriers,delhi,cochin,830,1,in-flight meal not included,11,40,27,6,2019,5797
+Air India,delhi,cochin,555,1,no info,10,0,12,6,2019,8372
+Jet Airways,mumbai,hyderabad,85,0,no info,7,10,15,3,2019,8040
+Vistara,kolkata,banglore,1065,1,no info,17,0,21,5,2019,9187
+Air India,delhi,cochin,1640,1,no info,6,5,9,6,2019,7690
+Multiple Carriers,delhi,cochin,705,1,no info,7,30,3,6,2019,9736
+Indigo,chennai,kolkata,140,0,no info,13,15,3,6,2019,3597
+Jet Airways,kolkata,banglore,1080,1,no info,20,25,18,5,2019,13067
+Indigo,banglore,new delhi,295,1,no info,12,10,3,3,2019,8738
+Multiple Carriers,delhi,cochin,615,1,no info,9,0,1,5,2019,15373
+Indigo,delhi,cochin,505,1,no info,17,10,6,3,2019,14871
+Indigo,banglore,delhi,170,0,no info,10,10,3,5,2019,3943
+Air India,delhi,cochin,1395,2,no info,20,0,9,3,2019,16111
+Air India,delhi,cochin,735,2,no info,7,0,27,3,2019,10913
+Air Asia,delhi,cochin,330,1,no info,7,55,1,6,2019,9330
+Indigo,delhi,cochin,940,1,no info,6,50,18,5,2019,7144
+Jet Airways,kolkata,banglore,1330,1,no info,6,30,15,5,2019,13941
+Air Asia,delhi,cochin,865,1,no info,16,45,15,6,2019,6853
+Multiple Carriers,delhi,cochin,910,1,no info,3,50,24,6,2019,12192
+Jet Airways,delhi,cochin,1620,1,in-flight meal not included,16,0,27,6,2019,10262
+Jet Airways,delhi,cochin,1530,1,in-flight meal not included,17,30,12,6,2019,10262
+Air India,delhi,cochin,180,0,no info,14,10,3,3,2019,7931
+Jet Airways,delhi,cochin,1375,2,no info,5,30,21,3,2019,12647
+Air India,delhi,cochin,865,2,no info,17,15,27,6,2019,13039
+Air India,kolkata,banglore,795,1,no info,10,0,21,5,2019,11936
+Indigo,delhi,cochin,345,1,no info,2,0,21,3,2019,6426
+Spicejet,mumbai,hyderabad,85,0,no info,22,45,9,3,2019,3603
+Jet Airways,delhi,cochin,1005,1,in-flight meal not included,2,15,24,6,2019,10262
+Air India,kolkata,banglore,765,2,no info,16,50,18,5,2019,11642
+Indigo,kolkata,banglore,160,0,no info,21,25,24,6,2019,4804
+Indigo,kolkata,banglore,160,0,no info,21,25,12,3,2019,4148
+Multiple Carriers,delhi,cochin,375,1,no info,13,0,21,5,2019,14848
+Jet Airways,delhi,cochin,1145,1,in-flight meal not included,17,30,9,5,2019,12373
+Air Asia,banglore,delhi,170,0,no info,4,55,1,4,2019,4282
+Jet Airways,kolkata,banglore,475,1,in-flight meal not included,8,25,6,5,2019,10844
+Air Asia,banglore,delhi,170,0,no info,4,55,18,4,2019,4282
+Air India,banglore,new delhi,1375,2,no info,17,25,12,3,2019,12778
+Vistara,banglore,delhi,155,0,no info,17,0,21,4,2019,5613
+Indigo,chennai,kolkata,145,0,no info,11,35,1,6,2019,3858
+Air India,banglore,delhi,165,0,no info,6,10,21,4,2019,6121
+Jet Airways,kolkata,banglore,400,1,no info,14,5,1,4,2019,13364
+Multiple Carriers,delhi,cochin,690,1,no info,7,30,15,5,2019,9315
+Air Asia,kolkata,banglore,150,0,no info,22,50,12,4,2019,4409
+Spicejet,kolkata,banglore,155,0,no info,6,55,9,4,2019,3873
+Vistara,banglore,new delhi,165,0,no info,9,50,24,3,2019,6138
+Jet Airways,banglore,delhi,185,0,no info,18,55,3,4,2019,7229
+Jet Airways,banglore,delhi,175,0,no info,15,15,1,5,2019,7229
+Multiple Carriers,delhi,cochin,720,1,no info,7,0,9,5,2019,10197
+Vistara,kolkata,banglore,1350,1,no info,20,20,12,6,2019,8610
+Multiple Carriers,delhi,cochin,660,1,no info,8,0,27,6,2019,12192
+Vistara,banglore,delhi,160,0,no info,7,0,9,5,2019,4668
+Jet Airways,banglore,new delhi,390,1,no info,5,50,15,3,2019,9623
+Multiple Carriers,delhi,cochin,840,1,no info,11,30,27,5,2019,13377
+Multiple Carriers,delhi,cochin,750,1,no info,13,0,1,6,2019,7723
+Jet Airways,kolkata,banglore,910,1,in-flight meal not included,8,25,1,4,2019,7064
+Multiple Carriers,delhi,cochin,465,1,in-flight meal not included,11,30,27,5,2019,9254
+Air India,delhi,cochin,965,1,no info,17,20,6,4,2019,4697
+Indigo,delhi,cochin,635,1,no info,11,55,27,5,2019,6442
+Air India,kolkata,banglore,1665,2,no info,10,0,1,5,2019,15164
+Indigo,chennai,kolkata,140,0,no info,7,55,24,3,2019,4326
+Air India,mumbai,hyderabad,80,0,no info,6,20,1,6,2019,3100
+Air India,mumbai,hyderabad,85,0,no info,15,0,3,5,2019,3100
+Air Asia,delhi,cochin,330,1,no info,7,55,6,6,2019,8759
+Spicejet,banglore,delhi,170,0,no check-in baggage included,9,30,24,5,2019,3573
+Indigo,chennai,kolkata,145,0,no info,5,15,9,6,2019,3540
+Air India,banglore,new delhi,165,0,no info,17,0,24,3,2019,5176
+Air India,kolkata,banglore,795,1,no info,10,0,12,5,2019,10203
+Vistara,mumbai,hyderabad,745,1,no info,7,30,6,3,2019,12395
+Jet Airways,kolkata,banglore,1430,1,no info,16,30,1,4,2019,12681
+Air India,banglore,new delhi,865,1,no info,8,50,12,3,2019,12127
+Air India,delhi,cochin,1245,2,no info,10,55,24,6,2019,11753
+Vistara,delhi,cochin,190,0,no info,6,0,21,6,2019,6216
+Goair,delhi,cochin,540,1,no info,10,35,3,6,2019,4959
+Goair,delhi,cochin,355,1,no info,7,0,24,4,2019,6195
+Multiple Carriers,delhi,cochin,765,1,no info,7,0,9,3,2019,15237
+Vistara,banglore,delhi,170,0,no info,9,45,21,5,2019,4668
+Jet Airways,banglore,delhi,180,0,in-flight meal not included,19,50,12,6,2019,5769
+Multiple Carriers,delhi,cochin,545,1,no info,7,5,3,3,2019,7905
+Multiple Carriers,delhi,cochin,585,1,no info,9,15,27,6,2019,11622
+Multiple Carriers,delhi,cochin,835,1,no info,11,40,21,3,2019,7695
+Air Asia,kolkata,banglore,150,0,no info,22,50,3,6,2019,4409
+Indigo,mumbai,hyderabad,90,0,no info,19,5,6,6,2019,2754
+Jet Airways,kolkata,banglore,1090,1,no info,14,5,12,6,2019,13044
+Air India,kolkata,banglore,150,0,no info,14,15,3,6,2019,5510
+Air India,kolkata,banglore,1105,2,no info,14,30,21,5,2019,15107
+Indigo,delhi,cochin,275,1,no info,7,35,3,6,2019,6069
+Indigo,kolkata,banglore,150,0,no info,14,25,21,5,2019,5224
+Spicejet,mumbai,hyderabad,80,0,no info,13,10,18,3,2019,2437
+Air India,banglore,delhi,165,0,no info,6,10,6,6,2019,6961
+Multiple Carriers,delhi,cochin,780,1,no info,6,0,6,6,2019,11789
+Spicejet,chennai,kolkata,140,0,no info,17,45,9,5,2019,3597
+Jet Airways,kolkata,banglore,1545,1,no info,6,30,12,5,2019,13941
+Air India,kolkata,banglore,1435,1,no info,20,30,9,6,2019,10203
+Jet Airways,banglore,new delhi,300,1,in-flight meal not included,5,45,24,3,2019,8147
+Jet Airways,kolkata,banglore,590,1,in-flight meal not included,6,30,12,6,2019,9899
+Spicejet,mumbai,hyderabad,90,0,no check-in baggage included,13,15,3,5,2019,1965
+Multiple Carriers,delhi,cochin,845,1,no info,4,55,27,5,2019,11573
+Jet Airways,delhi,cochin,195,0,in-flight meal not included,9,50,21,5,2019,7202
+Multiple Carriers,delhi,cochin,615,1,in-flight meal not included,15,15,27,6,2019,5797
+Vistara,kolkata,banglore,965,1,no info,17,0,12,6,2019,7927
+Air India,mumbai,hyderabad,1775,2,no info,9,40,6,3,2019,25139
+Indigo,banglore,delhi,180,0,no info,16,55,1,5,2019,4823
+Vistara,mumbai,hyderabad,480,1,no info,8,45,12,3,2019,12080
+Air India,delhi,cochin,1215,1,no info,23,0,9,3,2019,11260
+Air Asia,delhi,cochin,340,1,no info,16,45,24,6,2019,6752
+Jet Airways,kolkata,banglore,665,1,no info,21,10,9,5,2019,14388
+Jet Airways,delhi,cochin,1040,1,in-flight meal not included,19,15,12,6,2019,10262
+Indigo,delhi,cochin,705,1,no info,9,15,3,6,2019,6838
+Vistara,banglore,delhi,155,0,no info,17,0,12,5,2019,4878
+Air India,banglore,new delhi,170,0,no info,13,20,1,3,2019,12526
+Jet Airways,banglore,delhi,180,0,in-flight meal not included,8,20,12,5,2019,6144
+Indigo,kolkata,banglore,300,1,no info,4,50,12,5,2019,4176
+Vistara,banglore,delhi,170,0,no info,21,0,1,4,2019,5403
+Air India,delhi,cochin,500,2,no info,10,55,1,6,2019,13013
+Air India,kolkata,banglore,1390,2,no info,12,0,21,5,2019,10676
+Indigo,chennai,kolkata,140,0,no info,7,55,6,5,2019,3850
+Jet Airways,delhi,cochin,745,1,in-flight meal not included,16,0,9,6,2019,10577
+Air India,banglore,delhi,170,0,no info,21,5,18,6,2019,5228
+Air India,delhi,cochin,1485,2,no info,18,30,9,3,2019,18211
+Indigo,delhi,cochin,625,1,no info,10,35,15,5,2019,6979
+Spicejet,delhi,cochin,315,1,no info,6,5,27,6,2019,5583
+Spicejet,chennai,kolkata,155,0,no check-in baggage included,9,30,27,3,2019,3332
+Jet Airways,kolkata,banglore,345,1,in-flight meal not included,14,5,9,6,2019,10844
+Jet Airways,banglore,new delhi,1475,1,in-flight meal not included,11,40,21,3,2019,7832
+Jet Airways,kolkata,banglore,685,1,in-flight meal not included,8,25,6,6,2019,10844
+Vistara,banglore,delhi,165,0,no info,19,30,24,5,2019,5823
+Multiple Carriers,delhi,cochin,520,1,no info,10,35,27,5,2019,8625
+Indigo,chennai,kolkata,140,0,no info,7,55,12,6,2019,3850
+Air India,delhi,cochin,1410,2,no info,19,45,15,5,2019,11491
+Jet Airways,mumbai,hyderabad,85,0,in-flight meal not included,2,55,3,4,2019,2228
+Jet Airways,delhi,cochin,1260,1,no info,21,50,3,3,2019,17024
+Jet Airways,delhi,cochin,1210,1,no info,22,50,6,6,2019,14714
+Jet Airways,mumbai,hyderabad,85,0,in-flight meal not included,7,10,21,3,2019,4160
+Indigo,banglore,new delhi,170,0,no info,13,0,3,3,2019,7648
+Air India,kolkata,banglore,150,0,no info,14,15,27,5,2019,5510
+Indigo,banglore,delhi,170,0,no info,16,55,1,6,2019,4823
+Air India,banglore,delhi,170,0,no info,21,5,24,5,2019,5228
+Air India,delhi,cochin,1125,1,no info,13,30,12,6,2019,8991
+Multiple Carriers,delhi,cochin,780,1,no info,8,0,12,6,2019,13797
+Jet Airways,kolkata,banglore,1660,1,in-flight meal not included,18,55,1,4,2019,7064
+Spicejet,banglore,delhi,170,0,no info,9,30,12,6,2019,4423
+Indigo,mumbai,hyderabad,85,0,no info,19,5,15,3,2019,2754
+Indigo,kolkata,banglore,165,0,no info,22,10,21,3,2019,4148
+Indigo,mumbai,hyderabad,90,0,no info,1,40,24,6,2019,2754
+Jet Airways,banglore,delhi,175,0,no info,11,10,21,4,2019,7229
+Jet Airways,delhi,cochin,1025,2,in-flight meal not included,19,30,6,6,2019,11733
+Air India,banglore,delhi,165,0,no info,6,10,21,6,2019,6961
+Vistara,kolkata,banglore,795,1,no info,7,10,24,3,2019,13152
+Jet Airways,mumbai,hyderabad,90,0,no info,19,35,21,3,2019,5678
+Jet Airways,kolkata,banglore,910,1,no info,18,55,24,5,2019,13731
+Indigo,chennai,kolkata,140,0,no info,13,15,9,5,2019,3597
+Air India,delhi,cochin,375,1,no info,13,0,27,3,2019,6902
+Spicejet,kolkata,banglore,145,0,no info,9,0,3,4,2019,3873
+Multiple Carriers,delhi,cochin,930,1,in-flight meal not included,10,0,27,5,2019,8925
+Air India,delhi,cochin,675,1,no info,8,0,27,5,2019,9929
+Air India,kolkata,banglore,150,0,no info,14,15,1,5,2019,6245
+Jet Airways,kolkata,banglore,1365,1,no info,20,25,18,5,2019,14151
+Jet Airways,delhi,cochin,1010,1,in-flight meal not included,19,45,24,6,2019,10262
+Indigo,chennai,kolkata,145,0,no info,11,35,24,5,2019,4332
+Jet Airways,banglore,new delhi,800,1,in-flight meal not included,8,0,21,3,2019,7832
+Jet Airways,kolkata,banglore,1265,1,in-flight meal not included,21,10,9,6,2019,10844
+Air India,kolkata,banglore,1100,2,no info,7,0,24,3,2019,13428
+Indigo,delhi,cochin,300,1,no info,5,5,9,3,2019,8147
+Indigo,delhi,cochin,985,2,no info,4,55,3,3,2019,8899
+Jet Airways,banglore,new delhi,1280,1,in-flight meal not included,14,5,21,3,2019,7832
+Spicejet,banglore,delhi,160,0,no check-in baggage included,5,55,18,5,2019,3573
+Spicejet,delhi,cochin,315,1,no info,6,5,21,4,2019,5583
+Air India,delhi,cochin,1470,2,no info,7,10,27,5,2019,14588
+Air India,delhi,cochin,185,0,no info,18,5,24,4,2019,5201
+Multiple Carriers,delhi,cochin,450,1,no info,8,0,21,3,2019,14486
+Indigo,mumbai,hyderabad,90,0,no info,12,0,1,6,2019,2754
+Jet Airways,kolkata,banglore,395,1,no info,17,0,12,5,2019,14151
+Indigo,kolkata,banglore,165,0,no info,22,10,18,3,2019,4148
+Multiple Carriers,delhi,cochin,720,1,no info,9,0,9,6,2019,13587
+Air India,banglore,new delhi,165,0,no info,21,10,3,3,2019,7591
+Indigo,delhi,cochin,985,2,no info,4,55,27,3,2019,6223
+Air India,delhi,cochin,1220,2,no info,13,5,21,5,2019,10467
+Air India,kolkata,banglore,725,2,no info,8,20,6,6,2019,11432
+Indigo,banglore,delhi,170,0,no info,20,0,1,6,2019,4823
+Jet Airways,delhi,cochin,1025,2,in-flight meal not included,19,30,9,6,2019,10368
+Air India,delhi,cochin,185,0,no info,18,5,27,4,2019,5411
+Air India,banglore,delhi,170,0,no info,21,5,3,6,2019,6961
+Jet Airways,delhi,cochin,425,2,in-flight meal not included,5,30,6,6,2019,13344
+Indigo,kolkata,banglore,170,0,no info,5,30,18,3,2019,4462
+Indigo,banglore,new delhi,300,1,no info,12,5,9,3,2019,4588
+Goair,delhi,cochin,310,1,no info,14,25,6,6,2019,7870
+Air Asia,kolkata,banglore,720,1,no info,22,40,1,4,2019,5192
+Air India,kolkata,banglore,875,2,no info,5,50,18,5,2019,12093
+Air India,delhi,cochin,615,1,no info,9,0,12,6,2019,8372
+Air India,banglore,new delhi,480,1,no info,11,50,15,3,2019,7192
+Spicejet,mumbai,hyderabad,90,0,no info,5,45,9,5,2019,2017
+Jet Airways,banglore,delhi,185,0,no info,18,55,24,6,2019,8016
+Air India,delhi,cochin,705,1,no info,20,30,9,4,2019,5683
+Air India,mumbai,hyderabad,75,0,no info,19,30,24,5,2019,3625
+Jet Airways,kolkata,banglore,1545,1,in-flight meal not included,6,30,6,5,2019,8586
+Multiple Carriers,delhi,cochin,625,2,no info,15,5,24,6,2019,15965
+Jet Airways,kolkata,banglore,425,1,in-flight meal not included,16,30,1,4,2019,7064
+Multiple Carriers,delhi,cochin,455,1,no info,14,55,24,5,2019,7740
+Indigo,banglore,delhi,175,0,no info,18,25,15,4,2019,4823
+Jet Airways,delhi,cochin,1325,1,in-flight meal not included,20,55,18,5,2019,12373
+Air India,banglore,delhi,165,0,no info,10,0,21,6,2019,6961
+Jet Airways,kolkata,banglore,1495,1,no info,18,55,6,6,2019,14571
+Jet Airways,banglore,new delhi,805,1,in-flight meal not included,5,45,21,3,2019,7832
+Air Asia,banglore,delhi,165,0,no info,11,10,12,6,2019,3383
+Jet Airways,delhi,cochin,830,2,in-flight meal not included,14,35,6,6,2019,10919
+Jet Airways,delhi,cochin,1615,2,in-flight meal not included,9,40,27,5,2019,13029
+Jet Airways,banglore,delhi,180,0,no info,17,45,15,6,2019,8016
+Air India,delhi,cochin,765,1,no info,20,40,21,3,2019,5642
+Air India,delhi,cochin,2280,3,no info,5,15,27,6,2019,10703
+Jet Airways,delhi,cochin,1395,1,no info,19,45,9,5,2019,15554
+Jet Airways,delhi,cochin,1130,2,no info,9,35,12,6,2019,13292
+Air India,mumbai,hyderabad,90,0,no info,13,55,27,3,2019,2050
+Jet Airways,banglore,new delhi,375,1,no info,22,50,18,3,2019,54826
+Jet Airways,banglore,delhi,175,0,no info,11,10,9,5,2019,7229
+Jet Airways,delhi,cochin,600,1,no info,9,0,21,5,2019,16079
+Jet Airways,kolkata,banglore,1335,1,no info,20,0,9,6,2019,14571
+Air India,banglore,new delhi,725,1,change airports,11,50,1,3,2019,26092
+Indigo,delhi,cochin,575,1,no info,11,25,18,5,2019,7191
+Jet Airways,banglore,delhi,175,0,no info,11,10,15,6,2019,8016
+Jet Airways,kolkata,banglore,725,1,no info,21,10,24,3,2019,14231
+Jet Airways,delhi,cochin,330,1,in-flight meal not included,7,5,6,4,2019,5406
+Indigo,chennai,kolkata,145,0,no info,11,35,12,5,2019,4332
+Indigo,banglore,delhi,170,0,no info,10,10,15,6,2019,3943
+Goair,banglore,new delhi,270,1,no info,15,45,3,3,2019,8352
+Air India,kolkata,banglore,725,2,no info,8,20,9,5,2019,11432
+Indigo,delhi,cochin,455,1,no info,8,35,3,6,2019,6442
+Jet Airways,kolkata,banglore,1170,1,in-flight meal not included,16,30,12,5,2019,10844
+Indigo,delhi,cochin,425,1,no info,5,5,24,6,2019,6442
+Jet Airways,delhi,cochin,1005,1,in-flight meal not included,2,15,21,5,2019,12898
+Spicejet,chennai,kolkata,135,0,no check-in baggage included,8,20,1,5,2019,3543
+Spicejet,delhi,cochin,270,1,no check-in baggage included,8,45,15,5,2019,4760
+Jet Airways,kolkata,banglore,1685,1,no info,17,0,1,5,2019,12121
+Indigo,delhi,cochin,425,1,no info,5,5,6,6,2019,6818
+Multiple Carriers,delhi,cochin,565,3,no info,11,35,15,5,2019,16294
+Jet Airways,delhi,cochin,1210,1,in-flight meal not included,22,50,6,6,2019,10262
+Multiple Carriers,delhi,cochin,765,1,no info,9,45,9,6,2019,9646
+Jet Airways,mumbai,hyderabad,85,0,in-flight meal not included,2,55,27,5,2019,4050
+Multiple Carriers,delhi,cochin,740,1,no info,6,40,15,5,2019,9315
+Air India,kolkata,banglore,545,1,no info,9,25,24,3,2019,10493
+Jet Airways,kolkata,banglore,520,1,no info,20,0,12,5,2019,13941
+Jet Airways,kolkata,banglore,910,1,in-flight meal not included,18,55,1,5,2019,8586
+Jet Airways,delhi,cochin,825,1,in-flight meal not included,22,50,27,5,2019,12898
+Multiple Carriers,delhi,cochin,830,1,no info,11,40,9,6,2019,6795
+Jet Airways,kolkata,banglore,800,1,no info,6,30,1,4,2019,12681
+Spicejet,mumbai,hyderabad,90,0,no info,13,15,3,4,2019,2017
+Multiple Carriers,delhi,cochin,735,1,no info,8,45,27,5,2019,7740
+Jet Airways,mumbai,hyderabad,1610,1,no info,14,0,6,3,2019,19595
+Spicejet,kolkata,banglore,150,0,no info,17,10,15,5,2019,4174
+Jet Airways,banglore,new delhi,1400,1,in-flight meal not included,8,55,15,3,2019,10405
+Spicejet,chennai,kolkata,140,0,no info,17,45,21,3,2019,3384
+Jet Airways,banglore,new delhi,695,1,1 long layover,22,50,1,3,2019,31825
+Jet Airways,delhi,cochin,1295,2,in-flight meal not included,21,25,3,6,2019,11507
+Jet Airways,kolkata,banglore,1075,1,no info,17,0,12,5,2019,14151
+Indigo,delhi,cochin,835,1,no info,8,35,15,6,2019,6442
+Air India,kolkata,banglore,805,3,no info,9,50,21,5,2019,14960
+Indigo,banglore,new delhi,285,1,no info,5,25,3,3,2019,7774
+Jet Airways,delhi,cochin,600,2,no info,18,25,1,6,2019,14237
+Spicejet,kolkata,banglore,155,0,no check-in baggage included,6,55,15,5,2019,3841
+Indigo,kolkata,banglore,240,1,no info,6,20,12,6,2019,4226
+Jet Airways,kolkata,banglore,1215,1,no info,8,25,9,6,2019,13731
+Jet Airways,banglore,delhi,180,0,no info,19,50,6,6,2019,8016
+Jet Airways,kolkata,banglore,1285,1,no info,17,0,1,5,2019,11467
+Jet Airways,kolkata,banglore,1550,1,in-flight meal not included,18,55,12,6,2019,8529
+Jet Airways,delhi,cochin,830,2,no info,14,35,15,6,2019,13376
+Jet Airways,banglore,new delhi,340,1,in-flight meal not included,5,45,9,3,2019,11087
+Multiple Carriers,delhi,cochin,545,1,no info,7,5,21,3,2019,6717
+Spicejet,chennai,kolkata,140,0,no check-in baggage included,17,45,21,6,2019,3543
+Multiple Carriers,delhi,cochin,630,1,no info,15,0,1,6,2019,13377
+Jet Airways,kolkata,banglore,395,1,in-flight meal not included,17,0,9,6,2019,13994
+Air India,kolkata,banglore,1555,2,no info,9,10,3,4,2019,4647
+Jet Airways,kolkata,banglore,585,1,in-flight meal not included,18,55,18,5,2019,8586
+Indigo,banglore,delhi,170,0,no info,8,30,12,5,2019,5740
+Indigo,banglore,delhi,170,0,no info,4,0,6,6,2019,3943
+Jet Airways,banglore,new delhi,405,1,no info,11,40,6,3,2019,19225
+Jet Airways,delhi,cochin,1005,1,in-flight meal not included,2,15,27,5,2019,12898
+Indigo,banglore,delhi,170,0,no info,22,10,27,6,2019,3419
+Jet Airways,kolkata,banglore,1285,1,in-flight meal not included,18,55,21,5,2019,10844
+Jet Airways,banglore,delhi,180,0,in-flight meal not included,7,10,1,5,2019,4030
+Air India,kolkata,banglore,150,0,no info,14,15,15,3,2019,5170
+Indigo,chennai,kolkata,145,0,no info,11,35,3,3,2019,7295
+Air India,kolkata,banglore,805,2,no info,9,50,1,5,2019,13227
+Air India,delhi,cochin,1180,2,no info,12,0,3,6,2019,8603
+Spicejet,delhi,cochin,270,1,no check-in baggage included,8,45,24,4,2019,4760
+Indigo,delhi,cochin,825,2,no info,7,35,21,3,2019,6494
+Spicejet,delhi,cochin,295,1,no info,17,55,24,4,2019,4957
+Indigo,delhi,cochin,195,0,no info,5,35,9,6,2019,5601
+Jet Airways,delhi,cochin,885,1,in-flight meal not included,21,50,9,6,2019,10262
+Jet Airways,delhi,cochin,810,2,no info,5,30,9,5,2019,15129
+Vistara,banglore,delhi,160,0,no info,7,0,6,4,2019,5613
+Jet Airways,delhi,cochin,1015,1,in-flight meal not included,11,30,9,6,2019,10262
+Air India,kolkata,banglore,1100,1,no info,16,50,6,6,2019,8366
+Spicejet,banglore,delhi,160,0,no info,5,55,3,5,2019,3625
+Jet Airways,banglore,delhi,175,0,in-flight meal not included,15,50,9,4,2019,4544
+Air India,delhi,cochin,700,1,no info,20,0,9,6,2019,8372
+Air India,delhi,cochin,1560,2,no info,17,15,27,6,2019,12199
+Multiple Carriers,delhi,cochin,615,1,no info,9,0,21,5,2019,14848
+Spicejet,kolkata,banglore,150,0,no info,9,0,1,3,2019,5515
+Indigo,delhi,cochin,705,1,no info,9,15,21,5,2019,7318
+Indigo,kolkata,banglore,160,0,no info,20,25,9,3,2019,4148
+Jet Airways,kolkata,banglore,450,1,no info,21,10,9,5,2019,14388
+Jet Airways,banglore,delhi,175,0,no info,15,15,24,4,2019,7229
+Jet Airways,banglore,new delhi,680,1,in-flight meal not included,11,40,21,3,2019,6992
+Indigo,banglore,delhi,170,0,no info,23,30,6,4,2019,4591
+Indigo,delhi,cochin,425,1,no info,5,5,9,5,2019,6818
+Goair,banglore,delhi,165,0,no info,20,55,3,4,2019,4239
+Indigo,mumbai,hyderabad,90,0,no info,19,5,18,5,2019,2754
+Jet Airways,kolkata,banglore,800,1,no info,20,0,24,5,2019,14571
+Jet Airways,kolkata,banglore,345,1,in-flight meal not included,14,5,9,5,2019,10844
+Indigo,chennai,kolkata,145,0,no info,11,35,27,3,2019,3858
+Jet Airways,banglore,new delhi,1590,1,in-flight meal not included,7,0,9,3,2019,11087
+Jet Airways,kolkata,banglore,775,1,in-flight meal not included,21,10,6,5,2019,7757
+Multiple Carriers,delhi,cochin,480,1,no info,13,0,21,3,2019,13062
+Jet Airways,banglore,delhi,180,0,no info,19,50,27,5,2019,7229
+Goair,delhi,cochin,370,1,no info,7,25,1,5,2019,5842
+Jet Airways,banglore,new delhi,1365,1,in-flight meal not included,11,40,18,3,2019,11087
+Jet Airways,kolkata,banglore,1495,1,no info,18,55,1,4,2019,12681
+Jet Airways,banglore,new delhi,745,1,no info,8,55,12,3,2019,13817
+Air India,kolkata,banglore,155,0,no info,20,45,18,5,2019,4880
+Air India,chennai,kolkata,135,0,no info,11,40,18,3,2019,4405
+Multiple Carriers,delhi,cochin,390,1,no info,19,0,24,5,2019,8283
+Jet Airways,delhi,cochin,1210,1,in-flight meal not included,22,50,12,6,2019,10262
+Jet Airways,kolkata,banglore,505,1,in-flight meal not included,9,35,1,5,2019,10703
+Indigo,kolkata,banglore,220,1,no info,19,35,15,4,2019,4226
+Multiple Carriers,delhi,cochin,645,1,no info,8,30,15,5,2019,8099
+Jet Airways,delhi,cochin,1775,2,no info,13,25,21,5,2019,15129
+Jet Airways,banglore,delhi,175,0,no info,15,15,27,6,2019,8016
+Jet Airways,banglore,delhi,165,0,no info,6,0,21,5,2019,7229
+Multiple Carriers,delhi,cochin,455,1,no info,11,40,9,5,2019,8266
+Jet Airways,kolkata,banglore,575,1,no info,9,35,1,5,2019,11467
+Jet Airways,banglore,new delhi,765,1,no info,18,55,12,3,2019,13817
+Spicejet,kolkata,banglore,140,0,no info,22,20,6,6,2019,3873
+Air India,kolkata,banglore,1625,2,no info,5,50,9,6,2019,12723
+Jet Airways,banglore,delhi,185,0,no info,18,55,18,6,2019,8016
+Jet Airways,banglore,new delhi,1310,1,in-flight meal not included,20,35,12,3,2019,11087
+Multiple Carriers,delhi,cochin,440,1,no info,11,40,12,6,2019,11789
+Jet Airways,kolkata,banglore,425,1,in-flight meal not included,16,30,6,5,2019,11841
+Jet Airways,delhi,cochin,550,1,no info,19,15,6,6,2019,14714
+Jet Airways,delhi,cochin,440,1,in-flight meal not included,11,30,27,3,2019,6017
+Jet Airways,kolkata,banglore,1540,1,no info,20,25,21,5,2019,13067
+Air India,delhi,cochin,555,1,no info,10,0,18,5,2019,8879
+Jet Airways,mumbai,hyderabad,90,0,no info,10,20,12,5,2019,5678
+Air India,kolkata,banglore,1390,2,no info,12,0,6,6,2019,9416
+Air India,mumbai,hyderabad,1175,3,no info,16,50,12,3,2019,14260
+Spicejet,banglore,new delhi,170,0,no info,5,45,15,3,2019,5575
+Jet Airways,kolkata,banglore,1485,1,in-flight meal not included,20,0,18,5,2019,10844
+Jet Airways,kolkata,banglore,570,1,no info,14,5,15,5,2019,13941
+Spicejet,banglore,new delhi,170,0,no info,20,30,9,3,2019,6205
+Jet Airways,delhi,cochin,425,2,in-flight meal not included,5,30,12,6,2019,13344
+Air India,kolkata,banglore,1605,1,no info,20,30,24,3,2019,10808
+Indigo,delhi,cochin,345,1,no info,21,50,1,5,2019,6349
+Spicejet,kolkata,banglore,315,1,no info,15,5,21,5,2019,4649
+Multiple Carriers,delhi,cochin,470,1,no info,11,25,12,6,2019,7354
+Vistara,kolkata,banglore,790,1,no info,7,10,12,6,2019,8610
+Jet Airways,kolkata,banglore,435,1,in-flight meal not included,10,20,1,5,2019,5608
+Spicejet,kolkata,banglore,520,1,no info,8,35,6,6,2019,6643
+Vistara,chennai,kolkata,140,0,no info,17,45,6,6,2019,11982
+Indigo,banglore,new delhi,170,0,no info,23,30,24,3,2019,6860
+Spicejet,mumbai,hyderabad,85,0,no check-in baggage included,22,45,15,3,2019,2647
+Jet Airways,kolkata,banglore,690,1,no info,9,35,18,5,2019,14151
+Vistara,banglore,delhi,170,0,no info,9,45,6,4,2019,5613
+Jet Airways,banglore,delhi,185,0,in-flight meal not included,18,55,24,5,2019,6144
+Air India,delhi,cochin,1395,1,no info,20,0,9,6,2019,8372
+Jet Airways,delhi,cochin,440,2,no info,11,40,9,4,2019,15439
+Jet Airways,banglore,new delhi,1045,1,no info,11,40,6,3,2019,16736
+Indigo,kolkata,banglore,160,0,no info,21,25,15,5,2019,4804
+Jet Airways,delhi,cochin,440,1,no info,11,30,6,3,2019,17024
+Air Asia,kolkata,banglore,955,1,no info,7,35,12,5,2019,5320
+Air India,delhi,cochin,735,1,no info,7,0,24,5,2019,9929
+Air Asia,kolkata,banglore,215,1,no info,19,55,21,5,2019,5162
+Jet Airways,banglore,delhi,185,0,in-flight meal not included,18,55,24,4,2019,4544
+Indigo,delhi,cochin,380,1,no info,16,10,27,6,2019,6412
+Jet Airways,delhi,cochin,1130,2,no info,9,35,1,6,2019,13292
+Air Asia,delhi,cochin,340,1,no info,16,45,24,4,2019,6152
+Air India,delhi,cochin,435,2,no info,12,0,27,3,2019,10493
+Spicejet,kolkata,banglore,435,1,no info,11,35,18,5,2019,8479
+Vistara,delhi,cochin,190,0,no info,14,40,24,6,2019,6216
+Indigo,mumbai,hyderabad,90,0,no info,6,25,27,5,2019,4049
+Air India,delhi,cochin,1380,2,no info,20,15,12,6,2019,13381
+Vistara,banglore,new delhi,160,0,no info,19,40,24,3,2019,4563
+Jet Airways,delhi,cochin,600,1,in-flight meal not included,9,0,15,6,2019,10262
+Spicejet,kolkata,banglore,150,0,no info,9,0,27,3,2019,3847
+Multiple Carriers,delhi,cochin,395,1,no info,19,0,3,3,2019,16775
+Spicejet,kolkata,banglore,140,0,no info,22,20,3,4,2019,3873
+Air India,delhi,cochin,180,0,no info,14,10,27,4,2019,6094
+Indigo,delhi,cochin,835,1,no info,8,35,18,5,2019,7144
+Jet Airways,kolkata,banglore,1450,1,no info,9,35,6,5,2019,10953
+Vistara,kolkata,banglore,965,1,no info,17,0,9,5,2019,9187
+Indigo,delhi,cochin,895,1,no info,7,35,1,6,2019,6442
+Jet Airways,banglore,new delhi,435,1,no info,14,5,1,3,2019,36235
+Indigo,delhi,cochin,455,1,no info,8,35,15,4,2019,6442
+Multiple Carriers,delhi,cochin,615,1,in-flight meal not included,9,0,6,3,2019,15342
+Indigo,kolkata,banglore,155,0,no info,11,30,12,4,2019,4174
+Multiple Carriers,delhi,cochin,390,1,no info,19,0,27,6,2019,6795
+Spicejet,kolkata,banglore,145,0,no info,9,0,9,5,2019,3873
+Spicejet,mumbai,hyderabad,90,0,no check-in baggage included,5,45,21,6,2019,2647
+Indigo,chennai,kolkata,135,0,no info,13,20,27,3,2019,3384
+Indigo,banglore,delhi,170,0,no info,22,10,24,4,2019,3625
+Jet Airways,delhi,cochin,1385,1,in-flight meal not included,19,45,9,3,2019,14053
+Multiple Carriers,delhi,cochin,455,1,no info,18,0,6,3,2019,16863
+Air Asia,banglore,delhi,170,0,no info,23,55,18,6,2019,3383
+Air Asia,kolkata,banglore,150,0,no info,19,55,12,6,2019,3807
+Vistara,mumbai,hyderabad,1065,1,no info,15,40,6,3,2019,12395
+Air India,kolkata,banglore,875,2,no info,5,50,6,5,2019,10991
+Air India,delhi,cochin,1560,2,no info,17,15,21,3,2019,8245
+Jet Airways,delhi,cochin,330,1,no info,7,5,3,6,2019,14924
+Air Asia,banglore,new delhi,170,0,no info,5,50,9,3,2019,4284
+Indigo,mumbai,hyderabad,90,0,no info,6,25,27,6,2019,4049
+Multiple Carriers,delhi,cochin,720,1,no info,9,0,21,3,2019,13062
+Jet Airways,banglore,new delhi,325,1,no info,7,0,6,3,2019,22270
+Jet Airways,kolkata,banglore,800,1,in-flight meal not included,6,30,9,6,2019,10844
+Jet Airways,mumbai,hyderabad,90,0,no info,19,35,27,3,2019,5678
+Jet Airways,delhi,cochin,610,1,in-flight meal not included,18,15,9,3,2019,14053
+Jet Airways,delhi,cochin,1260,1,in-flight meal not included,21,50,9,3,2019,13843
+Vistara,banglore,delhi,170,0,no info,21,0,3,5,2019,5613
+Indigo,delhi,cochin,415,1,no info,18,35,27,5,2019,6628
+Multiple Carriers,delhi,cochin,570,1,no info,11,30,1,6,2019,13587
+Jet Airways,kolkata,banglore,475,1,no info,8,25,24,5,2019,14571
+Air India,mumbai,hyderabad,75,0,no info,19,30,15,3,2019,3100
+Spicejet,banglore,delhi,170,0,no check-in baggage included,9,30,15,5,2019,4319
+Jet Airways,kolkata,banglore,1595,1,in-flight meal not included,20,0,1,4,2019,7064
+Indigo,mumbai,hyderabad,85,0,no info,21,20,15,3,2019,2754
+Multiple Carriers,delhi,cochin,480,1,no info,17,30,9,4,2019,13017
+Air India,kolkata,banglore,1105,2,no info,14,30,6,6,2019,15107
+Air India,delhi,cochin,1560,2,no info,17,15,18,5,2019,12392
+Multiple Carriers,delhi,cochin,465,1,no info,11,30,21,5,2019,14848
+Jet Airways,mumbai,hyderabad,90,0,in-flight meal not included,19,35,18,6,2019,3210
+Indigo,delhi,cochin,345,1,no info,21,50,27,4,2019,6307
+Jet Airways,banglore,delhi,185,0,in-flight meal not included,18,55,6,6,2019,7229
+Indigo,mumbai,hyderabad,85,0,no info,12,0,18,3,2019,2754
+Jet Airways,banglore,delhi,180,0,in-flight meal not included,7,10,24,5,2019,4030
+Indigo,delhi,cochin,565,2,no info,11,55,3,3,2019,9413
+Multiple Carriers,delhi,cochin,455,1,no info,14,55,3,6,2019,7038
+Indigo,kolkata,banglore,155,0,no info,11,30,1,5,2019,5644
+Air India,banglore,new delhi,1490,1,no info,10,30,15,3,2019,7013
+Air India,delhi,cochin,705,1,no info,20,30,9,3,2019,8991
+Jet Airways,kolkata,banglore,505,1,no info,9,35,6,5,2019,13067
+Jet Airways,kolkata,banglore,1285,1,no info,17,0,12,5,2019,13067
+Jet Airways,banglore,new delhi,365,1,no info,16,55,12,3,2019,13817
+Air India,kolkata,banglore,875,2,no info,5,50,24,5,2019,11201
+Air India,banglore,delhi,165,0,no info,17,0,24,5,2019,7171
+Jet Airways,banglore,new delhi,875,1,no info,18,55,12,3,2019,13817
+Indigo,banglore,new delhi,170,0,no info,4,0,24,3,2019,4777
+Indigo,delhi,cochin,845,1,no info,11,25,27,6,2019,5684
+Jet Airways,mumbai,hyderabad,90,0,no info,10,20,24,3,2019,5678
+Jet Airways,delhi,cochin,455,1,no info,20,50,21,3,2019,14189
+Multiple Carriers,delhi,cochin,435,1,no info,18,15,9,6,2019,13587
+Indigo,delhi,cochin,705,1,no info,9,15,12,6,2019,6838
+Indigo,kolkata,banglore,155,0,no info,22,15,6,4,2019,4174
+Spicejet,banglore,delhi,175,0,no info,21,10,21,5,2019,3625
+Jet Airways,delhi,cochin,1110,1,no info,9,55,3,3,2019,19828
+Indigo,banglore,delhi,170,0,no info,10,30,27,4,2019,4423
+Vistara,delhi,cochin,190,0,no info,6,0,18,4,2019,6741
+Jet Airways,delhi,cochin,1425,1,in-flight meal not included,19,15,27,5,2019,12898
+Jet Airways,delhi,cochin,440,1,no info,11,30,27,3,2019,12242
+Jet Airways,kolkata,banglore,1720,1,in-flight meal not included,18,55,1,4,2019,7064
+Jet Airways,delhi,cochin,2230,2,no info,5,40,3,3,2019,21314
+Air India,mumbai,hyderabad,545,2,no info,10,5,12,3,2019,9736
+Air India,delhi,cochin,1125,1,no info,13,30,27,3,2019,6681
+Indigo,delhi,cochin,290,1,no info,15,10,27,5,2019,5912
+Indigo,delhi,cochin,665,1,no info,5,5,24,4,2019,6171
+Vistara,chennai,kolkata,135,0,no info,7,5,6,6,2019,3687
+Indigo,delhi,cochin,860,1,no info,6,40,9,6,2019,6093
+Jet Airways,mumbai,hyderabad,85,0,in-flight meal not included,7,5,15,6,2019,4050
+Air India,banglore,new delhi,880,2,no info,8,15,6,3,2019,13942
+Jet Airways,banglore,new delhi,405,1,in-flight meal not included,11,40,15,3,2019,9134
+Jet Airways,kolkata,banglore,800,1,no info,20,25,12,5,2019,14151
+Air India,kolkata,banglore,1440,2,no info,10,0,6,5,2019,14298
+Goair,delhi,cochin,455,1,no info,5,45,3,3,2019,5628
+Indigo,kolkata,banglore,160,0,no info,21,25,6,3,2019,4778
+Air India,kolkata,banglore,150,0,no info,14,15,24,4,2019,4880
+Indigo,kolkata,banglore,285,1,no info,8,15,24,3,2019,6303
+Indigo,mumbai,hyderabad,90,0,no info,9,10,3,5,2019,5755
+Spicejet,mumbai,hyderabad,90,0,no info,13,15,9,6,2019,2227
+Air India,kolkata,banglore,895,2,no info,8,20,9,5,2019,11432
+Spicejet,delhi,cochin,295,1,no info,17,55,3,6,2019,5409
+Jet Airways,delhi,cochin,805,1,in-flight meal not included,15,0,27,5,2019,12898
+Jet Airways,delhi,cochin,195,0,in-flight meal not included,11,0,27,5,2019,7989
+Air India,mumbai,hyderabad,465,1,no info,16,0,6,3,2019,11678
+Jet Airways,delhi,cochin,1415,1,no info,19,15,9,3,2019,16289
+Jet Airways,delhi,cochin,1145,1,no info,17,30,9,4,2019,11822
+Jet Airways,kolkata,banglore,870,1,no info,20,25,1,4,2019,11467
+Indigo,delhi,cochin,425,1,no info,5,5,27,5,2019,6600
+Jet Airways,kolkata,banglore,775,1,no info,21,10,6,6,2019,14571
+Jet Airways,delhi,cochin,1420,2,no info,19,10,21,3,2019,10929
+Air India,banglore,delhi,165,0,no info,17,0,6,4,2019,4651
+Spicejet,kolkata,banglore,140,0,no info,22,20,24,4,2019,3873
+Indigo,mumbai,hyderabad,90,0,no info,1,40,12,6,2019,2754
+Jet Airways,banglore,delhi,175,0,no info,15,15,12,4,2019,7229
+Jet Airways,mumbai,hyderabad,90,0,in-flight meal not included,19,35,27,3,2019,2071
+Vistara,banglore,delhi,170,0,no info,11,30,1,6,2019,4668
+Indigo,delhi,cochin,665,1,no info,5,5,6,6,2019,6818
+Jet Airways,kolkata,banglore,1495,1,in-flight meal not included,8,25,18,5,2019,9663
+Jet Airways,kolkata,banglore,435,1,no info,10,20,24,5,2019,8781
+Air India,mumbai,hyderabad,80,0,no info,6,20,1,5,2019,3625
+Air India,kolkata,banglore,1830,3,no info,16,45,1,4,2019,8607
+Air India,banglore,delhi,165,0,no info,10,0,24,4,2019,6121
+Multiple Carriers,delhi,cochin,465,2,no info,17,50,9,3,2019,23583
+Indigo,chennai,kolkata,140,0,no info,7,55,27,6,2019,3850
+Jet Airways,delhi,cochin,425,2,in-flight meal not included,5,30,3,6,2019,13344
+Air India,delhi,cochin,1350,1,no info,9,45,12,6,2019,8991
+Indigo,delhi,cochin,455,1,no info,8,35,27,5,2019,6442
+Spicejet,mumbai,hyderabad,90,0,no check-in baggage included,22,45,21,5,2019,1965
+Jet Airways,banglore,delhi,180,0,no info,19,50,24,4,2019,7229
+Jet Airways,delhi,cochin,1320,2,in-flight meal not included,14,35,15,6,2019,10919
+Indigo,delhi,cochin,425,1,no info,4,55,9,3,2019,6171
+Jet Airways,delhi,cochin,1425,1,no info,19,15,18,5,2019,15554
+Indigo,banglore,delhi,180,0,no info,21,15,27,5,2019,3943
+Jet Airways,kolkata,banglore,1545,1,no info,6,30,6,5,2019,13941
+Vistara,chennai,kolkata,135,0,no info,7,5,18,3,2019,4842
+Indigo,kolkata,banglore,265,1,no info,19,20,9,6,2019,4205
+Spicejet,kolkata,banglore,330,1,no info,15,55,12,6,2019,8224
+Vistara,kolkata,banglore,1640,1,no info,17,0,1,5,2019,8610
+Jet Airways,kolkata,banglore,1685,1,no info,17,0,18,5,2019,14151
+Jet Airways,kolkata,banglore,330,1,no info,6,30,1,5,2019,14388
+Multiple Carriers,delhi,cochin,930,1,no info,10,0,1,6,2019,7198
+Air Asia,banglore,delhi,170,0,no info,4,55,24,5,2019,3383
+Indigo,banglore,delhi,170,0,no info,20,0,1,4,2019,4823
+Air India,kolkata,banglore,1200,2,no info,9,25,6,6,2019,13217
+Indigo,banglore,delhi,170,0,no info,8,30,24,6,2019,4823
+Spicejet,chennai,kolkata,140,0,no check-in baggage included,17,45,21,3,2019,3332
+Jet Airways,banglore,new delhi,760,1,no info,5,45,1,3,2019,26890
+Spicejet,mumbai,hyderabad,90,0,no info,22,45,12,5,2019,2017
+Indigo,banglore,delhi,170,0,no info,4,0,1,4,2019,3943
+Air India,banglore,new delhi,1580,2,no info,8,50,1,3,2019,19372
+Air India,mumbai,hyderabad,75,0,no info,19,30,12,6,2019,3100
+Indigo,banglore,delhi,165,0,no info,19,30,21,6,2019,5780
+Multiple Carriers,delhi,cochin,720,1,no info,7,0,12,6,2019,12192
+Air India,delhi,cochin,555,1,no info,10,0,3,6,2019,10979
+Jet Airways,delhi,cochin,1145,1,in-flight meal not included,17,30,9,6,2019,10262
+Indigo,mumbai,hyderabad,90,0,no info,16,55,15,5,2019,3175
+Jet Airways,delhi,cochin,1485,1,in-flight meal not included,18,15,21,5,2019,12898
+Jet Airways,kolkata,banglore,1400,1,in-flight meal not included,18,55,1,4,2019,7064
+Jet Airways,delhi,cochin,195,0,no info,11,0,6,6,2019,9564
+Jet Airways,mumbai,hyderabad,85,0,in-flight meal not included,7,5,6,5,2019,4995
+Indigo,delhi,cochin,480,1,no info,17,30,1,6,2019,6628
+Air India,delhi,cochin,1275,2,no info,22,0,6,5,2019,11701
+Multiple Carriers,delhi,cochin,570,1,no info,16,0,9,6,2019,13587
+Multiple Carriers,delhi,cochin,860,1,no info,4,55,21,5,2019,7575
+Indigo,kolkata,banglore,155,0,no info,20,20,12,4,2019,4488
+Air India,delhi,cochin,1545,2,no info,5,55,9,4,2019,10021
+Indigo,mumbai,hyderabad,85,0,no info,6,20,27,3,2019,3175
+Air India,mumbai,hyderabad,80,0,no info,6,20,15,3,2019,3100
+Indigo,kolkata,banglore,155,0,no info,17,15,6,6,2019,4804
+Air Asia,kolkata,banglore,150,0,no info,22,50,6,4,2019,3807
+Jet Airways,delhi,cochin,1505,1,in-flight meal not included,11,30,9,6,2019,10262
+Jet Airways,kolkata,banglore,740,1,no info,8,25,21,5,2019,14781
+Multiple Carriers,delhi,cochin,630,1,no info,8,45,1,6,2019,10261
+Air India,banglore,delhi,165,0,no info,17,0,27,6,2019,6961
+Multiple Carriers,delhi,cochin,450,1,no info,8,0,3,3,2019,15078
+Air India,delhi,cochin,1560,2,no info,17,15,6,6,2019,12760
+Multiple Carriers,delhi,cochin,485,1,no info,17,30,21,3,2019,13542
+Multiple Carriers,delhi,cochin,395,1,no info,19,0,21,3,2019,10885
+Indigo,kolkata,banglore,280,1,no info,17,35,24,3,2019,6933
+Indigo,delhi,cochin,645,1,no info,4,45,6,3,2019,13611
+Jet Airways,delhi,cochin,1295,2,no info,21,25,1,6,2019,13292
+Multiple Carriers,delhi,cochin,480,1,no info,17,30,9,5,2019,15078
+Jet Airways,kolkata,banglore,1480,1,in-flight meal not included,20,25,12,5,2019,10703
+Spicejet,kolkata,banglore,155,0,no info,6,55,3,6,2019,3873
+Indigo,banglore,new delhi,300,1,no info,19,35,21,3,2019,6575
+Indigo,delhi,cochin,765,2,no info,8,35,9,3,2019,8146
+Indigo,mumbai,hyderabad,90,0,no info,2,35,9,5,2019,2754
+Jet Airways,kolkata,banglore,960,1,no info,20,0,9,6,2019,14571
+Air India,banglore,new delhi,980,2,no info,5,50,15,3,2019,9796
+Multiple Carriers,delhi,cochin,595,1,no info,8,55,6,3,2019,15411
+Indigo,banglore,new delhi,170,0,no info,16,55,24,3,2019,7303
+Jet Airways,kolkata,banglore,1365,1,in-flight meal not included,20,25,1,5,2019,9314
+Air India,delhi,cochin,1545,2,no info,5,55,9,6,2019,10493
+Jet Airways,banglore,delhi,180,0,no info,7,10,6,6,2019,8016
+Spicejet,chennai,kolkata,135,0,no check-in baggage included,9,45,15,6,2019,3543
+Jet Airways,delhi,cochin,1355,1,in-flight meal not included,14,0,3,4,2019,5177
+Air India,banglore,new delhi,875,2,no info,8,50,12,3,2019,13250
+Multiple Carriers,delhi,cochin,615,1,no info,8,45,1,6,2019,12524
+Multiple Carriers,delhi,cochin,545,1,no info,7,5,9,6,2019,9646
+Multiple Carriers,delhi,cochin,630,1,no info,8,30,21,5,2019,9627
+Indigo,banglore,delhi,175,0,no info,18,25,18,5,2019,4823
+Air India,delhi,cochin,1590,1,no info,20,30,15,5,2019,8907
+Multiple Carriers,delhi,cochin,690,1,no info,7,30,1,6,2019,11200
+Multiple Carriers,delhi,cochin,660,1,no info,10,0,9,6,2019,7408
+Vistara,banglore,new delhi,160,0,no info,19,40,3,3,2019,11913
+Jet Airways,kolkata,banglore,1080,1,no info,20,25,1,5,2019,11467
+Multiple Carriers,delhi,cochin,375,1,no info,13,0,18,5,2019,14533
+Air India,kolkata,banglore,1165,2,no info,10,0,9,6,2019,12744
+Indigo,delhi,cochin,490,1,no info,4,45,9,3,2019,16162
+Indigo,banglore,delhi,170,0,no info,22,10,12,6,2019,3419
+Jet Airways,delhi,cochin,1375,2,no info,5,30,9,6,2019,13014
+Spicejet,kolkata,banglore,140,0,no info,22,20,1,6,2019,3873
+Air Asia,delhi,cochin,865,1,no info,16,45,9,3,2019,8327
+Air India,delhi,cochin,1560,2,no info,17,15,1,6,2019,12970
+Multiple Carriers,delhi,cochin,840,1,no info,7,0,21,5,2019,7888
+Vistara,delhi,cochin,190,0,no info,6,0,12,5,2019,6216
+Jet Airways,kolkata,banglore,1220,1,in-flight meal not included,20,0,18,5,2019,10844
+Air India,kolkata,banglore,745,1,no info,9,25,15,5,2019,8366
+Spicejet,banglore,delhi,170,0,no info,9,30,15,4,2019,4423
+Indigo,delhi,cochin,845,1,no info,11,25,3,6,2019,5883
+Air Asia,delhi,cochin,625,1,no info,20,45,6,6,2019,11410
+Spicejet,banglore,delhi,175,0,no check-in baggage included,21,10,15,4,2019,3919
+Jet Airways,mumbai,hyderabad,90,0,no info,15,50,27,3,2019,5678
+Air India,banglore,delhi,170,0,no info,21,5,21,6,2019,5228
+Indigo,kolkata,banglore,150,0,no info,15,15,18,5,2019,4804
+Air Asia,kolkata,banglore,150,0,no info,19,55,6,6,2019,4508
+Jet Airways,mumbai,hyderabad,90,0,no info,8,45,21,6,2019,8040
+Indigo,delhi,cochin,625,1,no info,10,35,21,5,2019,6794
+Air India,mumbai,hyderabad,80,0,no info,21,5,12,6,2019,3100
+Multiple Carriers,delhi,cochin,490,1,no info,12,50,3,6,2019,7740
+Jet Airways,banglore,delhi,175,0,no info,11,10,3,5,2019,7229
+Jet Airways,kolkata,banglore,1545,1,in-flight meal not included,6,30,21,5,2019,8586
+Air India,banglore,new delhi,1600,2,no info,6,45,12,3,2019,12515
+Indigo,mumbai,hyderabad,90,0,no info,19,5,21,6,2019,4049
+Jet Airways,kolkata,banglore,1285,1,no info,17,0,18,5,2019,13067
+Vistara,kolkata,banglore,1550,1,no info,20,20,24,3,2019,11105
+Air Asia,kolkata,banglore,150,0,no info,19,55,24,6,2019,3807
+Jet Airways,banglore,delhi,180,0,in-flight meal not included,19,50,6,4,2019,4544
+Air India,banglore,delhi,170,0,no info,21,5,6,6,2019,6121
+Spicejet,banglore,delhi,160,0,no check-in baggage included,5,55,27,4,2019,4319
+Goair,delhi,cochin,355,1,no info,7,0,6,4,2019,5135
+Jet Airways,banglore,delhi,180,0,no info,19,50,1,6,2019,8016
+Indigo,delhi,cochin,575,1,no info,11,25,6,6,2019,6093
+Air India,kolkata,banglore,155,0,no info,20,45,18,3,2019,4435
+Indigo,kolkata,banglore,155,0,no info,4,40,12,4,2019,4174
+Jet Airways,banglore,delhi,180,0,no info,19,50,18,6,2019,8016
+Vistara,banglore,delhi,170,0,no info,11,30,24,5,2019,4668
+Jet Airways,delhi,cochin,810,2,in-flight meal not included,5,30,15,6,2019,10368
+Jet Airways,delhi,cochin,1270,1,in-flight meal not included,21,50,9,5,2019,12373
+Jet Airways,delhi,cochin,1600,2,no info,16,10,21,3,2019,13180
+Air India,banglore,delhi,170,0,no info,21,5,15,6,2019,5228
+Jet Airways,delhi,cochin,1355,1,in-flight meal not included,14,0,3,6,2019,10262
+Air India,mumbai,hyderabad,80,0,no info,21,5,1,6,2019,3100
+Jet Airways,banglore,new delhi,885,1,no info,16,55,18,3,2019,13555
+Air India,delhi,cochin,1730,2,no info,14,25,1,6,2019,13591
+Goair,kolkata,banglore,455,1,no info,16,40,15,5,2019,7831
+Goair,kolkata,banglore,455,1,no info,16,40,1,4,2019,5171
+Air Asia,banglore,delhi,165,0,no info,11,10,3,5,2019,4483
+Air India,banglore,new delhi,165,0,no info,17,0,9,3,2019,10741
+Jet Airways,kolkata,banglore,450,1,in-flight meal not included,21,10,9,5,2019,9663
+Air India,kolkata,banglore,970,2,no info,16,45,12,6,2019,14960
+Jet Airways,delhi,cochin,1320,2,no info,14,35,9,6,2019,13376
+Vistara,delhi,cochin,175,0,no info,14,55,21,3,2019,5586
+Jet Airways,delhi,cochin,810,2,no info,5,30,3,6,2019,13292
+Indigo,banglore,delhi,165,0,no info,1,30,24,6,2019,3943
+Goair,banglore,delhi,165,0,no info,20,55,24,4,2019,3419
+Multiple Carriers,delhi,cochin,460,1,no info,4,55,6,6,2019,10678
+Air India,delhi,cochin,1255,1,no info,12,30,15,5,2019,7480
+Jet Airways,delhi,cochin,440,1,no info,11,30,21,3,2019,13244
+Air India,mumbai,hyderabad,90,0,no info,13,55,18,5,2019,3100
+Jet Airways,banglore,new delhi,840,1,no info,21,25,12,3,2019,13817
+Jet Airways,kolkata,banglore,1450,1,no info,9,35,12,5,2019,14151
+Vistara,banglore,delhi,160,0,no info,7,0,6,5,2019,4668
+Vistara,banglore,delhi,165,0,no info,19,30,3,6,2019,4878
+Vistara,kolkata,banglore,630,1,no info,9,55,24,3,2019,12312
+Air India,delhi,cochin,1305,2,no info,21,30,9,3,2019,11762
+Jet Airways,kolkata,banglore,910,1,no info,8,25,15,5,2019,13941
+Spicejet,banglore,delhi,170,0,no check-in baggage included,9,30,12,5,2019,4319
+Air India,kolkata,banglore,1700,2,no info,9,25,9,5,2019,12592
+Vistara,banglore,delhi,155,0,no info,17,0,3,5,2019,5613
+Jet Airways,delhi,cochin,1225,1,no info,8,0,21,3,2019,12767
+Multiple Carriers,delhi,cochin,535,1,no info,10,20,21,3,2019,7531
+Indigo,banglore,delhi,175,0,no info,18,55,1,5,2019,4823
+Indigo,banglore,delhi,170,0,no info,4,0,9,5,2019,3943
+Air India,delhi,cochin,1275,2,no info,22,0,9,3,2019,16373
+Jet Airways,kolkata,banglore,520,1,no info,20,0,21,5,2019,14781
+Indigo,delhi,cochin,560,1,no info,6,50,15,4,2019,6442
+Air India,banglore,delhi,170,0,no info,21,5,9,5,2019,6121
+Air India,banglore,delhi,170,0,no info,13,20,1,5,2019,6121
+Jet Airways,banglore,delhi,185,0,in-flight meal not included,18,55,1,6,2019,7229
+Vistara,kolkata,banglore,1640,1,no info,17,0,18,5,2019,9555
+Jet Airways,kolkata,banglore,1090,1,no info,14,5,21,5,2019,14388
+Air India,mumbai,hyderabad,80,0,no info,21,5,21,6,2019,3100
+Vistara,banglore,new delhi,175,0,no info,21,10,24,3,2019,6558
+Air India,delhi,cochin,1660,1,no info,4,0,1,3,2019,28322
+Jet Airways,delhi,cochin,1280,1,no info,7,5,21,3,2019,12767
+Jet Airways,kolkata,banglore,1640,1,in-flight meal not included,16,30,1,4,2019,7064
+Jet Airways,kolkata,banglore,1480,1,no info,20,25,6,5,2019,13067
+Air India,delhi,cochin,1420,1,no info,9,45,27,3,2019,5957
+Jet Airways,delhi,cochin,810,2,in-flight meal not included,5,30,1,6,2019,10368
+Air India,chennai,kolkata,135,0,no info,11,40,12,5,2019,4667
+Indigo,delhi,cochin,515,1,no info,4,45,21,3,2019,7738
+Indigo,banglore,new delhi,175,0,no info,18,25,9,3,2019,6860
+Indigo,banglore,new delhi,290,1,no info,7,30,21,3,2019,5694
+Jet Airways,kolkata,banglore,435,1,no info,10,20,9,5,2019,8355
+Spicejet,banglore,new delhi,170,0,no check-in baggage included,5,45,24,3,2019,4273
+Jet Airways,delhi,cochin,535,1,no info,9,55,6,3,2019,17024
+Jet Airways,delhi,cochin,1670,1,no info,15,0,21,3,2019,12767
+Indigo,chennai,kolkata,145,0,no info,22,5,12,3,2019,6297
+Vistara,kolkata,banglore,1350,1,no info,20,20,1,4,2019,7927
+Indigo,chennai,kolkata,140,0,no info,22,5,24,5,2019,5277
+Air India,delhi,cochin,1470,2,no info,18,45,18,5,2019,12940
+Vistara,banglore,delhi,165,0,no info,19,30,27,4,2019,5613
+Multiple Carriers,delhi,cochin,690,1,no info,7,30,9,5,2019,9794
+Vistara,banglore,new delhi,1665,1,no info,6,40,3,3,2019,12476
+Jet Airways,kolkata,banglore,750,1,in-flight meal not included,5,45,18,5,2019,10844
+Spicejet,kolkata,banglore,150,0,no check-in baggage included,17,10,27,5,2019,3841
+Indigo,chennai,kolkata,140,0,no info,22,5,24,3,2019,5277
+Spicejet,delhi,cochin,270,1,no info,8,45,27,3,2019,4466
+Indigo,kolkata,banglore,170,0,no info,5,30,24,3,2019,4778
+Vistara,kolkata,banglore,945,1,no info,7,10,9,6,2019,8662
+Jet Airways,delhi,cochin,1100,1,in-flight meal not included,18,15,27,5,2019,12898
+Jet Airways,kolkata,banglore,730,1,no info,21,10,6,5,2019,14388
+Indigo,banglore,delhi,170,0,no info,13,0,27,5,2019,3943
+Jet Airways,kolkata,banglore,1415,1,in-flight meal not included,21,10,9,6,2019,10844
+Vistara,banglore,delhi,170,0,no info,11,30,3,5,2019,4668
+Air India,kolkata,banglore,1470,3,no info,10,0,24,5,2019,13007
+Jet Airways,delhi,cochin,450,1,no info,11,30,12,6,2019,14714
+Indigo,delhi,cochin,810,1,no info,7,30,3,6,2019,6093
+Vistara,chennai,kolkata,135,0,no info,7,5,21,5,2019,3687
+Jet Airways,delhi,cochin,820,2,in-flight meal not included,5,10,27,3,2019,8728
+Multiple Carriers,delhi,cochin,665,1,no info,9,55,27,3,2019,12537
+Air Asia,kolkata,banglore,150,0,no info,22,50,12,5,2019,4409
+Jet Airways,banglore,new delhi,680,1,no info,11,40,6,3,2019,16736
+Jet Airways,banglore,delhi,180,0,in-flight meal not included,8,20,6,4,2019,4544
+Jet Airways,kolkata,banglore,1200,1,in-flight meal not included,14,5,9,5,2019,7757
+Jet Airways,delhi,cochin,620,1,in-flight meal not included,2,15,6,4,2019,5177
+Multiple Carriers,delhi,cochin,460,2,no info,17,50,6,6,2019,18275
+Multiple Carriers,delhi,cochin,730,1,no info,7,5,24,6,2019,15058
+Jet Airways,kolkata,banglore,1285,1,in-flight meal not included,17,0,6,6,2019,10539
+Indigo,delhi,cochin,835,1,no info,8,35,24,6,2019,6442
+Spicejet,chennai,kolkata,140,0,no info,17,45,12,5,2019,3597
+Multiple Carriers,delhi,cochin,510,1,no info,17,0,18,5,2019,8283
+Jet Airways,delhi,cochin,360,1,no info,13,0,12,6,2019,14714
+Jet Airways,banglore,delhi,180,0,no info,19,50,12,5,2019,7229
+Jet Airways,delhi,cochin,1375,2,no info,5,30,9,5,2019,15129
+Jet Airways,delhi,cochin,1010,1,in-flight meal not included,19,45,21,5,2019,12898
+Jet Airways,mumbai,hyderabad,90,0,no info,19,35,9,6,2019,5678
+Spicejet,chennai,kolkata,135,0,no info,8,20,24,5,2019,3597
+Multiple Carriers,delhi,cochin,465,1,no info,11,30,27,6,2019,14848
+Jet Airways,banglore,delhi,165,0,in-flight meal not included,6,0,9,6,2019,7229
+Multiple Carriers,delhi,cochin,480,1,no info,17,30,27,6,2019,13377
+Spicejet,mumbai,hyderabad,90,0,no check-in baggage included,13,15,21,5,2019,1965
+Indigo,kolkata,banglore,325,1,no info,18,5,12,6,2019,6218
+Indigo,banglore,delhi,170,0,no info,8,30,27,5,2019,4823
+Air India,delhi,cochin,185,0,no info,18,5,21,5,2019,6094
+Air India,kolkata,banglore,610,2,no info,8,20,18,5,2019,10907
+Air Asia,banglore,delhi,170,0,no info,23,55,6,6,2019,7120
+Indigo,banglore,delhi,170,0,no info,4,0,27,4,2019,4423
+Indigo,banglore,new delhi,170,0,no info,22,20,3,3,2019,7648
+Jet Airways,delhi,cochin,810,2,in-flight meal not included,5,30,18,5,2019,13029
+Jet Airways,kolkata,banglore,690,1,in-flight meal not included,9,35,6,5,2019,10703
+Air India,kolkata,banglore,1915,2,no info,9,25,18,5,2019,13616
+Jet Airways,delhi,cochin,825,1,in-flight meal not included,22,50,27,6,2019,10262
+Indigo,kolkata,banglore,150,0,no info,15,15,6,6,2019,4804
+Jet Airways,banglore,delhi,175,0,no info,11,10,1,5,2019,7229
+Multiple Carriers,delhi,cochin,705,1,no info,7,30,27,3,2019,9100
+Jet Airways,banglore,new delhi,1450,1,no info,22,50,1,3,2019,25735
+Air India,delhi,cochin,1410,2,no info,19,45,27,6,2019,9653
+Jet Airways,kolkata,banglore,730,1,no info,16,30,12,6,2019,12471
+Jet Airways,banglore,delhi,180,0,in-flight meal not included,7,10,9,6,2019,7229
+Jet Airways,kolkata,banglore,735,1,in-flight meal not included,20,0,6,5,2019,9663
+Indigo,delhi,cochin,425,1,no info,8,25,21,3,2019,9709
+Spicejet,kolkata,banglore,150,0,no info,17,10,18,5,2019,4174
+Jet Airways,kolkata,banglore,590,1,no info,6,30,1,4,2019,12996
+Indigo,kolkata,banglore,155,0,no info,15,10,12,3,2019,4148
+Multiple Carriers,delhi,cochin,620,1,no info,15,15,9,3,2019,15200
+Jet Airways,banglore,delhi,175,0,in-flight meal not included,15,50,21,5,2019,3359
+Air India,delhi,cochin,1410,2,no info,19,45,21,5,2019,9443
+Jet Airways,kolkata,banglore,690,1,no info,9,35,12,5,2019,14151
+Vistara,banglore,new delhi,355,1,no info,6,40,3,3,2019,12476
+Indigo,chennai,kolkata,145,0,no info,5,15,6,6,2019,3540
+Indigo,delhi,cochin,630,1,no info,15,0,6,6,2019,5883
+Jet Airways,kolkata,banglore,750,1,no info,9,35,12,5,2019,14151
+Indigo,kolkata,banglore,295,1,no info,9,20,24,5,2019,9376
+Air India,delhi,cochin,1595,2,no info,16,40,3,3,2019,14011
+Air India,kolkata,banglore,1435,1,no info,20,30,6,5,2019,10203
+Jet Airways,banglore,new delhi,860,1,no info,7,0,1,3,2019,27992
+Indigo,banglore,delhi,170,0,no info,4,0,6,4,2019,4423
+Jet Airways,delhi,cochin,1620,2,no info,9,35,12,6,2019,13292
+Multiple Carriers,delhi,cochin,440,1,no info,18,15,21,3,2019,13542
+Multiple Carriers,delhi,cochin,640,1,no info,10,20,9,5,2019,7670
+Jet Airways,delhi,cochin,450,1,no info,11,30,6,6,2019,14714
+Jet Airways,banglore,new delhi,420,2,no info,8,55,18,3,2019,16338
+Jet Airways,delhi,cochin,1615,2,in-flight meal not included,9,40,3,6,2019,10368
+Jet Airways,kolkata,banglore,570,1,no info,14,5,6,5,2019,15149
+Jet Airways,kolkata,banglore,1450,1,no info,9,35,1,5,2019,11467
+Air India,delhi,cochin,2280,3,no info,5,15,9,3,2019,15586
+Vistara,banglore,delhi,170,0,no info,21,0,12,5,2019,4668
+Jet Airways,mumbai,hyderabad,85,0,in-flight meal not included,7,5,12,5,2019,4050
+Jet Airways,delhi,cochin,1685,1,no info,0,20,9,3,2019,15029
+Spicejet,chennai,kolkata,135,0,no check-in baggage included,9,45,9,5,2019,3543
+Multiple Carriers,delhi,cochin,930,1,no info,10,0,9,6,2019,7198
+Goair,banglore,new delhi,175,0,no info,7,45,24,3,2019,5048
+Jet Airways,delhi,cochin,610,1,in-flight meal not included,18,15,6,6,2019,10262
+Air India,kolkata,banglore,1620,2,no info,7,0,1,4,2019,9836
+Jet Airways,banglore,delhi,180,0,in-flight meal not included,7,10,21,6,2019,5769
+Jet Airways,delhi,cochin,590,1,in-flight meal not included,9,0,27,3,2019,5963
+Indigo,kolkata,banglore,315,1,no info,15,15,15,4,2019,4775
+Goair,delhi,cochin,540,1,no info,10,35,24,4,2019,5430
+Spicejet,banglore,delhi,170,0,no check-in baggage included,9,30,21,4,2019,4885
+Indigo,banglore,delhi,170,0,no info,8,30,6,5,2019,4823
+Indigo,kolkata,banglore,155,0,no info,20,20,9,5,2019,4804
+Jet Airways,banglore,new delhi,435,1,no info,14,5,18,3,2019,16946
+Jet Airways,mumbai,hyderabad,90,0,no info,19,35,15,3,2019,5678
+Indigo,delhi,cochin,565,2,no info,11,55,9,3,2019,8378
+Air India,mumbai,hyderabad,80,0,no info,6,20,6,6,2019,3100
+Vistara,chennai,kolkata,140,0,no info,17,45,18,5,2019,11982
+Air India,mumbai,hyderabad,80,0,no info,21,5,18,3,2019,2050
+Jet Airways,delhi,cochin,335,1,in-flight meal not included,22,50,3,6,2019,10262
+Indigo,mumbai,hyderabad,95,0,no info,20,5,18,5,2019,2227
+Indigo,banglore,delhi,170,0,no info,22,10,9,4,2019,3943
+Indigo,delhi,cochin,985,2,no info,4,55,1,3,2019,10278
+Jet Airways,delhi,cochin,1680,1,no info,15,0,6,6,2019,14714
+Air India,kolkata,banglore,930,1,no info,20,30,1,4,2019,7893
+Air India,delhi,cochin,765,1,no info,20,40,6,6,2019,7952
+Jet Airways,banglore,new delhi,1365,1,in-flight meal not included,11,40,21,3,2019,7832
+Multiple Carriers,delhi,cochin,750,1,no info,13,0,6,6,2019,13377
+Air India,delhi,cochin,1010,1,no info,6,10,21,3,2019,5704
+Multiple Carriers,delhi,cochin,930,1,no info,10,0,6,6,2019,7723
+Jet Airways,delhi,cochin,1420,2,no info,19,10,21,3,2019,9483
+Indigo,delhi,cochin,975,1,no info,9,15,27,6,2019,6628
+Spicejet,kolkata,banglore,155,0,no info,6,55,12,6,2019,3873
+Air India,delhi,cochin,1255,1,no info,12,30,12,6,2019,7480
+Air India,kolkata,banglore,580,1,no info,19,0,1,4,2019,4227
+Air India,delhi,cochin,1585,3,no info,5,15,15,6,2019,10493
+Vistara,kolkata,banglore,1350,1,no info,20,20,15,5,2019,9345
+Jet Airways,delhi,cochin,335,1,no info,22,50,3,6,2019,14714
+Spicejet,chennai,kolkata,135,0,no info,8,20,12,3,2019,6300
+Indigo,delhi,cochin,325,1,no info,2,0,18,5,2019,7464
+Indigo,banglore,delhi,175,0,no info,18,55,9,5,2019,4823
+Indigo,mumbai,hyderabad,90,0,no info,2,30,15,3,2019,3342
+Jet Airways,banglore,delhi,175,0,in-flight meal not included,11,10,15,4,2019,4544
+Jet Airways,delhi,cochin,865,1,in-flight meal not included,14,0,9,5,2019,12373
+Indigo,delhi,cochin,320,1,no info,6,40,27,3,2019,5298
+Jet Airways,delhi,cochin,1355,1,in-flight meal not included,14,0,27,5,2019,12898
+Air India,banglore,delhi,165,0,no info,6,10,15,4,2019,5228
+Multiple Carriers,delhi,cochin,390,1,no info,19,0,27,5,2019,7198
+Indigo,delhi,cochin,325,1,no info,2,0,27,5,2019,7164
+Indigo,chennai,kolkata,145,0,no info,11,35,9,6,2019,3858
+Indigo,mumbai,hyderabad,95,0,no info,20,5,3,5,2019,2754
+Jet Airways,delhi,cochin,1530,1,no info,17,30,27,5,2019,16079
+Jet Airways,mumbai,hyderabad,90,0,in-flight meal not included,10,20,24,5,2019,4995
+Air India,delhi,cochin,760,1,no info,19,0,3,3,2019,14777
+Air Asia,kolkata,banglore,220,1,no info,6,50,12,5,2019,5162
+Indigo,kolkata,banglore,155,0,no info,22,15,27,4,2019,4804
+Spicejet,kolkata,banglore,140,0,no check-in baggage included,22,20,9,6,2019,3841
+Jet Airways,banglore,new delhi,840,1,in-flight meal not included,21,25,21,3,2019,7832
+Multiple Carriers,delhi,cochin,545,1,no info,7,5,24,6,2019,9856
+Air Asia,kolkata,banglore,955,1,no info,7,35,6,5,2019,5192
+Spicejet,kolkata,banglore,160,0,no info,6,55,27,3,2019,3847
+Jet Airways,kolkata,banglore,740,1,no info,8,25,1,4,2019,12681
+Indigo,kolkata,banglore,155,0,no info,15,20,18,3,2019,4462
+Jet Airways,banglore,delhi,185,0,in-flight meal not included,18,55,15,5,2019,4030
+Air India,banglore,delhi,165,0,no info,17,0,18,4,2019,6121
+Jet Airways,kolkata,banglore,1480,1,no info,20,25,9,5,2019,13067
+Multiple Carriers,delhi,cochin,840,1,no info,11,30,21,5,2019,14067
+Air Asia,delhi,cochin,340,1,no info,16,45,15,5,2019,6752
+Jet Airways,delhi,cochin,1045,2,no info,19,10,18,5,2019,15129
+Air India,delhi,cochin,1180,2,no info,12,0,24,6,2019,9548
+Air India,mumbai,hyderabad,75,0,no info,19,30,21,3,2019,2575
+Multiple Carriers,delhi,cochin,520,1,no info,10,20,15,5,2019,9794
+Indigo,banglore,delhi,170,0,no info,0,25,27,6,2019,3419
+Jet Airways,kolkata,banglore,400,1,no info,14,5,15,5,2019,14781
+Indigo,banglore,delhi,170,0,no info,23,30,9,6,2019,4591
+Jet Airways,delhi,cochin,1320,2,in-flight meal not included,14,35,27,6,2019,10919
+Spicejet,delhi,cochin,310,1,no info,6,10,3,3,2019,9748
+Spicejet,kolkata,banglore,140,0,no check-in baggage included,22,20,6,6,2019,3841
+Indigo,kolkata,banglore,220,1,no info,19,35,1,5,2019,4226
+Indigo,delhi,cochin,195,0,no info,14,25,27,5,2019,6015
+Jet Airways,banglore,new delhi,740,1,no info,8,0,6,3,2019,16736
+Jet Airways,kolkata,banglore,800,1,no info,6,30,1,5,2019,14781
+Jet Airways,banglore,new delhi,370,1,no info,22,55,15,3,2019,27210
+Air India,banglore,new delhi,165,0,no info,17,0,1,3,2019,25913
+Jet Airways,banglore,new delhi,1200,1,no info,11,40,1,3,2019,22270
+Jet Airways,delhi,cochin,540,1,no info,10,0,15,6,2019,14714
+Jet Airways,delhi,cochin,810,2,in-flight meal not included,5,30,12,6,2019,10368
+Jet Airways,banglore,delhi,180,0,no info,7,10,9,5,2019,7229
+Air India,delhi,cochin,965,1,no info,17,20,27,5,2019,7480
+Indigo,delhi,cochin,195,0,no info,14,25,1,6,2019,6015
+Indigo,kolkata,banglore,150,0,no info,15,15,9,4,2019,4174
+Air India,banglore,new delhi,1705,2,no info,6,45,18,3,2019,11234
+Air India,banglore,new delhi,170,0,no info,21,5,18,3,2019,4441
+Jet Airways,delhi,cochin,440,1,in-flight meal not included,11,30,6,3,2019,15400
+Air India,banglore,new delhi,435,2,no info,10,30,18,3,2019,13261
+Indigo,mumbai,hyderabad,90,0,no info,9,10,27,5,2019,4049
+Air Asia,delhi,cochin,870,1,no info,7,55,3,6,2019,8759
+Air Asia,kolkata,banglore,220,1,no info,6,50,15,5,2019,5162
+Multiple Carriers,delhi,cochin,845,1,no info,4,55,9,5,2019,9103
+Jet Airways,kolkata,banglore,1730,1,no info,9,35,1,5,2019,11467
+Jet Airways,mumbai,hyderabad,90,0,in-flight meal not included,10,20,1,6,2019,4050
+Indigo,chennai,kolkata,140,0,no info,22,5,6,3,2019,5277
+Jet Airways,delhi,cochin,1140,2,no info,9,25,27,6,2019,13882
+Air India,banglore,new delhi,165,0,no info,21,10,1,3,2019,25703
+Air India,kolkata,banglore,1840,2,no info,5,50,9,6,2019,12723
+Air India,kolkata,banglore,1530,2,no info,16,50,1,4,2019,7893
+Spicejet,kolkata,banglore,150,0,no info,17,15,21,3,2019,3847
+Multiple Carriers,delhi,cochin,835,1,no info,7,5,24,6,2019,13797
+Goair,banglore,new delhi,175,0,no info,11,40,18,3,2019,4340
+Spicejet,kolkata,banglore,150,0,no check-in baggage included,9,0,27,3,2019,3815
+Jet Airways,mumbai,hyderabad,90,0,in-flight meal not included,2,55,15,3,2019,2071
+Vistara,delhi,cochin,190,0,no info,14,40,15,6,2019,6216
+Air India,delhi,cochin,615,1,no info,9,0,21,5,2019,8372
+Vistara,kolkata,banglore,965,1,no info,17,0,6,6,2019,8452
+Jet Airways,kolkata,banglore,1570,1,no info,17,0,6,5,2019,13067
+Multiple Carriers,delhi,cochin,465,1,no info,11,30,27,3,2019,6732
+Indigo,delhi,cochin,810,1,no info,7,30,9,5,2019,7191
+Air India,banglore,new delhi,1800,2,no info,17,25,12,3,2019,12725
+Jet Airways,banglore,delhi,175,0,in-flight meal not included,11,10,18,6,2019,5769
+Jet Airways,delhi,cochin,1005,1,in-flight meal not included,2,15,6,6,2019,10262
+Indigo,mumbai,hyderabad,90,0,no info,19,5,15,6,2019,2754
+Indigo,delhi,cochin,310,1,no info,17,5,9,6,2019,6493
+Jet Airways,banglore,delhi,165,0,no info,6,0,6,4,2019,7229
+Indigo,mumbai,hyderabad,435,1,no info,15,45,6,3,2019,7681
+Indigo,kolkata,banglore,155,0,no info,4,40,3,5,2019,4804
+Air India,banglore,new delhi,745,1,no info,10,30,1,3,2019,11003
+Air India,delhi,cochin,1820,2,no info,12,55,12,6,2019,12436
+Indigo,delhi,cochin,575,1,no info,11,25,9,5,2019,6979
+Indigo,delhi,cochin,575,1,no info,11,25,3,6,2019,6093
+Jet Airways,kolkata,banglore,1690,1,in-flight meal not included,14,5,24,5,2019,10844
+Air India,delhi,cochin,640,1,no info,21,0,24,6,2019,8372
+Multiple Carriers,delhi,cochin,455,1,no info,11,25,9,6,2019,11200
+Jet Airways,kolkata,banglore,1520,1,no info,9,35,9,5,2019,10953
+Indigo,kolkata,banglore,155,0,no info,17,15,18,6,2019,4804
+Multiple Carriers,delhi,cochin,505,1,no info,10,35,18,5,2019,9627
+Multiple Carriers,delhi,cochin,860,1,no info,4,55,18,5,2019,7564
+Jet Airways,delhi,cochin,805,1,in-flight meal not included,15,0,9,5,2019,12373
+Jet Airways,kolkata,banglore,705,1,in-flight meal not included,6,30,12,5,2019,10844
+Air India,banglore,delhi,165,0,no info,6,10,15,6,2019,6961
+Air India,delhi,cochin,1730,2,no info,14,25,24,6,2019,13381
+Indigo,delhi,cochin,425,1,no info,5,5,27,6,2019,6442
+Jet Airways,delhi,cochin,395,1,no info,21,50,9,5,2019,15554
+Jet Airways,delhi,cochin,505,2,in-flight meal not included,20,0,3,6,2019,15318
+Multiple Carriers,delhi,cochin,690,1,no info,14,0,15,5,2019,13727
+Air Asia,banglore,new delhi,170,0,no info,5,50,24,3,2019,4284
+Jet Airways,kolkata,banglore,1220,1,in-flight meal not included,20,0,6,6,2019,10844
+Multiple Carriers,delhi,cochin,630,1,in-flight meal not included,15,5,9,3,2019,14086
+Spicejet,mumbai,hyderabad,90,0,no check-in baggage included,22,45,1,6,2019,1965
+Multiple Carriers,delhi,cochin,710,1,no info,13,5,21,5,2019,9486
+Jet Airways,kolkata,banglore,1015,1,no info,6,30,24,3,2019,13339
+Indigo,banglore,delhi,175,0,no info,18,25,9,4,2019,4823
+Jet Airways,delhi,cochin,745,1,no info,16,0,6,6,2019,14714
+Indigo,kolkata,banglore,160,0,no info,21,25,9,3,2019,4148
+Goair,banglore,delhi,170,0,no info,11,40,3,6,2019,3898
+Jet Airways,delhi,cochin,560,2,in-flight meal not included,9,40,21,5,2019,13029
+Vistara,banglore,new delhi,165,0,no info,9,50,3,3,2019,8028
+Jet Airways,kolkata,banglore,850,1,no info,8,25,18,5,2019,14781
+Jet Airways,kolkata,banglore,330,1,in-flight meal not included,6,30,9,6,2019,10844
+Air India,kolkata,banglore,795,1,no info,10,0,1,4,2019,7893
+Air India,delhi,cochin,1595,2,no info,16,40,27,3,2019,8656
+Air India,delhi,cochin,765,1,no info,20,40,27,6,2019,7480
+Indigo,banglore,delhi,170,0,no info,23,30,3,6,2019,4591
+Spicejet,banglore,delhi,160,0,no check-in baggage included,5,55,24,4,2019,3919
+Multiple Carriers,delhi,cochin,395,1,no info,19,0,21,3,2019,6838
+Jet Airways,delhi,cochin,1760,2,no info,23,5,24,5,2019,15129
+Indigo,banglore,new delhi,170,0,no info,10,30,9,3,2019,6860
+Indigo,banglore,delhi,165,0,no info,6,5,15,5,2019,4423
+Jet Airways,delhi,cochin,425,2,no info,5,30,9,5,2019,16274
+Jet Airways,kolkata,banglore,800,1,in-flight meal not included,18,55,9,6,2019,11841
+Spicejet,kolkata,banglore,520,1,no info,8,35,1,4,2019,6013
+Indigo,kolkata,banglore,265,1,no info,19,20,3,4,2019,3480
+Jet Airways,kolkata,banglore,875,1,no info,14,5,6,6,2019,13059
+Air Asia,delhi,cochin,870,1,no info,7,55,12,6,2019,6152
+Spicejet,kolkata,banglore,145,0,no check-in baggage included,9,0,27,6,2019,3841
+Jet Airways,delhi,cochin,1375,2,no info,5,30,15,6,2019,13292
+Air India,kolkata,banglore,155,0,no info,20,45,21,5,2019,4145
+Vistara,kolkata,banglore,865,1,no info,20,20,6,5,2019,8662
+Indigo,kolkata,banglore,155,0,no info,20,20,1,5,2019,4804
+Indigo,delhi,cochin,320,1,no info,6,50,12,6,2019,5298
+Indigo,delhi,cochin,965,1,no info,4,55,24,4,2019,6162
+Spicejet,banglore,delhi,175,0,no info,21,10,27,5,2019,3311
+Jet Airways,mumbai,hyderabad,85,0,no info,7,5,18,6,2019,8040
+Jet Airways,delhi,cochin,1485,1,in-flight meal not included,18,15,12,6,2019,10262
+Jet Airways,delhi,cochin,810,2,no info,5,30,24,6,2019,13292
+Jet Airways,banglore,new delhi,1485,1,in-flight meal not included,20,35,12,3,2019,11087
+Spicejet,kolkata,banglore,150,0,no info,14,55,6,4,2019,3873
+Multiple Carriers,delhi,cochin,705,1,no info,7,30,9,5,2019,7787
+Jet Airways,delhi,cochin,1325,1,no info,20,55,18,5,2019,15554
+Air India,mumbai,hyderabad,1795,2,no info,6,0,12,3,2019,12854
+Indigo,delhi,cochin,515,1,no info,7,35,6,3,2019,7094
+Air India,banglore,delhi,165,0,no info,17,0,1,4,2019,5176
+Indigo,kolkata,banglore,315,1,no info,15,15,9,5,2019,4565
+Indigo,delhi,cochin,515,1,no info,4,45,6,3,2019,13611
+Indigo,delhi,cochin,810,1,no info,7,30,9,4,2019,6093
+Indigo,kolkata,banglore,155,0,no info,22,15,3,5,2019,4804
+Jet Airways,banglore,delhi,180,0,no info,17,45,6,6,2019,8016
+Goair,delhi,cochin,540,1,no info,10,35,27,4,2019,6922
+Jet Airways,banglore,new delhi,1045,1,no info,11,40,1,3,2019,22270
+Jet Airways,delhi,cochin,1015,1,in-flight meal not included,11,30,27,5,2019,12898
+Jet Airways,mumbai,hyderabad,90,0,no info,8,45,24,6,2019,8040
+Air India,kolkata,banglore,1335,2,no info,16,50,6,5,2019,12434
+Indigo,mumbai,hyderabad,90,0,no info,9,10,3,6,2019,4049
+Indigo,banglore,new delhi,170,0,no info,22,20,24,3,2019,7303
+Jet Airways,kolkata,banglore,1335,1,in-flight meal not included,20,0,21,5,2019,10844
+Spicejet,kolkata,banglore,150,0,no info,17,15,24,3,2019,6461
+Multiple Carriers,delhi,cochin,440,1,no info,6,0,27,3,2019,7845
+Jet Airways,delhi,cochin,910,2,in-flight meal not included,21,25,24,6,2019,10199
+Jet Airways,delhi,cochin,600,1,no info,9,0,15,6,2019,14714
+Spicejet,kolkata,banglore,315,1,no info,15,5,1,5,2019,4649
+Multiple Carriers,delhi,cochin,780,1,no info,8,0,27,5,2019,7618
+Jet Airways,delhi,cochin,300,1,no info,14,0,24,6,2019,14714
+Indigo,mumbai,hyderabad,85,0,no info,12,0,27,3,2019,2754
+Vistara,banglore,new delhi,155,0,no info,16,0,3,3,2019,13383
+Jet Airways,delhi,cochin,810,2,no info,5,30,9,4,2019,11664
+Air Asia,kolkata,banglore,150,0,no info,22,50,1,5,2019,4409
+Jet Airways,delhi,cochin,1005,1,in-flight meal not included,2,15,27,6,2019,10262
+Jet Airways,delhi,cochin,1995,2,in-flight meal not included,19,10,21,3,2019,8834
+Jet Airways,mumbai,hyderabad,90,0,no info,19,35,1,4,2019,5678
+Goair,delhi,cochin,440,1,no info,6,0,6,3,2019,6393
+Indigo,chennai,kolkata,140,0,no info,19,35,6,3,2019,7295
+Jet Airways,delhi,cochin,600,2,no info,18,25,6,6,2019,14237
+Jet Airways,kolkata,banglore,750,1,in-flight meal not included,9,35,9,6,2019,13994
+Air India,banglore,delhi,170,0,no info,21,5,3,4,2019,4441
+Air India,kolkata,banglore,1660,2,no info,16,45,1,4,2019,9920
+Spicejet,delhi,cochin,380,1,no info,15,45,21,5,2019,7317
+Spicejet,delhi,cochin,295,1,no info,17,55,15,4,2019,5221
+Indigo,kolkata,banglore,155,0,no info,17,15,1,5,2019,4804
+Jet Airways,delhi,cochin,1110,1,no info,9,55,6,3,2019,15764
+Jet Airways,delhi,cochin,1040,1,in-flight meal not included,19,15,15,6,2019,10262
+Air India,delhi,cochin,765,1,no info,20,40,1,4,2019,5117
+Indigo,mumbai,hyderabad,90,0,no info,6,25,18,5,2019,4392
+Multiple Carriers,delhi,cochin,465,1,no info,11,30,9,5,2019,14323
+Air Asia,kolkata,banglore,720,1,no info,22,40,12,5,2019,5192
+Jet Airways,banglore,new delhi,635,1,no info,22,55,12,3,2019,13817
+Indigo,mumbai,hyderabad,85,0,no info,21,20,3,3,2019,4784
+Jet Airways,delhi,cochin,2315,2,in-flight meal not included,5,10,27,3,2019,8098
+Jet Airways,delhi,cochin,745,1,no info,16,0,6,3,2019,15764
+Vistara,kolkata,banglore,385,1,no info,17,0,6,6,2019,8610
+Indigo,delhi,cochin,635,1,no info,11,55,15,5,2019,6442
+Air India,banglore,delhi,170,0,no info,13,20,12,4,2019,5911
+Air India,mumbai,hyderabad,80,0,no info,6,20,1,4,2019,3100
+Jet Airways,delhi,cochin,1025,2,in-flight meal not included,19,30,21,5,2019,13029
+Jet Airways,kolkata,banglore,345,1,in-flight meal not included,13,55,24,3,2019,11134
+Jet Airways,kolkata,banglore,975,1,in-flight meal not included,19,45,24,3,2019,11134
+Jet Airways,mumbai,hyderabad,90,0,in-flight meal not included,10,20,21,5,2019,4995
+Jet Airways,delhi,cochin,805,1,in-flight meal not included,15,0,24,6,2019,10262
+Jet Airways,kolkata,banglore,965,1,no info,6,30,24,3,2019,13339
+Indigo,banglore,delhi,180,0,no info,16,55,12,6,2019,4823
+Indigo,banglore,new delhi,165,0,no info,1,30,3,3,2019,6860
+Air India,banglore,new delhi,665,2,no info,11,5,18,3,2019,10846
+Air India,delhi,cochin,735,1,no info,7,0,24,6,2019,8879
+Jet Airways,kolkata,banglore,505,1,in-flight meal not included,9,35,1,4,2019,9314
+Air India,delhi,cochin,1275,2,no info,22,0,1,6,2019,10441
+Spicejet,banglore,delhi,175,0,no check-in baggage included,21,10,18,5,2019,3919
+Jet Airways,delhi,cochin,1225,1,in-flight meal not included,8,0,21,5,2019,12898
+Jet Airways,delhi,cochin,440,2,no info,11,40,6,6,2019,18804
+Spicejet,banglore,delhi,170,0,no info,9,30,21,5,2019,3625
+Jet Airways,kolkata,banglore,400,1,in-flight meal not included,14,5,18,5,2019,10844
+Jet Airways,banglore,new delhi,1140,1,in-flight meal not included,5,45,21,3,2019,7832
+Jet Airways,delhi,cochin,885,1,in-flight meal not included,21,50,24,6,2019,10262
+Jet Airways,delhi,cochin,505,2,no info,20,0,21,5,2019,16263
+Multiple Carriers,delhi,cochin,540,1,no info,10,0,27,6,2019,12192
+Jet Airways,kolkata,banglore,875,1,in-flight meal not included,14,5,12,6,2019,7594
+Multiple Carriers,delhi,cochin,515,1,no info,17,0,3,3,2019,17073
+Air India,kolkata,banglore,745,1,no info,20,30,1,4,2019,7893
+Jet Airways,banglore,delhi,180,0,no info,8,20,21,6,2019,8016
+Jet Airways,delhi,cochin,1225,1,in-flight meal not included,8,0,9,5,2019,12373
+Jet Airways,mumbai,hyderabad,85,0,no info,2,55,27,5,2019,5678
+Indigo,kolkata,banglore,150,0,no info,14,25,24,6,2019,4804
+Jet Airways,delhi,cochin,1015,1,in-flight meal not included,11,30,21,3,2019,7438
+Spicejet,chennai,kolkata,135,0,no info,8,20,24,3,2019,3859
+Spicejet,banglore,delhi,175,0,no check-in baggage included,21,10,1,6,2019,3573
+Jet Airways,kolkata,banglore,590,1,no info,6,30,15,5,2019,14781
+Spicejet,chennai,kolkata,140,0,no check-in baggage included,17,45,3,5,2019,3543
+Jet Airways,mumbai,hyderabad,85,0,no info,2,55,9,5,2019,5678
+Indigo,banglore,delhi,170,0,no info,10,10,18,6,2019,3943
+Jet Airways,delhi,cochin,810,2,in-flight meal not included,5,30,12,6,2019,11507
+Jet Airways,banglore,new delhi,1100,1,in-flight meal not included,18,55,12,3,2019,11087
+Air Asia,kolkata,banglore,710,1,no info,7,35,15,5,2019,5192
+Jet Airways,delhi,cochin,360,1,in-flight meal not included,13,0,1,6,2019,10262
+Multiple Carriers,delhi,cochin,660,1,no info,8,0,3,6,2019,12402
+Air India,delhi,cochin,765,1,no info,20,40,6,5,2019,7480
+Indigo,kolkata,banglore,155,0,no info,17,15,24,6,2019,4804
+Jet Airways,delhi,cochin,1615,2,no info,9,40,3,6,2019,13014
+Air India,kolkata,banglore,1345,2,no info,7,0,1,4,2019,12849
+Jet Airways,banglore,delhi,180,0,no info,17,45,15,4,2019,7229
+Indigo,delhi,cochin,490,1,no info,14,20,9,6,2019,6938
+Vistara,banglore,delhi,155,0,no info,17,0,9,6,2019,4878
+Air India,kolkata,banglore,1615,1,no info,17,30,12,6,2019,10203
+Indigo,banglore,delhi,175,0,no info,0,30,24,4,2019,3419
+Jet Airways,delhi,cochin,330,1,no info,7,5,27,6,2019,14714
+Indigo,banglore,new delhi,175,0,no info,7,10,3,3,2019,7648
+Jet Airways,delhi,cochin,830,2,in-flight meal not included,14,35,15,6,2019,10919
+Air India,mumbai,hyderabad,990,2,no info,5,30,6,3,2019,9678
+Jet Airways,kolkata,banglore,1200,1,in-flight meal not included,14,5,21,5,2019,9663
+Vistara,kolkata,banglore,700,1,no info,7,10,1,4,2019,7927
+Indigo,mumbai,hyderabad,90,0,no info,2,30,24,3,2019,2754
+Multiple Carriers,delhi,cochin,720,1,no info,9,0,15,6,2019,13587
+Air India,kolkata,banglore,1435,1,no info,20,30,15,5,2019,10203
+Indigo,delhi,cochin,275,1,no info,7,35,6,6,2019,5458
+Spicejet,chennai,kolkata,135,0,no check-in baggage included,9,45,21,6,2019,3543
+Indigo,delhi,cochin,315,1,no info,9,55,3,3,2019,12214
+Air Asia,banglore,delhi,165,0,no info,11,10,3,6,2019,4483
+Spicejet,kolkata,banglore,150,0,no info,17,10,18,4,2019,4174
+Jet Airways,delhi,cochin,1225,1,in-flight meal not included,8,0,18,5,2019,12373
+Jet Airways,delhi,cochin,1530,1,in-flight meal not included,17,30,21,5,2019,12898
+Jet Airways,kolkata,banglore,775,1,in-flight meal not included,21,10,24,3,2019,12446
+Multiple Carriers,delhi,cochin,755,1,no info,6,40,9,3,2019,13082
+Jet Airways,delhi,cochin,1440,1,in-flight meal not included,19,45,27,3,2019,5963
+Multiple Carriers,delhi,cochin,460,1,no info,4,55,3,6,2019,11622
+Jet Airways,kolkata,banglore,1450,1,in-flight meal not included,9,35,6,5,2019,8066
+Spicejet,kolkata,banglore,155,0,no info,6,55,21,4,2019,4174
+Indigo,kolkata,banglore,155,0,no info,4,40,24,6,2019,4804
+Indigo,banglore,delhi,175,0,no info,18,55,6,6,2019,4990
+Jet Airways,delhi,cochin,1395,1,in-flight meal not included,19,45,15,6,2019,10262
+Indigo,banglore,new delhi,170,0,no info,13,0,24,3,2019,5694
+Multiple Carriers,delhi,cochin,760,1,no info,12,50,27,5,2019,6795
+Jet Airways,delhi,cochin,910,2,no info,21,25,24,6,2019,12609
+Jet Airways,delhi,cochin,1225,1,in-flight meal not included,8,0,12,6,2019,10577
+Jet Airways,delhi,cochin,655,1,no info,17,30,27,3,2019,12242
+Vistara,chennai,kolkata,140,0,no info,17,45,18,6,2019,11982
+Jet Airways,kolkata,banglore,365,1,no info,16,30,9,6,2019,14571
+Jet Airways,mumbai,hyderabad,85,0,no info,7,5,21,5,2019,8040
+Vistara,delhi,cochin,190,0,no info,6,0,27,4,2019,6216
+Jet Airways,mumbai,hyderabad,90,0,in-flight meal not included,10,20,15,3,2019,4160
+Vistara,banglore,delhi,170,0,no info,11,30,3,4,2019,5403
+Multiple Carriers,delhi,cochin,585,1,no info,9,15,21,5,2019,9627
+Goair,banglore,delhi,175,0,no info,7,45,18,4,2019,5048
+Indigo,mumbai,hyderabad,95,0,no info,20,5,3,6,2019,2227
+Jet Airways,kolkata,banglore,1540,1,in-flight meal not included,20,25,9,6,2019,10539
+Multiple Carriers,delhi,cochin,765,1,no info,9,45,3,6,2019,9646
+Jet Airways,delhi,cochin,1145,1,in-flight meal not included,17,30,1,4,2019,5406
+Jet Airways,delhi,cochin,1425,1,in-flight meal not included,19,15,18,5,2019,12373
+Air India,kolkata,banglore,1200,2,no info,9,25,1,5,2019,14687
+Air Asia,banglore,delhi,170,0,no info,23,55,15,5,2019,3383
+Multiple Carriers,delhi,cochin,520,1,no info,10,35,6,6,2019,7354
+Jet Airways,delhi,cochin,1040,1,in-flight meal not included,19,15,9,6,2019,10577
+Air India,kolkata,banglore,805,2,no info,9,50,12,6,2019,14960
+Indigo,delhi,cochin,665,1,no info,5,5,15,4,2019,6171
+Indigo,delhi,cochin,285,1,no info,10,45,3,3,2019,7725
+Indigo,mumbai,hyderabad,90,0,no info,19,5,27,6,2019,2754
+Jet Airways,kolkata,banglore,665,1,no info,21,10,9,6,2019,14939
+Goair,banglore,delhi,175,0,no info,7,45,15,6,2019,3898
+Jet Airways,kolkata,banglore,1400,1,in-flight meal not included,18,55,6,6,2019,10844
+Vistara,kolkata,banglore,1640,1,no info,17,0,9,5,2019,9555
+Air India,delhi,cochin,1380,2,no info,20,15,24,6,2019,13381
+Spicejet,kolkata,banglore,145,0,no info,9,0,21,4,2019,4491
+Indigo,kolkata,banglore,155,0,no info,15,30,21,5,2019,4804
+Vistara,kolkata,banglore,790,1,no info,7,10,1,4,2019,8452
+Jet Airways,delhi,cochin,440,2,in-flight meal not included,11,40,9,6,2019,15812
+Jet Airways,mumbai,hyderabad,85,0,no info,7,10,6,3,2019,9536
+Jet Airways,delhi,cochin,745,1,in-flight meal not included,16,0,6,6,2019,10262
+Jet Airways,delhi,cochin,1480,2,no info,18,20,12,6,2019,14300
+Air India,mumbai,hyderabad,2245,2,no info,6,0,12,3,2019,12119
+Jet Airways,delhi,cochin,535,2,no info,19,30,9,5,2019,15129
+Indigo,kolkata,banglore,275,1,no info,19,35,24,4,2019,4860
+Spicejet,mumbai,hyderabad,90,0,no check-in baggage included,5,45,6,5,2019,1965
+Indigo,chennai,kolkata,145,0,no info,11,35,21,3,2019,3858
+Jet Airways,kolkata,banglore,1010,1,in-flight meal not included,16,30,24,5,2019,9663
+Jet Airways,banglore,new delhi,695,1,in-flight meal not included,22,50,18,3,2019,11087
+Indigo,kolkata,banglore,165,0,no info,9,35,12,5,2019,4804
+Multiple Carriers,delhi,cochin,780,1,no info,8,0,27,3,2019,6883
+Air India,banglore,new delhi,1640,2,no info,7,30,3,3,2019,12074
+Air India,kolkata,banglore,1165,2,no info,10,0,1,5,2019,13899
+Jet Airways,banglore,new delhi,180,0,no info,18,55,24,3,2019,7229
+Multiple Carriers,delhi,cochin,480,1,no info,17,30,6,6,2019,13377
+Air India,kolkata,banglore,805,1,no info,7,0,24,5,2019,10413
+Multiple Carriers,delhi,cochin,385,1,no info,12,50,1,3,2019,36983
+Jet Airways,kolkata,banglore,845,1,in-flight meal not included,20,0,6,5,2019,9663
+Air India,kolkata,banglore,920,2,no info,10,0,9,5,2019,13033
+Multiple Carriers,delhi,cochin,570,1,no info,6,0,6,3,2019,15147
+Spicejet,chennai,kolkata,155,0,no check-in baggage included,9,30,21,3,2019,3332
+Air India,kolkata,banglore,1100,2,no info,7,0,12,5,2019,13243
+Vistara,kolkata,banglore,1350,1,no info,20,20,21,5,2019,9345
+Spicejet,kolkata,banglore,150,0,no check-in baggage included,14,55,6,4,2019,3841
+Jet Airways,kolkata,banglore,910,1,no info,18,55,1,5,2019,13941
+Jet Airways,delhi,cochin,1195,2,in-flight meal not included,23,5,27,6,2019,11150
+Indigo,banglore,delhi,170,0,no info,8,30,3,4,2019,4823
+Indigo,kolkata,banglore,315,1,no info,21,0,21,5,2019,7228
+Air India,kolkata,banglore,1165,2,no info,10,0,21,5,2019,13899
+Jet Airways,kolkata,banglore,1480,1,no info,20,25,12,5,2019,12121
+Goair,banglore,delhi,175,0,no info,7,45,15,5,2019,3419
+Jet Airways,banglore,new delhi,860,1,no info,7,0,6,3,2019,16736
+Jet Airways,delhi,cochin,1615,2,in-flight meal not included,9,40,18,5,2019,13029
+Vistara,chennai,kolkata,135,0,no info,7,5,6,5,2019,3687
+Jet Airways,delhi,cochin,940,1,in-flight meal not included,20,55,1,6,2019,10262
+Jet Airways,kolkata,banglore,845,1,in-flight meal not included,20,0,12,5,2019,8586
+Air India,mumbai,hyderabad,75,0,no info,19,30,1,4,2019,2050
+Jet Airways,kolkata,banglore,875,1,no info,14,5,21,5,2019,14388
+Goair,banglore,delhi,165,0,no info,20,55,18,4,2019,5048
+Indigo,delhi,cochin,625,1,no info,11,55,6,3,2019,6442
+Jet Airways,kolkata,banglore,730,1,in-flight meal not included,16,30,1,5,2019,8586
+Jet Airways,delhi,cochin,1395,1,in-flight meal not included,19,45,12,6,2019,10262
+Air Asia,kolkata,banglore,710,1,no info,7,35,6,6,2019,6810
+Vistara,banglore,delhi,170,0,no info,9,45,15,4,2019,5403
+Spicejet,banglore,delhi,175,0,no check-in baggage included,21,10,15,6,2019,3919
+Jet Airways,kolkata,banglore,1575,1,no info,21,10,24,3,2019,13759
+Indigo,banglore,delhi,175,0,no info,18,55,18,4,2019,5780
+Air Asia,banglore,new delhi,170,0,no info,5,50,9,3,2019,7652
+Multiple Carriers,delhi,cochin,835,1,no info,7,5,18,5,2019,13727
+Multiple Carriers,delhi,cochin,675,1,in-flight meal not included,8,0,27,5,2019,11761
+Goair,kolkata,banglore,475,1,no info,6,40,9,6,2019,3673
+Jet Airways,kolkata,banglore,845,1,in-flight meal not included,20,0,15,5,2019,8586
+Jet Airways,banglore,new delhi,375,1,no info,7,0,6,3,2019,19225
+Jet Airways,delhi,cochin,1090,2,no info,18,25,3,6,2019,14237
+Jet Airways,delhi,cochin,1125,2,in-flight meal not included,9,40,21,5,2019,13029
+Indigo,delhi,cochin,895,1,no info,7,35,9,6,2019,6442
+Jet Airways,kolkata,banglore,865,1,in-flight meal not included,18,55,15,5,2019,9663
+Jet Airways,delhi,cochin,600,2,in-flight meal not included,18,25,6,6,2019,12142
+Air Asia,kolkata,banglore,150,0,no info,22,50,24,3,2019,5620
+Jet Airways,delhi,cochin,600,1,in-flight meal not included,9,0,12,6,2019,10262
+Multiple Carriers,delhi,cochin,470,1,no info,17,45,27,3,2019,7845
+Indigo,kolkata,banglore,155,0,no info,20,20,9,4,2019,4488
+Jet Airways,banglore,delhi,175,0,no info,11,10,12,4,2019,7229
+Jet Airways,delhi,cochin,535,2,no info,19,30,3,6,2019,13014
+Indigo,kolkata,banglore,155,0,no info,4,40,27,6,2019,4804
+Air India,kolkata,banglore,1615,1,no info,17,30,24,5,2019,10623
+Indigo,delhi,cochin,710,1,no info,9,10,3,3,2019,14871
+Spicejet,delhi,cochin,315,1,no info,6,5,9,4,2019,5351
+Multiple Carriers,delhi,cochin,660,1,no info,8,0,27,5,2019,10407
+Goair,delhi,cochin,540,1,no info,10,35,6,4,2019,5135
+Jet Airways,kolkata,banglore,590,1,no info,8,25,12,6,2019,13626
+Jet Airways,kolkata,banglore,1400,1,in-flight meal not included,18,55,12,5,2019,10844
+Indigo,chennai,kolkata,140,0,no info,7,55,18,6,2019,3850
+Indigo,kolkata,banglore,315,1,no info,21,0,6,6,2019,6711
+Air India,delhi,cochin,2295,2,no info,5,0,6,3,2019,10283
+Jet Airways,kolkata,banglore,1520,1,no info,9,35,12,6,2019,12692
+Air Asia,kolkata,banglore,150,0,no info,19,55,15,6,2019,4107
+Indigo,delhi,cochin,195,0,no info,14,25,15,5,2019,6541
+Indigo,delhi,cochin,750,1,no info,8,30,12,6,2019,6093
+Jet Airways,kolkata,banglore,800,1,no info,18,55,24,5,2019,13731
+Air India,kolkata,banglore,1195,2,no info,12,0,21,5,2019,10676
+Jet Airways,delhi,cochin,1380,2,no info,20,0,12,6,2019,14300
+Indigo,delhi,cochin,835,1,no info,8,35,12,6,2019,6442
+Jet Airways,banglore,delhi,180,0,in-flight meal not included,7,10,24,6,2019,5769
+Vistara,kolkata,banglore,975,1,no info,7,10,24,5,2019,9345
+Vistara,banglore,new delhi,165,0,no info,9,50,21,3,2019,4878
+Air India,kolkata,banglore,920,2,no info,10,0,12,5,2019,12140
+Indigo,kolkata,banglore,290,1,no info,8,10,24,5,2019,5069
+Jet Airways,kolkata,banglore,345,1,in-flight meal not included,14,5,12,5,2019,10844
+Jet Airways,delhi,cochin,660,1,in-flight meal not included,8,0,15,6,2019,10262
+Air Asia,kolkata,banglore,150,0,no info,19,55,18,6,2019,3807
+Multiple Carriers,delhi,cochin,570,1,no info,6,0,27,3,2019,7845
+Spicejet,kolkata,banglore,435,1,no info,11,15,12,5,2019,11468
+Spicejet,kolkata,banglore,140,0,no info,22,20,18,5,2019,3873
+Multiple Carriers,delhi,cochin,510,1,no info,7,0,3,3,2019,15603
+Jet Airways,mumbai,hyderabad,90,0,no info,10,20,18,5,2019,5678
+Jet Airways,delhi,cochin,300,1,no info,14,0,27,6,2019,14714
+Jet Airways,kolkata,banglore,1025,1,in-flight meal not included,18,55,9,6,2019,10844
+Indigo,delhi,cochin,455,1,no info,8,35,6,3,2019,7514
+Air India,delhi,cochin,1335,1,no info,21,0,21,3,2019,6587
+Air India,delhi,cochin,1595,2,no info,16,40,3,3,2019,14221
+Jet Airways,kolkata,banglore,365,1,in-flight meal not included,16,30,9,6,2019,10844
+Jet Airways,mumbai,hyderabad,90,0,in-flight meal not included,8,45,18,6,2019,4995
+Air India,delhi,cochin,675,1,no info,8,0,9,4,2019,6377
+Multiple Carriers,delhi,cochin,750,1,no info,13,0,27,6,2019,13377
+Multiple Carriers,delhi,cochin,910,1,in-flight meal not included,7,10,3,3,2019,11125
+Jet Airways,mumbai,hyderabad,85,0,in-flight meal not included,2,55,21,5,2019,4050
+Jet Airways,banglore,new delhi,525,1,in-flight meal not included,22,55,12,3,2019,11087
+Goair,banglore,new delhi,175,0,no info,7,45,3,3,2019,7222
+Jet Airways,delhi,cochin,1050,1,in-flight meal not included,2,15,9,3,2019,13843
+Jet Airways,delhi,cochin,1375,2,in-flight meal not included,5,30,1,6,2019,10368
+Indigo,kolkata,banglore,155,0,no info,17,15,12,5,2019,4804
+Indigo,delhi,cochin,290,1,no info,15,10,27,6,2019,6147
+Spicejet,delhi,cochin,270,1,no info,8,45,21,4,2019,6460
+Air India,delhi,cochin,1580,2,no info,16,55,12,6,2019,13381
+Indigo,kolkata,banglore,155,0,no info,15,30,3,6,2019,4804
+Indigo,chennai,kolkata,140,0,no info,13,15,6,6,2019,3597
+Indigo,kolkata,banglore,290,1,no info,8,10,6,6,2019,5069
+Jet Airways,delhi,cochin,1390,2,no info,13,25,18,5,2019,15129
+Vistara,banglore,delhi,165,0,no info,19,30,9,4,2019,5613
+Jet Airways,delhi,cochin,505,2,in-flight meal not included,20,0,1,6,2019,15318
+Indigo,delhi,cochin,345,1,no info,2,0,6,6,2019,6386
+Vistara,banglore,new delhi,160,0,no info,11,30,21,3,2019,5403
+Indigo,banglore,delhi,175,0,no info,18,55,9,6,2019,4823
+Jet Airways,kolkata,banglore,1695,1,in-flight meal not included,13,55,24,3,2019,11134
+Indigo,delhi,cochin,195,0,no info,5,35,15,5,2019,6015
+Indigo,delhi,cochin,195,0,no info,5,35,12,6,2019,5601
+Multiple Carriers,delhi,cochin,705,1,no info,7,30,6,3,2019,15077
+Indigo,chennai,kolkata,140,0,no info,22,5,15,6,2019,5277
+Jet Airways,kolkata,banglore,330,1,in-flight meal not included,6,30,15,5,2019,9663
+Indigo,chennai,kolkata,145,0,no info,11,35,12,6,2019,3858
+Jet Airways,delhi,cochin,195,0,in-flight meal not included,11,0,9,3,2019,7202
+Spicejet,kolkata,banglore,145,0,no info,9,0,9,6,2019,4174
+Air India,delhi,cochin,1010,1,no info,6,10,9,3,2019,9064
+Indigo,delhi,cochin,895,1,no info,10,35,27,6,2019,5684
+Air India,delhi,cochin,1420,2,no info,9,45,24,6,2019,10975
+Air India,banglore,new delhi,410,1,no info,9,30,3,3,2019,11654
+Multiple Carriers,delhi,cochin,480,1,no info,13,0,6,6,2019,7408
+Multiple Carriers,delhi,cochin,535,1,no info,10,20,6,6,2019,8266
+Jet Airways,kolkata,banglore,1220,1,no info,20,0,6,6,2019,14571
+Jet Airways,kolkata,banglore,1550,1,in-flight meal not included,18,55,6,6,2019,10844
+Jet Airways,delhi,cochin,1595,1,in-flight meal not included,10,0,3,6,2019,10262
+Air Asia,banglore,delhi,170,0,no info,4,55,6,6,2019,4282
+Jet Airways,banglore,new delhi,935,1,no info,5,45,12,3,2019,13817
+Multiple Carriers,delhi,cochin,780,1,no info,6,0,15,6,2019,11789
+Indigo,kolkata,banglore,170,0,no info,5,30,21,3,2019,4148
+Multiple Carriers,delhi,cochin,460,2,no info,17,50,27,5,2019,18275
+Indigo,delhi,cochin,195,0,no info,5,35,21,6,2019,5000
+Air India,delhi,cochin,1255,1,no info,12,30,6,3,2019,13832
+Multiple Carriers,delhi,cochin,830,1,no info,11,40,27,5,2019,6795
+Spicejet,banglore,delhi,160,0,no check-in baggage included,5,55,21,5,2019,3257
+Jet Airways,delhi,cochin,1320,2,no info,14,35,27,6,2019,13376
+Jet Airways,delhi,cochin,520,1,in-flight meal not included,19,45,24,6,2019,10262
+Jet Airways,kolkata,banglore,345,1,in-flight meal not included,14,5,6,5,2019,10844
+Multiple Carriers,delhi,cochin,455,1,no info,11,40,27,5,2019,9316
+Jet Airways,mumbai,hyderabad,90,0,no info,19,35,12,5,2019,5678
+Air India,kolkata,banglore,1350,1,no info,9,25,21,5,2019,8891
+Spicejet,kolkata,banglore,145,0,no info,9,0,27,4,2019,4174
+Air Asia,delhi,cochin,865,1,no info,16,45,18,5,2019,7353
+Jet Airways,delhi,cochin,195,0,no info,11,0,18,4,2019,9564
+Multiple Carriers,delhi,cochin,720,1,no info,9,0,21,5,2019,7888
+Multiple Carriers,delhi,cochin,510,1,no info,10,45,21,3,2019,7154
+Jet Airways,delhi,cochin,1105,1,in-flight meal not included,10,0,3,6,2019,11627
+Jet Airways,delhi,cochin,865,1,no info,14,0,6,6,2019,14714
+Spicejet,kolkata,banglore,315,1,no info,15,5,6,6,2019,4649
+Jet Airways,banglore,new delhi,920,1,no info,16,55,12,3,2019,13817
+Jet Airways,delhi,cochin,440,2,no info,11,40,24,5,2019,21219
+Air India,delhi,cochin,965,1,no info,17,20,3,3,2019,16352
+Jet Airways,banglore,new delhi,160,0,no info,18,20,9,3,2019,8016
+Spicejet,kolkata,banglore,150,0,no info,17,10,1,5,2019,4174
+Air India,chennai,kolkata,135,0,no info,11,40,21,5,2019,4667
+Air Asia,banglore,new delhi,170,0,no info,5,50,15,3,2019,5615
+Indigo,delhi,cochin,380,1,no info,16,10,9,6,2019,6412
+Air India,delhi,cochin,615,1,no info,9,0,24,6,2019,9404
+Jet Airways,kolkata,banglore,575,1,no info,9,35,6,5,2019,13067
+Jet Airways,kolkata,banglore,750,1,no info,9,35,9,5,2019,14151
+Vistara,kolkata,banglore,1065,1,no info,17,0,12,6,2019,8452
+Indigo,kolkata,banglore,290,1,no info,15,15,1,5,2019,4775
+Spicejet,kolkata,banglore,140,0,no check-in baggage included,22,20,3,6,2019,3841
+Air Asia,banglore,delhi,165,0,no info,11,10,9,5,2019,3383
+Jet Airways,delhi,cochin,1530,1,in-flight meal not included,17,30,9,5,2019,12373
+Air India,kolkata,banglore,1215,2,no info,17,30,12,6,2019,12224
+Jet Airways,kolkata,banglore,1500,1,in-flight meal not included,17,0,1,5,2019,9314
+Spicejet,kolkata,banglore,150,0,no check-in baggage included,17,10,21,6,2019,3841
+Indigo,banglore,new delhi,165,0,no info,1,30,24,3,2019,4238
+Indigo,delhi,cochin,515,1,no info,7,35,9,6,2019,6442
+Multiple Carriers,delhi,cochin,540,1,no info,10,0,12,6,2019,12192
+Jet Airways,delhi,cochin,450,1,no info,20,55,27,5,2019,16079
+Jet Airways,banglore,new delhi,1585,1,in-flight meal not included,8,0,9,3,2019,11087
+Jet Airways,kolkata,banglore,1330,1,no info,6,30,9,6,2019,14178
+Air India,kolkata,banglore,805,2,no info,9,50,24,5,2019,15170
+Jet Airways,kolkata,banglore,400,1,no info,14,5,12,6,2019,13626
+Air India,banglore,delhi,170,0,no info,13,20,15,4,2019,5228
+Indigo,kolkata,banglore,265,1,no info,19,20,24,5,2019,3809
+Jet Airways,banglore,new delhi,965,1,in-flight meal not included,16,55,18,3,2019,11087
+Jet Airways,delhi,cochin,1375,1,no info,20,50,27,3,2019,12032
+Jet Airways,delhi,cochin,505,2,no info,20,0,1,6,2019,16263
+Jet Airways,kolkata,banglore,840,1,no info,9,35,15,5,2019,14151
+Jet Airways,kolkata,banglore,510,1,in-flight meal not included,14,5,24,5,2019,10844
+Air Asia,banglore,delhi,170,0,no info,4,55,24,4,2019,3383
+Multiple Carriers,delhi,cochin,900,1,no info,6,0,12,6,2019,7005
+Air India,delhi,cochin,1395,1,no info,20,0,27,5,2019,8372
+Vistara,kolkata,banglore,695,1,no info,7,10,24,3,2019,16932
+Jet Airways,delhi,cochin,1390,2,no info,13,25,27,5,2019,15129
+Jet Airways,delhi,cochin,1380,2,no info,5,25,27,3,2019,11664
+Multiple Carriers,delhi,cochin,490,1,no info,12,50,1,6,2019,7005
+Jet Airways,delhi,cochin,1125,2,no info,9,40,1,6,2019,13014
+Spicejet,kolkata,banglore,150,0,no info,17,10,27,6,2019,3873
+Multiple Carriers,delhi,cochin,860,1,no info,4,55,24,6,2019,7155
+Jet Airways,kolkata,banglore,1215,1,in-flight meal not included,8,25,6,6,2019,8586
+Multiple Carriers,delhi,cochin,930,1,no info,10,0,6,6,2019,13377
+Multiple Carriers,delhi,cochin,755,1,no info,13,0,6,3,2019,15603
+Multiple Carriers,delhi,cochin,690,1,no info,7,30,6,6,2019,12524
+Jet Airways,kolkata,banglore,730,1,no info,16,30,15,5,2019,14781
+Jet Airways,delhi,cochin,810,2,no info,5,30,27,5,2019,15129
+Jet Airways,mumbai,hyderabad,1430,1,no info,17,0,6,3,2019,19595
+Goair,delhi,cochin,540,1,no info,10,35,27,6,2019,3948
+Vistara,mumbai,hyderabad,660,1,no info,11,55,6,3,2019,12395
+Jet Airways,mumbai,hyderabad,80,0,no info,3,5,21,3,2019,5678
+Multiple Carriers,delhi,cochin,520,1,no info,10,35,15,5,2019,7575
+Indigo,kolkata,banglore,170,0,no info,5,30,27,3,2019,4148
+Jet Airways,kolkata,banglore,1120,1,no info,20,25,6,5,2019,13067
+Jet Airways,kolkata,banglore,1150,1,in-flight meal not included,21,10,9,6,2019,10844
+Jet Airways,kolkata,banglore,730,1,in-flight meal not included,21,10,6,5,2019,9663
+Jet Airways,delhi,cochin,2070,2,in-flight meal not included,17,55,6,3,2019,15812
+Vistara,mumbai,hyderabad,1555,1,no info,7,30,12,3,2019,12080
+Indigo,chennai,kolkata,140,0,no info,14,45,6,5,2019,3597
+Jet Airways,kolkata,banglore,395,1,no info,17,0,9,6,2019,14676
+Jet Airways,banglore,new delhi,845,1,in-flight meal not included,8,55,21,3,2019,6992
+Indigo,banglore,delhi,170,0,no info,22,10,18,6,2019,3419
+Indigo,chennai,kolkata,140,0,no info,19,35,3,6,2019,3597
+Spicejet,chennai,kolkata,140,0,no info,17,45,24,3,2019,5418
+Jet Airways,kolkata,banglore,730,1,in-flight meal not included,21,10,15,5,2019,9663
+Jet Airways,delhi,cochin,810,2,in-flight meal not included,5,30,24,6,2019,10368
+Indigo,mumbai,hyderabad,90,0,no info,12,0,6,5,2019,2754
+Vistara,delhi,cochin,175,0,no info,14,55,18,3,2019,5586
+Multiple Carriers,delhi,cochin,755,1,no info,6,40,18,5,2019,7564
+Multiple Carriers,delhi,cochin,570,1,in-flight meal not included,16,0,15,6,2019,10196
+Indigo,kolkata,banglore,335,1,no info,4,15,24,3,2019,4150
+Multiple Carriers,delhi,cochin,630,1,no info,15,0,15,5,2019,13727
+Jet Airways,delhi,cochin,450,1,in-flight meal not included,20,55,9,6,2019,10577
+Indigo,kolkata,banglore,155,0,no info,4,40,3,4,2019,4174
+Air Asia,banglore,delhi,170,0,no info,4,55,9,4,2019,4282
+Air India,kolkata,banglore,155,0,no info,20,45,21,3,2019,4435
+Air India,banglore,new delhi,495,1,no info,0,30,3,3,2019,11392
+Jet Airways,kolkata,banglore,450,1,no info,21,10,9,6,2019,13731
+Jet Airways,mumbai,hyderabad,90,0,no info,10,20,27,3,2019,8040
+Jet Airways,banglore,new delhi,640,1,1 long layover,22,50,1,3,2019,31825
+Air India,kolkata,banglore,1830,2,no info,12,0,9,6,2019,10151
+Spicejet,mumbai,hyderabad,80,0,no info,13,10,27,3,2019,2017
+Air Asia,kolkata,banglore,710,1,no info,7,35,18,5,2019,5192
+Air India,delhi,cochin,1580,2,no info,7,5,21,3,2019,7615
+Spicejet,kolkata,banglore,160,0,no check-in baggage included,6,55,27,3,2019,3815
+Spicejet,kolkata,banglore,155,0,no check-in baggage included,6,55,12,4,2019,3841
+Jet Airways,mumbai,hyderabad,90,0,no info,10,20,18,6,2019,8040
+Jet Airways,kolkata,banglore,800,1,no info,18,55,12,5,2019,14388
+Jet Airways,mumbai,hyderabad,1415,2,no info,17,15,6,3,2019,22950
+Jet Airways,kolkata,banglore,800,1,in-flight meal not included,20,25,9,5,2019,10703
+Multiple Carriers,delhi,cochin,575,1,in-flight meal not included,16,0,6,3,2019,15136
+Spicejet,chennai,kolkata,135,0,no info,8,20,6,5,2019,3911
