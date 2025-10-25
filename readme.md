@@ -59,10 +59,9 @@ The application not only predicts the price for a given flight configuration but
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-    cd YOUR_REPOSITORY_NAME
+    git clone [https://github.com/kartik23481/flight-price-prediction-app.git](https://github.com/kartik23481/flight-price-prediction-app.git)
+    cd flight-price-prediction-app
     ```
-    *(Replace `YOUR_USERNAME` and `YOUR_REPOSITORY_NAME`)*
 
 2.  **Create a virtual environment (recommended):**
     ```bash
@@ -72,7 +71,7 @@ The application not only predicts the price for a given flight configuration but
 
 3.  **Install dependencies:**
     ```bash
-    pip install -r requirements.txt
+    pip install -r freezed_new_flight_venv_requirements.txt
     ```
 
 4.  **Ensure Data and Artifacts:**
