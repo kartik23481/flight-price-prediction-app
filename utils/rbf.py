@@ -39,3 +39,23 @@ class RBFPercentileSimilarity(BaseEstimator, TransformerMixin):
             objects.append(obj)
         return pd.concat(objects, axis=1)
 
+
+
+from sklearn.base import BaseEstimator, TransformerMixin
+
+class RouteCreator(BaseEstimator, TransformerMixin):
+    def __init__(self, route_map):
+        self.route_map = route_map
+
+    def fit(self, X, y=None):
+        return self
+    
+    def transform(self, X):
+        X = X.copy()
+        X["route"] = X.apply(
+            lambda row: self.route_map.get((row["source"], row["destination"]), "Other"), 
+            axis=1
+        )
+        # keep only the new route column, since ColumnTransformer expects transformed output
+        return X[["route"]]
+
