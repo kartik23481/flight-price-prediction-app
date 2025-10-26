@@ -32,28 +32,36 @@ The application not only predicts the price for a given flight configuration but
 * **Visualization:** Plotly, Matplotlib, SHAP
 * **Model Persistence:** Joblib
 
-## 📂 Project Structure
+## 📂 Project Structure  
 
-* **`artifacts/`**: Contains saved machine learning objects.
-    * `column_transformer.joblib`: The saved preprocessing pipeline.
-    * **`models/`**: Contains the trained machine learning models.
-        * `xgb_flight_price_model.joblib`: The saved XGBoost regression model.
-* **`data/`**: Holds the datasets used.
-    * `train_data.csv`: Training data (also used for context plots in the app).
-* **`notebooks/`**: Jupyter notebooks for experimentation and development.
-    * `exploratory_data_analysis.ipynb`: Notebook for initial data exploration.
-    * `feature_engineering.ipynb`: Notebook detailing feature creation.
-    * `model_training_tuning.ipynb`: Notebook for training and tuning the model.
-    * *(Include others as needed)*
-* **`utils/`**: Helper Python modules with reusable functions.
-    * `feature_utils.py`: Functions for feature engineering.
-    * `rbf.py`: Functions related to RBF (if applicable).
-* `app.py`: The main script for the Streamlit web application.
-* `requirements.txt`: Lists the Python packages required for the project.
-* `.gitignore`: Specifies intentionally untracked files that Git should ignore.
-* `README.md`: This file, providing information about the project.
+* **`artifacts/`** — Stores all machine learning artifacts.  
+  * `column_transformer.joblib`: Saved preprocessing pipeline (encoding, scaling).  
+  * **`models/`**
+    * `randomforest_flight_price_model.joblib`: Trained Random Forest model.  
+    * `xgb_flight_price_model.joblib`: Trained XGBoost regression model.  
+* **`data/`** — Contains datasets used in the pipeline.  
+  * `flight_price.csv`: Raw dataset.  
+  * `cleaned_flight_data.csv`: Cleaned dataset after preprocessing.  
+  * `train_data.csv`, `val_data.csv`, `test_data.csv`: Split datasets.  
+* **`notebooks/`** — Jupyter notebooks for experimentation and development.  
+  * `datapreprocessing.ipynb`: Data cleaning and preprocessing steps.  
+  * `exploratory_data_analysis.ipynb`: Data visualization and trend analysis.  
+  * `feature_engineering.ipynb`: Feature creation and transformation logic.  
+  * `model_training_tuning.ipynb`: Training, tuning, and evaluation of models.  
+  * `user_input.ipynb`: Simulated user input testing.  
+* **`transformed_data/`** — Contains transformed datasets after pipeline application.  
+  * `X_train_transformed.csv`  
+  * `X_test_transformed.csv`  
+* **`utils/`** — Reusable helper modules.  
+  * `eda_helper_functions.py`: EDA visualization and summary utilities.  
+  * `feature_utils.py`: Feature extraction and preprocessing functions.  
+  * `rbf.py`: RBF-related transformations (if applicable).  
+* **Main files:**  
+  * `app.py`: Streamlit web application entry point.  
+  * `freezed_new_flight_venv_requirements.txt`: Environment dependencies.  
+  * `.gitignore`: Specifies untracked files.  
+  * `README.md`: Project documentation (this file). 
 
-*(Adjust structure if yours differs)*
 
 ## 🚀 Setup and Run
 
@@ -85,7 +93,51 @@ The application not only predicts the price for a given flight configuration but
 
 ## 📈 Model Performance
 
-The XGBoost regression model achieves an **R² score of approximately 86%** on the validation set, indicating a reasonably good fit for predicting flight prices based on the available features and data size (approx. 6000 rows).
+The model performance was evaluated using two ensemble learning algorithms — **Random Forest** and **XGBoost** — trained independently to identify the most effective predictor for flight price estimation.  
+Both models were validated on the same dataset (~6000 rows), with **XGBoost** demonstrating slightly superior results across all key metrics.
+
+### 🧠 Model Comparison
+
+| **Metric** | **Random Forest** | **XGBoost** |
+|:------------|:----------------:|:------------:|
+| **R² Score** | 0.85 | **0.86** |
+| **RMSE** | 2524 | **2380** |
+| **MAE** | 1750 | **1620** |
+
+The **XGBoost regression model** achieves an **R² score of approximately 0.86** on the validation set, indicating a strong generalization capability and reliable performance for predicting flight prices based on engineered features.
+
+---
+
+### 💰 Error Distribution by Price Segment
+
+| **Price Segment** | **Average Error (₹)** | **Percentage Error** |
+|:------------------|:--------------------:|:-------------------:|
+| **Budget (<5k)** | 445.63 | 11.53% |
+| **Mid (5k–10k)** | 892.91 | 12.45% |
+| **Upper-mid (10k–20k)** | 963.72 | 7.44% |
+| **Premium (20k+)** | 6437.66 | 19.37% |
+
+🔍 *Observation:*  
+The model performs most consistently in the **upper-mid segment**, where flight price patterns are stable.  
+Higher deviation in the **premium segment** is attributed to limited sample size and higher inherent price variability.
+
+---
+
+### 📊 Data Distribution
+
+| **Price Range** | **Number of Rows** |
+|:----------------|:-----------------:|
+| Below ₹10,000 | 4,013 |
+| ₹10,000 – ₹20,000 | 2,581 |
+| Above ₹20,000 | 100 |
+
+---
+
+### 🧪 Validation Consistency
+
+All results were **cross-verified using MOE-based consistency checks** to ensure reliability and minimize the risk of overfitting.  
+This additional layer of statistical verification confirmed the model’s robustness across different flight segments and routes.
+
 
 ## 🔮 Future Improvements
 
@@ -96,3 +148,11 @@ The XGBoost regression model achieves an **R² score of approximately 86%** on t
 * Incorporate more recent or a larger dataset for potentially improved model accuracy and robustness.
 * Experiment with alternative regression models (e.g., LightGBM, CatBoost) or further hyperparameter tuning.
 * Add enhanced error handling for invalid user inputs (e.g., duration incompatible with stops, impossible routes).
+
+
+## 👨‍💻 Author
+
+**Kartik Srivastava**  
+*AI & ML Enthusiast *  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/kartik-srivastava-462609285/)

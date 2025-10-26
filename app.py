@@ -10,12 +10,12 @@ import time
 from datetime import datetime
 import plotly.express as px
 import plotly.graph_objects as go
-import shap  # For SHAP
-import matplotlib.pyplot as plt  # For SHAP
-import numpy as np  # For SHAP
-from scipy.stats import percentileofscore # For Gauge
+import shap  
+import matplotlib.pyplot as plt  
+import numpy as np  
+from scipy.stats import percentileofscore 
 
-# Add utils path
+# Adding utils path
 sys.path.append(os.path.abspath(os.path.join(os.getcwd(), '..')))
 
 from utils.feature_utils import (
@@ -25,9 +25,8 @@ from utils.feature_utils import (
 )
 from utils.rbf import RBFPercentileSimilarity
 
-# --------------------
-# PAGE CONFIG
-# --------------------
+# Page Configuration
+
 st.set_page_config(
     page_title="Flight Price Predictor",
     page_icon="✈️",
@@ -35,9 +34,8 @@ st.set_page_config(
 )
 
 
-# --------------------
 # CUSTOM CSS
-# --------------------
+
 st.markdown("""
     <style>
         /* Black background */
@@ -112,9 +110,8 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-# --------------------
-# LOAD MODELS
-# --------------------
+# LOADING MODELS
+
 @st.cache_resource
 def load_models():
     column_transformer = joblib.load(os.path.join("artifacts", "column_transformer.joblib"))
@@ -124,12 +121,11 @@ def load_models():
 column_transformer, final_model = load_models()
 
 
-@st.cache_data  # Use cache_data for dataframes
+@st.cache_data 
 def load_training_data():
-    # --- IMPORTANT: Path to your training data ---
+
     data_path = "data/train_data.csv"
     
-    # --- UPDATED: Added all columns needed for SHAP background and Tab 5 ---
     required_cols = [
         'price', 'duration', 'source', 'destination', 'total_stops', 'dtoj_month',
         'airline', 'additional_info', 'dep_time_hour', 'dtoj_day'
@@ -141,41 +137,36 @@ def load_training_data():
         st.error(f"Error: Training data file not found at {data_path}")
         return pd.DataFrame()
 
-    # Basic check
     if not all(col in train_df.columns for col in required_cols):
         missing = [col for col in required_cols if col not in train_df.columns]
         st.error(f"Error: The training data file is missing required columns: {missing}")
         return pd.DataFrame()
         
-    # Assuming 'source' and 'destination' might be different cases, standardize them
     train_df['source'] = train_df['source'].str.lower()
     train_df['destination'] = train_df['destination'].str.lower()
     return train_df
 
-# Load the data
+
 train_df = load_training_data()
 
 
-# --- START: SHAP HELPER FUNCTION ---
 @st.cache_resource
 def load_shap_explainer(_model, _transformer):
     """
     Creates and caches a SHAP TreeExplainer.
     """
-    # 1. Load the raw training data
+    
     bg_data_raw = load_training_data()
     if bg_data_raw.empty:
         st.warning("SHAP Explainer could not be loaded as training data is missing.")
         return None
 
-    # 2. Replicate the *exact* feature engineering from the 'if submitted' block
     if len(bg_data_raw) > 500:
         bg_sample = bg_data_raw.sample(500, random_state=42)
     else:
         bg_sample = bg_data_raw.copy()
 
-    # --- Replicating your FE pipeline ---
-    bg_sample['dtoj_year'] = 2019  # Hardcoded, just like in your prediction logic
+    bg_sample['dtoj_year'] = 2019 
     
     bg_sample = bg_sample.assign(
         date=pd.to_datetime(bg_sample.rename(columns={
@@ -186,21 +177,16 @@ def load_shap_explainer(_model, _transformer):
     )
     bg_sample = bg_sample.assign(is_weekend=bg_sample['date'].dt.weekday >= 5)
     bg_sample.drop(columns=['dtoj_year', 'price'], inplace=True, errors='ignore') 
-    # --- End of FE pipeline ---
-    
-    # 3. Transform the background data
+
     try:
         bg_data_transformed = _transformer.transform(bg_sample)
     except Exception as e:
         st.error(f"SHAP Error: Failed to transform background data. Mismatch in columns? Error: {e}")
         return None
     
-    # 4. Create and return the explainer
     return shap.TreeExplainer(_model, bg_data_transformed)
-# --- END: SHAP HELPER FUNCTION ---
 
 
-# --- START: NEW GAUGE PLOT FUNCTION ---
 def create_deal_gauge(price, historical_prices):
     """
     Creates a Plotly Gauge chart to show how good the deal is.
@@ -208,7 +194,6 @@ def create_deal_gauge(price, historical_prices):
     if historical_prices.empty:
         return None
         
-    # Calculate percentile: "what percentage of flights are CHEAPER than this one?"
     perc = percentileofscore(historical_prices, price)
     
     if perc <= 25:
@@ -256,10 +241,8 @@ def create_deal_gauge(price, historical_prices):
         height=300
     )
     return fig
-# --- END: NEW GAUGE PLOT FUNCTION ---
 
 
-# --- START: NEW GLOBAL SHAP PLOT FUNCTION ---
 @st.cache_resource
 def generate_global_shap_plot(_explainer, _transformer):
     """
@@ -269,14 +252,12 @@ def generate_global_shap_plot(_explainer, _transformer):
         return None
         
     try:
-        # 1. Load and sample data (same as in explainer)
         bg_data_raw = load_training_data()
         if len(bg_data_raw) > 500:
             bg_sample = bg_data_raw.sample(500, random_state=42)
         else:
             bg_sample = bg_data_raw.copy()
             
-        # 2. Transform data (same as in explainer)
         bg_sample_fe = bg_sample.copy()
         bg_sample_fe['dtoj_year'] = 2019
         bg_sample_fe = bg_sample_fe.assign(
@@ -289,18 +270,14 @@ def generate_global_shap_plot(_explainer, _transformer):
         
         bg_transformed = _transformer.transform(bg_sample_fe)
         
-        # 3. Get SHAP values for the sample
         shap_values = _explainer.shap_values(bg_transformed)
         
-        # 4. Create the plot
         fig, ax = plt.subplots()
         fig.patch.set_alpha(0.0)
         ax.patch.set_alpha(0.0)
         
-        # We pass the transformed data for coloring
         shap.summary_plot(shap_values, bg_transformed, plot_type="dot", show=False)
         
-        # Style for dark theme
         for text in ax.get_xticklabels() + ax.get_yticklabels():
             text.set_color("#00ffcc")
         ax.xaxis.label.set_color("#00ffcc")
@@ -311,17 +288,14 @@ def generate_global_shap_plot(_explainer, _transformer):
     except Exception as e:
         st.error(f"Error creating global SHAP plot: {e}")
         return None
-# --- END: NEW GLOBAL SHAP PLOT FUNCTION ---
 
 
-# --- START: LOAD SHAP EXPLAINER ---
 explainer = load_shap_explainer(final_model, column_transformer)
-# --- END: LOAD SHAP EXPLAINER ---
 
 
-# --------------------
-# HELPER FUNCTION
-# --------------------
+
+# HELPER FUNCTIONS
+
 def get_part_of_day_label(hour):
     """
     Converts a single hour integer into a part-of-day string label.
@@ -336,15 +310,14 @@ def get_part_of_day_label(hour):
         return "Evening"
     return "Unknown"
 
-# --------------------
-# Dropdown Options
-# --------------------
+# DROPDOWN OPTIONS
+
 airline_list = [
     "Indigo", "Air India", "Jet Airways", "Spicejet", 
     "Multiple Carriers", "Goair", "Vistara", "Air Asia", "Trujet"
 ]
-source_list = ["cochin", "banglore", "hyderabad", "newdelhi", "delhi", "kolkata"]
-destination_list = ["delhi", "kolkata", "mumbai", "banglore", "chennai"]
+source_list = ["delhi", "banglore", "mumbai", "chennai", "kolkata"]
+destination_list = ["cochin", "banglore", "delhi", "new delhi", "hyderabad","kolkata"]
 additional_info_list = [
     "no info", "in-flight meal not included", "no check-in baggage included", 
     "1 long layover", "change airports", "business class", 
@@ -352,16 +325,14 @@ additional_info_list = [
 ]
 
 
-# --------------------
 # TITLE
-# --------------------
+
 st.markdown("<h1 style='text-align: center; color: #00ffcc;'>✈️ Flight Price Prediction</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center; color: white;'>Predict your flight ticket prices instantly and plan smarter.</p>", unsafe_allow_html=True)
 st.divider()
 
-# --------------------
 # FORM WITH GRID LAYOUT
-# --------------------
+
 with st.form("flight_input_form1"):
     st.markdown("<div class='highlight-title'>📝 Flight Price Details</div>", unsafe_allow_html=True)
 
@@ -390,15 +361,14 @@ with st.form("flight_input_form1"):
     submitted = st.form_submit_button("🔮 Predict Flight Price")
 
 
-# --------------------
-# PREDICTION + ANIMATION
-# --------------------
+# PREDICTION AND ANIMATION
+
 if submitted:
     dtoj_day = date_input.day
     dtoj_month = date_input.month
     dtoj_year = 2019
 
-    # --- [Your input_df creation and transformation logic... no changes here] ---
+
     input_df = pd.DataFrame({
         'airline': [airline], 'source': [source], 'destination': [destination],
         'duration': [duration], 'total_stops': [total_stops], 'additional_info': [additional_info],
@@ -414,18 +384,15 @@ if submitted:
     input_df.drop(columns=['dtoj_year'], inplace=True)
     input_df_transformed = column_transformer.transform(input_df)
     prediction = final_model.predict(input_df_transformed)[0]
-    # --- [End of your existing logic] ---
 
-
-    # Center result with animation
     result_placeholder = st.empty()
     for i in range(0, int(prediction)+1, max(1, int(prediction)//100)):
         result_placeholder.markdown(f"<div class='result-box'>💰 Predicted Flight Price: ₹{i:,.2f}</div>", unsafe_allow_html=True)
         time.sleep(0.01)
     result_placeholder.markdown(f"<div class='result-box'>💰 Predicted Flight Price: ₹{prediction:,.2f}</div>", unsafe_allow_html=True)
 
-    # --- START: NEW DEAL-O-METER GAUGE ---
-    st.markdown("<br>", unsafe_allow_html=True) # Add a little space
+    # --- START: DEAL-O-METER GAUGE ---
+    st.markdown("<br>", unsafe_allow_html=True) 
     gauge_placeholder = st.empty()
     if 'train_df' not in globals() or train_df.empty:
         st.warning("Could not load historical data for deal comparison.")
@@ -441,12 +408,11 @@ if submitted:
     # --- END: NEW DEAL-O-METER GAUGE ---
 
 
-    # Define standard colors
+    # Defining standard colors
     highlight_color = "#0099FF"  # A richer blue
     default_color = "#00BFA6"     # A darker, richer cyan
     color_map = {default_color: default_color, highlight_color: highlight_color}
 
-    # --- [AIRLINE COMPARISON CHART (Existing) ... No changes] ---
     st.markdown("<div class='highlight-title'>📊 Compare Airlines for Same Journey</div>", unsafe_allow_html=True)
     airline_predictions = []
     for air in airline_list:
@@ -467,7 +433,7 @@ if submitted:
         font_color='#00ffcc', showlegend=False,
         yaxis=dict(gridcolor='rgba(0, 255, 204, 0.2)', showgrid=True),
         xaxis=dict(showgrid=False),
-        bargap=0.3  # --- ADDED: Creates space between bars
+        bargap=0.3  
     )
     fig.update_traces(
         marker_line_color=highlight_color, marker_line_width=1.5,
@@ -476,7 +442,7 @@ if submitted:
     )
     st.plotly_chart(fig, use_container_width=True)
     
-    # --- [BEST OPTION BOX (Existing) ... No changes] ---
+
     best_airline = airline_df.loc[airline_df['Predicted Price'].idxmin()]
     st.markdown(f"""
     <div style="
@@ -490,7 +456,6 @@ if submitted:
     """, unsafe_allow_html=True)
 
 
-    # --- START: 5-TAB INSIGHTS SECTION ---
     st.divider()
     st.markdown("<div class='highlight-title'>💡 Deeper Price Insights</div>", unsafe_allow_html=True)
     
@@ -502,7 +467,7 @@ if submitted:
         "🔍 Prediction Context"
     ])
 
-    # --- [Tabs 1-4 with .info-box] ---
+
     with tab1:
         st.markdown("<h3 style='text-align: center; color: #00ffcc;'>Check Price by Departure Time</h3>", unsafe_allow_html=True)
         time_buckets = [(6, "Morning"), (12, "Afternoon"), (18, "Evening"), (22, "Night")]
@@ -575,16 +540,16 @@ if submitted:
         st.plotly_chart(fig4, use_container_width=True)
         st.markdown("<div class='info-box'>Shows price estimates for your selected airline and route, but with different numbers of stops.</div>", unsafe_allow_html=True)
 
-# --- START: UPDATED TAB 4 (FLEXIBLE SOURCES) ---
+
     with tab4:
         st.markdown("<h3 style='text-align: center; color: #00ffcc;'>Check Prices from Other Sources</h3>", unsafe_allow_html=True)
 
         source_predictions = []
 
-        # Use the source_list you defined at the top of your script
+    
         for src in source_list:
             temp_df = input_df.copy()
-            temp_df['source'] = src # <-- Change the source
+            temp_df['source'] = src 
 
             temp_transformed = column_transformer.transform(temp_df)
             pred = final_model.predict(temp_transformed)[0]
@@ -592,8 +557,7 @@ if submitted:
 
         source_df = pd.DataFrame(source_predictions, columns=['Source', 'Predicted Price'])
 
-        # Highlight the user's original selection
-        user_source_label = source.title() # 'source' is from the form
+        user_source_label = source.title() 
         source_df['Color'] = default_color
         source_df.loc[source_df['Source'] == user_source_label, 'Color'] = highlight_color
 
@@ -605,22 +569,21 @@ if submitted:
             plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)',
             font_color='#00ffcc', showlegend=False,
             yaxis=dict(gridcolor='rgba(0, 255, 204, 0.2)', title='Predicted Price (₹)'),
-            xaxis=dict(showgrid=False, title='Source City'), # <-- Changed label
+            xaxis=dict(showgrid=False, title='Source City'), 
             bargap=0.3
         )
         fig5.update_traces(marker_line_color=highlight_color, marker_line_width=1.5, texttemplate='₹%{text:,.0f}', textposition='outside', hovertemplate='<b>%{x}</b><br>Price: ₹%{y:,.2f}<extra></extra>')
         st.plotly_chart(fig5, use_container_width=True)
-        # --- Changed info text ---
         st.markdown("<div class='info-box'>Shows estimates for flying to your chosen destination from other source cities on the same day.</div>", unsafe_allow_html=True)
-    # --- END: UPDATED TAB 4 ---
+
 
     with tab5:
-        # ... [Your existing code for Tab 5, including the month toggle] ...
+
         st.markdown("<h3 style='text-align: center; color: #00ffcc;'>Validating Your Prediction</h3>", unsafe_allow_html=True)
         if 'train_df' not in globals() or train_df.empty:
             st.warning("Could not load historical data for comparison.")
         else:
-            # --- Analysis 1: Route-Specific Analysis (WITH MONTH TOGGLE) ---
+
             st.markdown("<h4 style='text-align: center; color: #00ffcc;'>1. Analysis for Your Route</h4>", unsafe_allow_html=True)
             user_month = date_input.month
             month_name = date_input.strftime("%B")
@@ -652,7 +615,7 @@ if submitted:
                 st.markdown("<div class='info-box'>This plot shows all historical flights on your route. Your predicted flight (the green star) is plotted to see how it compares. Use the toggle to see data for a specific month.</div>", unsafe_allow_html=True)
 
 
-            # --- Analysis 2: Structurally-Similar Flights Analysis (No Change) ---
+
             st.markdown("<h4 style='text-align: center; color: #00ffcc; margin-top: 30px;'>2. Analysis for Similar Duration Flights (Any Route)</h4>", unsafe_allow_html=True)
             duration_margin = 50 
             duration_min = duration - duration_margin
@@ -677,10 +640,10 @@ if submitted:
                 fig7.update_layout(plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)', font_color='#00ffcc', showlegend=True, legend=dict(title='Total Stops', orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1))
                 st.plotly_chart(fig7, use_container_width=True)
                 st.markdown("<div class='info-box'>This chart shows all historical flights (regardless of route) that have a similar duration to yours. Your flight is the green star.</div>", unsafe_allow_html=True)
-    # --- END: 5-TAB INSIGHTS SECTION ---
 
 
-    # --- START: SHAP WATERFALL PLOT SECTION (No Change) ---
+
+
     st.divider()
     st.markdown("<div class='highlight-title'>💲 Price Breakdown (Why This Price?)</div>", unsafe_allow_html=True)
     
@@ -715,7 +678,7 @@ if submitted:
             ax.yaxis.label.set_color("#00ffcc")
             
             st.pyplot(fig, bbox_inches='tight')
-            plt.close(fig) # Clear the figure
+            plt.close(fig) 
             
             info_text = (
                 "This chart shows how the model's features contributed to the final price. "
@@ -727,7 +690,7 @@ if submitted:
 
         except Exception as e:
             st.error(f"An error occurred while generating the SHAP plot: {e}")
-    # --- END: SHAP WATERFALL PLOT SECTION ---
+
 
 
     # --- START: NEW GLOBAL SHAP SUMMARY PLOT ---
@@ -737,11 +700,11 @@ if submitted:
     if 'explainer' not in globals() or explainer is None:
         st.warning("The SHAP Explainer is not available. Could not generate the global summary plot.")
     else:
-        # Call the new helper function
+
         fig_summary = generate_global_shap_plot(explainer, column_transformer)
         if fig_summary:
             st.pyplot(fig_summary, bbox_inches='tight')
-            plt.close(fig_summary) # Clear the figure
+             
             
             summary_info = (
                 "This plot shows the most important features for the model *overall*.<br><br>"
@@ -752,4 +715,5 @@ if submitted:
                 "<b>Example:</b> A row with red dots on the right and blue dots on the left proves the model learned a logical rule (e.g., 'high duration = high price')."
             )
             st.markdown(f"<div class='info-box'>{summary_info}</div>", unsafe_allow_html=True)
-    # --- END: NEW GLOBAL SHAP SUMMARY PLOT ---
+    # --- END: NEW GLOBAL SHAP SUMMARY PLOT --- 
+    
